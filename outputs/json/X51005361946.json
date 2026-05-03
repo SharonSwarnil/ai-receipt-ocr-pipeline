@@ -1,0 +1,57 @@
+{
+  "source_file": "X51005361946.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 43,
+    "line_count": 28,
+    "mean_confidence": 0.9467,
+    "variant_score": 0.7651
+  },
+  "store_name": {
+    "value": "MRD.I.Y(M)SDNBHD",
+    "confidence": 0.9189,
+    "raw_text": "MRD.I.Y（M）SDNBHD"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [
+    {
+      "name": "WA 03-24/",
+      "price": "11.20",
+      "confidence": 0.9082,
+      "raw_text": "WA03-24/240 || 9555221301081 4X2.8011.20"
+    },
+    {
+      "name": "AD 51-24/",
+      "price": "3.00",
+      "confidence": 0.9065,
+      "raw_text": "AD51-24/360 || 9064422 2X1.50 3.00"
+    },
+    {
+      "name": "TRAILING SKT 5 GN+SP",
+      "price": "1.25",
+      "confidence": 0.8735,
+      "raw_text": "TRAILING SKT 5GN+SP 3X1.25MM CA3LE 2 *S"
+    },
+    {
+      "name": "WA 27",
+      "price": "22.90",
+      "confidence": 0.9079,
+      "raw_text": "WA27-20 || 9553114461966 1X22.90 22.90"
+    }
+  ],
+  "items_confidence": 0.899,
+  "total_amount": {
+    "value": "37.10",
+    "confidence": 0.99,
+    "raw_text": "Total Incl,GST@6% RM37.10"
+  },
+  "low_confidence_fields": [
+    "date"
+  ],
+  "conflicts": [],
+  "notes": []
+}

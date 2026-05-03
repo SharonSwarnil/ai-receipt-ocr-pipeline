@@ -1,0 +1,46 @@
+{
+  "source_file": "X51005724624.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 74,
+    "line_count": 36,
+    "mean_confidence": 0.9783,
+    "variant_score": 0.9213
+  },
+  "store_name": {
+    "value": "KEDAIPAPANYEWCHUAN",
+    "confidence": 0.99,
+    "raw_text": "KEDAIPAPANYEWCHUAN"
+  },
+  "date": {
+    "value": "2018-03-16",
+    "confidence": 0.9773,
+    "raw_text": "Doc No. ：CS00010855 Date:16/03/2018"
+  },
+  "items": [
+    {
+      "name": "BESIY 12(CQ)",
+      "price": "33.92",
+      "confidence": 0.8937,
+      "raw_text": "BESIY12(CQ) || 100135 4 8.00 8.48 33.92 SR"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.00",
+      "confidence": 0.9146,
+      "raw_text": "Rounding : 0.00"
+    }
+  ],
+  "items_confidence": 0.9041,
+  "total_amount": {
+    "value": "7.68",
+    "confidence": 0.99,
+    "raw_text": "Total: 128.00 7.68"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 135.68 from 'Total Sales (lnclusive of GsT) : 135.68'",
+    "Competing total candidate 128.00 from 'Total Sales (Excluding GST): 128.00'"
+  ],
+  "notes": []
+}

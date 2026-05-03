@@ -1,0 +1,63 @@
+{
+  "source_file": "X51005711403.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 52,
+    "line_count": 26,
+    "mean_confidence": 0.9759,
+    "variant_score": 0.8652
+  },
+  "store_name": {
+    "value": "RESTORAN WAN SHENG",
+    "confidence": 0.99,
+    "raw_text": "RESTORAN WAN SHENG"
+  },
+  "date": {
+    "value": "2018-03-19",
+    "confidence": 0.9889,
+    "raw_text": "Date :19-03-2018 11:12:15"
+  },
+  "items": [
+    {
+      "name": "Teh (B)",
+      "price": "4.40",
+      "confidence": 0.8823,
+      "raw_text": "Teh (B) || 2x 2.20 4.40 SR"
+    },
+    {
+      "name": "Cham (B)",
+      "price": "2.20",
+      "confidence": 0.9022,
+      "raw_text": "Cham (B) || 1x 2.20 2.20 SR"
+    },
+    {
+      "name": "Herbal Tea",
+      "price": "1.70",
+      "confidence": 0.8756,
+      "raw_text": "Herbal Tea || 1x 1.70 1.70 SR"
+    },
+    {
+      "name": "Take Away",
+      "price": "0.80",
+      "confidence": 0.9076,
+      "raw_text": "Take Away || 0.20 0.80 SR"
+    },
+    {
+      "name": "GST payable (6%)",
+      "price": "0.51",
+      "confidence": 0.9246,
+      "raw_text": "GST payable (6%): 0.51"
+    }
+  ],
+  "items_confidence": 0.8985,
+  "total_amount": {
+    "value": "9.10",
+    "confidence": 0.99,
+    "raw_text": "Total (Inclusive of GST): 9.10"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 8.59 from 'Total (Excluding GST): 8.59'"
+  ],
+  "notes": []
+}

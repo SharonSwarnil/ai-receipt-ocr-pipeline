@@ -1,0 +1,46 @@
+{
+  "source_file": "X51005676544.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 59,
+    "line_count": 29,
+    "mean_confidence": 0.9826,
+    "variant_score": 0.8792
+  },
+  "store_name": {
+    "value": "SYARIKATPERNIAGAANGINKEE",
+    "confidence": 0.99,
+    "raw_text": "SYARIKATPERNIAGAANGINKEE"
+  },
+  "date": {
+    "value": "2018-02-01",
+    "confidence": 0.99,
+    "raw_text": "DocNo. CS00012494 Date:02/01/2018"
+  },
+  "items": [
+    {
+      "name": "TotalSales(ExcludingGST)",
+      "price": "2.00",
+      "confidence": 0.9153,
+      "raw_text": "TotalSales(ExcludingGST) 2.00"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.00",
+      "confidence": 0.9294,
+      "raw_text": "Rounding 0.00"
+    }
+  ],
+  "items_confidence": 0.9224,
+  "total_amount": {
+    "value": "0.12",
+    "confidence": 0.99,
+    "raw_text": "Total : 2.00 0.12"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 2.12 from 'Total Sales(Inclusiveof GsT) 2.12'",
+    "Competing total candidate 2.12 from 'Total Qty: 1 2.12'"
+  ],
+  "notes": []
+}

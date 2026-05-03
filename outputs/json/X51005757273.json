@@ -1,0 +1,37 @@
+{
+  "source_file": "X51005757273.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 32,
+    "line_count": 22,
+    "mean_confidence": 0.9558,
+    "variant_score": 0.716
+  },
+  "store_name": {
+    "value": "MR.D.I.Y.(KUCHAI) SDN BHD",
+    "confidence": 0.99,
+    "raw_text": "MR.D.I.Y.（KUCHAI) SDN BHD"
+  },
+  "date": {
+    "value": "2018-12-03",
+    "confidence": 0.876,
+    "raw_text": "12-03-18 14:37 SH02 B011 T1 R000183898"
+  },
+  "items": [
+    {
+      "name": "WA 05",
+      "price": "45.00",
+      "confidence": 0.9059,
+      "raw_text": "WA05-12 || 9556268000210 3 X 15.0045.00"
+    }
+  ],
+  "items_confidence": 0.9059,
+  "total_amount": {
+    "value": "45.00",
+    "confidence": 0.99,
+    "raw_text": "TOTAL INCL. GST@6% RM 45.00"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

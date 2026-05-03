@@ -1,0 +1,47 @@
+{
+  "source_file": "X51005442383.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 51,
+    "line_count": 22,
+    "mean_confidence": 0.9469,
+    "variant_score": 0.8313
+  },
+  "store_name": {
+    "value": "CARREFOUR RESTAURANT 2",
+    "confidence": 0.9692,
+    "raw_text": "CARREFOUR RESTAURANT 2"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [
+    {
+      "name": "MEMBERPOINTS",
+      "price": "0.00",
+      "confidence": 0.8967,
+      "raw_text": "MEMBERPOINTS:0.00 RECEIPT"
+    },
+    {
+      "name": "豆奶仙草",
+      "price": "10.00",
+      "confidence": 0.9256,
+      "raw_text": "豆奶仙草 10.00 AMOUNT"
+    }
+  ],
+  "items_confidence": 0.9112,
+  "total_amount": {
+    "value": "10.00",
+    "confidence": 0.99,
+    "raw_text": "TOTAL QIY: 3.00 10.00"
+  },
+  "low_confidence_fields": [
+    "date"
+  ],
+  "conflicts": [
+    "Competing total candidate 0.00 from 'TOTAL ROUNDING: 0.78 0.00'"
+  ],
+  "notes": []
+}

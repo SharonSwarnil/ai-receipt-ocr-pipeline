@@ -1,0 +1,57 @@
+{
+  "source_file": "X51005711441.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 44,
+    "line_count": 24,
+    "mean_confidence": 0.9814,
+    "variant_score": 0.8509
+  },
+  "store_name": {
+    "value": "RESTORAN WAN SHENG",
+    "confidence": 0.99,
+    "raw_text": "RESTORAN WAN SHENG"
+  },
+  "date": {
+    "value": "2018-03-21",
+    "confidence": 0.981,
+    "raw_text": "Date  : 21-03-2018 16:08:24"
+  },
+  "items": [
+    {
+      "name": "Teh (B)",
+      "price": "4.40",
+      "confidence": 0.911,
+      "raw_text": "Teh (B) || 2 x 2.20 4.40 SR"
+    },
+    {
+      "name": "Bunga Kekwa",
+      "price": "1.70",
+      "confidence": 0.8904,
+      "raw_text": "Bunga Kekwa || 1 x 1.70 1.70 SR"
+    },
+    {
+      "name": "Take Away",
+      "price": "0.60",
+      "confidence": 0.9076,
+      "raw_text": "Take Away || 3 x 0.20 0.60 SR"
+    },
+    {
+      "name": "GST payable (6 x)",
+      "price": "0.37",
+      "confidence": 0.9195,
+      "raw_text": "GST payable (6x): 0.37"
+    }
+  ],
+  "items_confidence": 0.9071,
+  "total_amount": {
+    "value": "6.70",
+    "confidence": 0.99,
+    "raw_text": "Total (Inclusive of GST): 6.70"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 6.33 from 'Total (Excluding GST): 6.33'"
+  ],
+  "notes": []
+}

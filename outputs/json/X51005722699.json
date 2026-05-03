@@ -1,0 +1,43 @@
+{
+  "source_file": "X51005722699.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 38,
+    "line_count": 25,
+    "mean_confidence": 0.9777,
+    "variant_score": 0.7923
+  },
+  "store_name": {
+    "value": "POPULAR BOOK",
+    "confidence": 0.99,
+    "raw_text": "POPULAR BOOK"
+  },
+  "date": {
+    "value": "2018-11-02",
+    "confidence": 0.841,
+    "raw_text": "11/02/18 19:21 Slip No.: 6030098553"
+  },
+  "items": [
+    {
+      "name": "PB D/S Tape 12 mm",
+      "price": "1.90",
+      "confidence": 0.9105,
+      "raw_text": "PB D/S Tape 12mm 1.90 T"
+    },
+    {
+      "name": "H/C A 4 400'S",
+      "price": "9.90",
+      "confidence": 0.9282,
+      "raw_text": "H/C A4 400'S 9.90 T"
+    }
+  ],
+  "items_confidence": 0.9194,
+  "total_amount": {
+    "value": "11.80",
+    "confidence": 0.99,
+    "raw_text": "Total RM Incl. of GST 11.80"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

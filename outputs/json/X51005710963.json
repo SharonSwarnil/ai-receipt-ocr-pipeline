@@ -1,0 +1,55 @@
+{
+  "source_file": "X51005710963.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 52,
+    "line_count": 29,
+    "mean_confidence": 0.9653,
+    "variant_score": 0.8488
+  },
+  "store_name": {
+    "value": "PUSAT BANDAR PUCHONG",
+    "confidence": 0.9838,
+    "raw_text": "PUSAT BANDAR PUCHONG"
+  },
+  "date": {
+    "value": "2018-03-21",
+    "confidence": 0.9754,
+    "raw_text": "RECEIPT #: CS00032256 DATE:21/03/2018"
+  },
+  "items": [
+    {
+      "name": "(RM) (RM)",
+      "price": "7.00",
+      "confidence": 0.9085,
+      "raw_text": "(RM) (RM) || 2017 1 7.00 7.00"
+    },
+    {
+      "name": "SUR-TOTAL",
+      "price": "7.00",
+      "confidence": 0.9158,
+      "raw_text": "SUR-TOTAL 7.00"
+    },
+    {
+      "name": "DISC",
+      "price": "0.00",
+      "confidence": 0.9175,
+      "raw_text": "DISC 0.00"
+    },
+    {
+      "name": "ROUNDING",
+      "price": "0.02",
+      "confidence": 0.9105,
+      "raw_text": "ROUNDING -0.02"
+    }
+  ],
+  "items_confidence": 0.9131,
+  "total_amount": {
+    "value": "7.40",
+    "confidence": 0.99,
+    "raw_text": "TOTAL 7.40"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

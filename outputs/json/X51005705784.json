@@ -1,0 +1,81 @@
+{
+  "source_file": "X51005705784.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 84,
+    "line_count": 41,
+    "mean_confidence": 0.9669,
+    "variant_score": 0.9365
+  },
+  "store_name": {
+    "value": "(EDAI BUKU NEW ACHEIVERS",
+    "confidence": 0.99,
+    "raw_text": "(EDAI BUKU NEW ACHEIVERS"
+  },
+  "date": {
+    "value": "2017-09-15",
+    "confidence": 0.9383,
+    "raw_text": ")erson: Date: 15/09/2017"
+  },
+  "items": [
+    {
+      "name": "ON ENVOLOPE 4 X 9 WiNDOW 20.S",
+      "price": "12.08",
+      "confidence": 0.9002,
+      "raw_text": "ON ENVOLOPE 4X9 WiNDOW 20.S || 12363087 3 3.80 4.03 12.08"
+    },
+    {
+      "name": "3 SEASONSHARD COVER BOOK",
+      "price": "8.37",
+      "confidence": 0.8942,
+      "raw_text": "3 SEASONSHARD COVER BOOK 3007 || 70448257 1 7.90 8.37 8.37"
+    },
+    {
+      "name": "P RWT HaRDCOVER FOOLSCAP 300,S 2613 B",
+      "price": "8.68",
+      "confidence": 0.8745,
+      "raw_text": "P RWT HaRDCOVER FOOLSCAP 300,S 2613B || 1300514 3 2.73 2.89 8.68"
+    },
+    {
+      "name": "O SHARPIE FINE PERMANENT MARKER",
+      "price": "8.68",
+      "confidence": 0.8651,
+      "raw_text": "O SHARPIE FINE PERMANENT MARKER || 1300637 3 2.73 2.89 8.68"
+    },
+    {
+      "name": "TOT QTY",
+      "price": "48.00",
+      "confidence": 0.9139,
+      "raw_text": "TOT QTY: 13 48.00"
+    },
+    {
+      "name": "(Excluded GST) Sub Total",
+      "price": "45.28",
+      "confidence": 0.922,
+      "raw_text": "(Excluded GST) Sub Total : 45.28"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.00",
+      "confidence": 0.9093,
+      "raw_text": "Rounding 0.00"
+    },
+    {
+      "name": "Code % Amount GST",
+      "price": "2.72",
+      "confidence": 0.9116,
+      "raw_text": "Code % Amount GST || 6 45.28 2.72"
+    }
+  ],
+  "items_confidence": 0.8988,
+  "total_amount": {
+    "value": "2.72",
+    "confidence": 0.99,
+    "raw_text": "Total :: 45.28 2.72"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 48.00 from 'Total 48.00'"
+  ],
+  "notes": []
+}

@@ -1,0 +1,46 @@
+{
+  "source_file": "X51005676537.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 64,
+    "line_count": 31,
+    "mean_confidence": 0.986,
+    "variant_score": 0.8975
+  },
+  "store_name": {
+    "value": "SYARIKAT PERNIAGAAN GIN KEE",
+    "confidence": 0.99,
+    "raw_text": "SYARIKAT PERNIAGAAN GIN KEE"
+  },
+  "date": {
+    "value": "2018-03-01",
+    "confidence": 0.9884,
+    "raw_text": "Doc No CS00012518 Date: 03/01/2018"
+  },
+  "items": [
+    {
+      "name": "5 LTBIGTREEHIGH GLOSSPAINT",
+      "price": "4.24",
+      "confidence": 0.907,
+      "raw_text": "5LTBIGTREEHIGH GLOSSPAINT || 1611 1 4.24 4.24 SR"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.00",
+      "confidence": 0.9298,
+      "raw_text": "Rounding 0.00"
+    }
+  ],
+  "items_confidence": 0.9184,
+  "total_amount": {
+    "value": "5.34",
+    "confidence": 0.99,
+    "raw_text": "Total : 89.00 5.34"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 94.34 from 'Total Qty. 94.34'",
+    "Competing total candidate 89.00 from 'Total Sales (Excluding GST) 89.00'"
+  ],
+  "notes": []
+}

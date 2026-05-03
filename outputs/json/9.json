@@ -1,0 +1,163 @@
+{
+  "source_file": "9.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 102,
+    "line_count": 39,
+    "mean_confidence": 0.9719,
+    "variant_score": 0.8768
+  },
+  "store_name": {
+    "value": "FOODS",
+    "confidence": 0.99,
+    "raw_text": "FOODS"
+  },
+  "date": {
+    "value": "2014-09-08",
+    "confidence": 0.823,
+    "raw_text": "09/08/14 11:16:24"
+  },
+  "items": [
+    {
+      "name": "N/YORK TXGRLC",
+      "price": "2.18",
+      "confidence": 0.916,
+      "raw_text": "N/YORK TXGRLC 1045900558 2.18FS"
+    },
+    {
+      "name": "PICSWEET BLEND",
+      "price": "5.39",
+      "confidence": 0.921,
+      "raw_text": "PICSWEET BLEND 7056096902 5.39FS"
+    },
+    {
+      "name": "2.68 FS",
+      "price": "2.56",
+      "confidence": 0.892,
+      "raw_text": "201.34 2.68FS || 201.28 26840100000 2.56FS"
+    },
+    {
+      "name": "DIET CHICKEN WINGS",
+      "price": "5.48",
+      "confidence": 0.9122,
+      "raw_text": "DIET LNGRNDB20167400000 CHICKEN WINGS 5.48FS"
+    },
+    {
+      "name": "PORK LOIN",
+      "price": "9.91",
+      "confidence": 0.9184,
+      "raw_text": "PORK LOIN CHOP20337400000 26841800000 10.87FS 9.91FS"
+    },
+    {
+      "name": "EYERNDSTKFP DRUMSTICKS",
+      "price": "8.39",
+      "confidence": 0.9233,
+      "raw_text": "EYERNDSTKFP DRUMSTICKS 20148200000 5.32FS 8.39FS"
+    },
+    {
+      "name": "EYE RNDSTKFP",
+      "price": "8.24",
+      "confidence": 0.9191,
+      "raw_text": "EYE RNDSTKFP 20148200000 20254300000 8.24FS"
+    },
+    {
+      "name": "PORK 1/2 LOIN BEEFFORSTEW",
+      "price": "8.12",
+      "confidence": 0.9194,
+      "raw_text": "PORK1/2LOIN BEEFFORSTEW 20323300000 10.48FS 8.12FS"
+    },
+    {
+      "name": "B/BESTSSTEAK",
+      "price": "1.00",
+      "confidence": 0.9255,
+      "raw_text": "B/BESTSSTEAK 4497921020 1.00FS"
+    },
+    {
+      "name": "WINCO NOODLES O/MHAM",
+      "price": "1.68",
+      "confidence": 0.915,
+      "raw_text": "WINCO NOODLES O/MHAM 7055280303 1.68FS"
+    },
+    {
+      "name": "TNDRBRD CHIX",
+      "price": "5.98",
+      "confidence": 0.9126,
+      "raw_text": "TNDRBRD CHIX BR3737101318 2.84 5.98FS"
+    },
+    {
+      "name": "KRFT DELUXE MAC",
+      "price": "3.64",
+      "confidence": 0.9011,
+      "raw_text": "KRFT DELUXE MAC 2100065886 3.64FS"
+    },
+    {
+      "name": "EGGO WAFFLE",
+      "price": "1.96",
+      "confidence": 0.9122,
+      "raw_text": "EGGO WAFFLE 3800037435 1.96FS"
+    },
+    {
+      "name": "L/DNUTTY BARS",
+      "price": "1.25",
+      "confidence": 0.9178,
+      "raw_text": "L/DNUTTY BARS 2430004120 1.25FS"
+    },
+    {
+      "name": "L\\D 0 ATMEAL CRM",
+      "price": "1.25",
+      "confidence": 0.9051,
+      "raw_text": "L\\D 0ATMEAL CRM 2430004101 1.25FS"
+    },
+    {
+      "name": "LINKS MILD",
+      "price": "5.78",
+      "confidence": 0.9192,
+      "raw_text": "LINKS MILD 74295503660 5.78FS"
+    },
+    {
+      "name": "KEEB TOWNHOUSE",
+      "price": "1.98",
+      "confidence": 0.92,
+      "raw_text": "KEEB TOWNHOUSE 3010010055 1.98FS"
+    },
+    {
+      "name": "HUNTS MANWICH",
+      "price": "1.64",
+      "confidence": 0.9118,
+      "raw_text": "HUNTS MANWICH 2700044212 1.64FS"
+    },
+    {
+      "name": "DM PNAPL CHNKY",
+      "price": "1.96",
+      "confidence": 0.9162,
+      "raw_text": "DM PNAPL CHNKY 2400000164 1.96FS"
+    },
+    {
+      "name": "SUNBEAN BUNS",
+      "price": "1.98",
+      "confidence": 0.9235,
+      "raw_text": "SUNBEAN BUNS 7763306333 1.98FS"
+    },
+    {
+      "name": "WINCO HOMO MILK",
+      "price": "2.48",
+      "confidence": 0.8877,
+      "raw_text": "WINCO HOMO MILK 7055240600 2.48FS"
+    },
+    {
+      "name": "EGGS",
+      "price": "1.37",
+      "confidence": 0.9265,
+      "raw_text": "EGGS 7003837280 1.37FS"
+    }
+  ],
+  "items_confidence": 0.9144,
+  "total_amount": {
+    "value": "121.92",
+    "confidence": 0.99,
+    "raw_text": "TOTAL 121.92"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

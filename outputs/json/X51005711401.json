@@ -1,0 +1,51 @@
+{
+  "source_file": "X51005711401.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 39,
+    "line_count": 22,
+    "mean_confidence": 0.9803,
+    "variant_score": 0.8329
+  },
+  "store_name": {
+    "value": "RESTORAN WAN SHENG",
+    "confidence": 0.99,
+    "raw_text": "RESTORAN WAN SHENG"
+  },
+  "date": {
+    "value": "2018-03-19",
+    "confidence": 0.99,
+    "raw_text": "Date : 19-03-2018 18:08:38"
+  },
+  "items": [
+    {
+      "name": "Milo (B)",
+      "price": "5.60",
+      "confidence": 0.8785,
+      "raw_text": "Milo (B) || 2 x 2.80 5.60 SR"
+    },
+    {
+      "name": "Take Away",
+      "price": "0.40",
+      "confidence": 0.907,
+      "raw_text": "Take Away || 2 x 0.20 0.40 SR"
+    },
+    {
+      "name": "GST payab 1 e (6%)",
+      "price": "0.34",
+      "confidence": 0.918,
+      "raw_text": "GST payab1e (6%): 0.34"
+    }
+  ],
+  "items_confidence": 0.9012,
+  "total_amount": {
+    "value": "6.00",
+    "confidence": 0.99,
+    "raw_text": "Total (Inclusive of GST): 6.00"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 5.66 from 'Total (Excluding GST) : 5.66'"
+  ],
+  "notes": []
+}

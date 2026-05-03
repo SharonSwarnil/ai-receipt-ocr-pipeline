@@ -1,0 +1,51 @@
+{
+  "source_file": "X51005711449.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 41,
+    "line_count": 22,
+    "mean_confidence": 0.9759,
+    "variant_score": 0.8306
+  },
+  "store_name": {
+    "value": "RESTORAN WAN SHENG",
+    "confidence": 0.99,
+    "raw_text": "RESTORAN WAN SHENG"
+  },
+  "date": {
+    "value": "2018-07-03",
+    "confidence": 0.9892,
+    "raw_text": "Date : 07-03-2018 15:34:15"
+  },
+  "items": [
+    {
+      "name": "Teh (B)",
+      "price": "4.40",
+      "confidence": 0.9092,
+      "raw_text": "Teh (B) || 2 x 2.20 4.40 SR"
+    },
+    {
+      "name": "Take Away",
+      "price": "0.40",
+      "confidence": 0.8783,
+      "raw_text": "Take Away || 2 x 0.20 0.40 SR"
+    },
+    {
+      "name": "GST payable (6%)",
+      "price": "0.26",
+      "confidence": 0.9193,
+      "raw_text": "GST payable (6%): 0.26"
+    }
+  ],
+  "items_confidence": 0.9023,
+  "total_amount": {
+    "value": "4.80",
+    "confidence": 0.99,
+    "raw_text": "Total (Inclusive of GST): 4.80"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 4.54 from 'Total (Excluding GST): 4.54'"
+  ],
+  "notes": []
+}

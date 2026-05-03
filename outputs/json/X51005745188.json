@@ -1,0 +1,49 @@
+{
+  "source_file": "X51005745188.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 49,
+    "line_count": 27,
+    "mean_confidence": 0.9677,
+    "variant_score": 0.848
+  },
+  "store_name": {
+    "value": "SLF CASH & CARRY",
+    "confidence": 0.99,
+    "raw_text": "SLF CASH & CARRY"
+  },
+  "date": {
+    "value": "2018-02-02",
+    "confidence": 0.8167,
+    "raw_text": "RECEIPT #:CS00241867 IATE: 02/02/2018"
+  },
+  "items": [
+    {
+      "name": "SUB-TOTAL",
+      "price": "45.28",
+      "confidence": 0.9247,
+      "raw_text": "SUB-TOTAL 45.28"
+    },
+    {
+      "name": "DISC",
+      "price": "0.00",
+      "confidence": 0.913,
+      "raw_text": "DISC 0.00"
+    },
+    {
+      "name": "ROUNDING",
+      "price": "0.00",
+      "confidence": 0.912,
+      "raw_text": "ROUNDING 0.00"
+    }
+  ],
+  "items_confidence": 0.9166,
+  "total_amount": {
+    "value": "48.00",
+    "confidence": 0.99,
+    "raw_text": "TOTAL 48.00"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

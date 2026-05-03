@@ -1,0 +1,105 @@
+{
+  "source_file": "X51005663297.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 155,
+    "line_count": 60,
+    "mean_confidence": 0.973,
+    "variant_score": 0.9816
+  },
+  "store_name": {
+    "value": "BEYONDBROTHERSHARDWARE",
+    "confidence": 0.99,
+    "raw_text": "BEYONDBROTHERSHARDWARE"
+  },
+  "date": {
+    "value": "2018-03-14",
+    "confidence": 0.984,
+    "raw_text": "DocNo. :CS00067741 Date:14/03/2018"
+  },
+  "items": [
+    {
+      "name": "BATUCEMENT(A)600 PCS",
+      "price": "169.60",
+      "confidence": 0.9007,
+      "raw_text": "BATUCEMENT(A)600PCS || 11046 2 80.00 8480 169.60 SR"
+    },
+    {
+      "name": "PASIR HALUS",
+      "price": "101.76",
+      "confidence": 0.9032,
+      "raw_text": "PASIR HALUS || 11000 6 16.00 16 96 101.76 SR"
+    },
+    {
+      "name": "YTLCEMENT 50 KG(NEW PRICE)",
+      "price": "3.18",
+      "confidence": 0.888,
+      "raw_text": "YTLCEMENT 50KG(NEW PRICE) || 11036 1 300 3.18 3.18 SR"
+    },
+    {
+      "name": "KAPURA",
+      "price": "6.36",
+      "confidence": 0.9094,
+      "raw_text": "KAPURA1 || 10012 2 3 00 3.18 6.36 SR"
+    },
+    {
+      "name": "SALUNG TANGAN GETAH(1 PAIR)",
+      "price": "2.12",
+      "confidence": 0.8832,
+      "raw_text": "SALUNG TANGAN GETAH(1PAIR) || 1682 1 2 00 2.12 2.12 SR"
+    },
+    {
+      "name": "BENANG NYLON#1 B",
+      "price": "16.96",
+      "confidence": 0.8902,
+      "raw_text": "BENANG NYLON#1B || 2567 1 16.00 16.96 16.96 SR"
+    },
+    {
+      "name": "GERMANYSUDUPLASTER",
+      "price": "7.31",
+      "confidence": 0.9081,
+      "raw_text": "GERMANYSUDUPLASTER || 2564 1 6.90 7 31 7.31 SR"
+    },
+    {
+      "name": "SUDUPLASTER KAYU (NORMAL)",
+      "price": "4.77",
+      "confidence": 0.8951,
+      "raw_text": "SUDUPLASTER KAYU (NORMAL) || 2686 1 4 50 4.77 4.77 SR"
+    },
+    {
+      "name": "PAPAN SIMEN(HITAM)",
+      "price": "21.09",
+      "confidence": 0.9018,
+      "raw_text": "PAPAN SIMEN(HITAM) || 1521 1 19.90 21.09 21.09 SR"
+    },
+    {
+      "name": "M'MAN RULE TIMBANG 18\"",
+      "price": "106.00",
+      "confidence": 0.8663,
+      "raw_text": "M'MAN RULE TIMBANG 18\" || 3879 1 100.00 106.00 106.00 SR"
+    },
+    {
+      "name": "C KERETATOLAK H/D(OREN)",
+      "price": "1.27",
+      "confidence": 0.8106,
+      "raw_text": "C KERETATOLAK H/D(OREN) || 3416 1 1.20 1.27 1.27 SR"
+    },
+    {
+      "name": "PAKUKAYU 1(KECIL)",
+      "price": "0.00",
+      "confidence": 0.8993,
+      "raw_text": "PAKUKAYU1(KECIL) || 3432 1 000 0.00 0.00 SR"
+    }
+  ],
+  "items_confidence": 0.888,
+  "total_amount": {
+    "value": "599.43",
+    "confidence": 0.99,
+    "raw_text": "Total Qty: 20 599.43"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 565.50 from 'Total Sales(Excluding GST)： 565.50'"
+  ],
+  "notes": []
+}

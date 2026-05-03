@@ -1,0 +1,61 @@
+{
+  "source_file": "X51005442376.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 39,
+    "line_count": 27,
+    "mean_confidence": 0.9475,
+    "variant_score": 0.8073
+  },
+  "store_name": {
+    "value": null,
+    "confidence": 0.7416,
+    "raw_text": "ltem Qty"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [
+    {
+      "name": "SRI 00100000035-1 Meat+3 Vege Total",
+      "price": "7.10",
+      "confidence": 0.898,
+      "raw_text": "SRI00100000035-1Meat+3Vege Total || $7.10"
+    },
+    {
+      "name": "SR 00100000064-AddVegetable",
+      "price": "7.10",
+      "confidence": 0.919,
+      "raw_text": "SR00100000064-AddVegetable $7.10"
+    },
+    {
+      "name": "TotalAmount",
+      "price": "7.60",
+      "confidence": 0.8807,
+      "raw_text": "TotalAmount:$7.60"
+    },
+    {
+      "name": "GST 6%",
+      "price": "0.43",
+      "confidence": 0.9041,
+      "raw_text": "GST@6%:$0.43"
+    }
+  ],
+  "items_confidence": 0.9005,
+  "total_amount": {
+    "value": "7.60",
+    "confidence": 0.696,
+    "raw_text": "Payment Mode Nett Total:$7.60"
+  },
+  "low_confidence_fields": [
+    "date",
+    "total_amount"
+  ],
+  "conflicts": [
+    "Competing total candidate 0.43 from '0.43'",
+    "Competing total candidate 7.17 from '7.17'"
+  ],
+  "notes": []
+}

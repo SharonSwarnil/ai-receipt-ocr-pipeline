@@ -1,0 +1,43 @@
+{
+  "source_file": "X51005741929.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 44,
+    "line_count": 27,
+    "mean_confidence": 0.9508,
+    "variant_score": 0.7964
+  },
+  "store_name": {
+    "value": "Selangor Darul Ehsan",
+    "confidence": 0.8481,
+    "raw_text": "Selangor Darul Ehsan"
+  },
+  "date": {
+    "value": "2018-01-15",
+    "confidence": 0.9509,
+    "raw_text": "DATE ：15/01/2018 10:59:13"
+  },
+  "items": [
+    {
+      "name": "EVEREADY BAT S/H/D 1 Z 12 BP 4 AAAFA .S",
+      "price": "5.50",
+      "confidence": 0.8648,
+      "raw_text": "EVEREADY BAT S/H/D 1Z12BP4 AAAFA .S || 9556500903668 1 * 5.50 5.50"
+    },
+    {
+      "name": "Rounding Adjustment",
+      "price": "0.00",
+      "confidence": 0.9197,
+      "raw_text": "Rounding Adjustment 0.00"
+    }
+  ],
+  "items_confidence": 0.8923,
+  "total_amount": {
+    "value": "5.50",
+    "confidence": 0.99,
+    "raw_text": "Total After Rounding 5.50"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

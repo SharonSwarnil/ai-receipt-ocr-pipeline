@@ -1,0 +1,55 @@
+{
+  "source_file": "X51005806718.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 50,
+    "line_count": 29,
+    "mean_confidence": 0.9715,
+    "variant_score": 0.8387
+  },
+  "store_name": {
+    "value": "SELANGOR,",
+    "confidence": 0.9495,
+    "raw_text": "SELANGOR,"
+  },
+  "date": {
+    "value": "2018-01-13",
+    "confidence": 0.826,
+    "raw_text": "13/01/2018 11:44:30PM"
+  },
+  "items": [
+    {
+      "name": "2 PKT",
+      "price": "22.00",
+      "confidence": 0.9186,
+      "raw_text": "2  PKT 10.38 20.75 22.00 SR"
+    },
+    {
+      "name": "GST 6% +",
+      "price": "1.25",
+      "confidence": 0.9199,
+      "raw_text": "GST @6% + 1.25"
+    },
+    {
+      "name": "GB 3648-GARBAGE BAG 36 x 48 1 X 15 2 PKT",
+      "price": "18.80",
+      "confidence": 0.9044,
+      "raw_text": "GB3648-GARBAGE BAG 36x48 1X15 2PKT || 8.87 17.74 18.80 SR"
+    },
+    {
+      "name": "GST 6% +",
+      "price": "1.06",
+      "confidence": 0.9264,
+      "raw_text": "GST @6% + 1.06"
+    }
+  ],
+  "items_confidence": 0.9173,
+  "total_amount": {
+    "value": "40.80",
+    "confidence": 0.99,
+    "raw_text": "Total Includes GST 6% 40.80"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

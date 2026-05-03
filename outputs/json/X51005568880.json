@@ -1,0 +1,43 @@
+{
+  "source_file": "X51005568880.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 61,
+    "line_count": 35,
+    "mean_confidence": 0.9635,
+    "variant_score": 0.8324
+  },
+  "store_name": {
+    "value": "MR.D.I.Y(M)SDN BHD",
+    "confidence": 0.99,
+    "raw_text": "MR.D.I.Y(M)SDN BHD"
+  },
+  "date": {
+    "value": "2017-09-19",
+    "confidence": 0.8855,
+    "raw_text": "19-09-17 15:39 SH01 ZJ03 T3 R000100808"
+  },
+  "items": [
+    {
+      "name": "KF 12:- 12/",
+      "price": "1.60",
+      "confidence": 0.8913,
+      "raw_text": "KF12:- 12/240 || 9071872 1 X 1.60 1.60."
+    },
+    {
+      "name": "KH 22 - 10/",
+      "price": "3.30",
+      "confidence": 0.8982,
+      "raw_text": "KH22 - 10/500 || 6909906163102 1 X 3.30 3.30"
+    }
+  ],
+  "items_confidence": 0.8947,
+  "total_amount": {
+    "value": "15.90",
+    "confidence": 0.99,
+    "raw_text": "TOTAL INCL.GSTG6% RM 15.90"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

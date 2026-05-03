@@ -1,0 +1,16 @@
+.packages/
+.venv/
+.venv-test/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.coverage
+coverage.xml
+dataset/
+outputs/visuals/
+AI_OCR_submission.zip
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

@@ -1,0 +1,51 @@
+{
+  "source_file": "X51005712017.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 33,
+    "line_count": 25,
+    "mean_confidence": 0.9769,
+    "variant_score": 0.778
+  },
+  "store_name": {
+    "value": "Gerbang Alaf Restaurants Sdn Bhd",
+    "confidence": 0.9835,
+    "raw_text": "Gerbang Alaf Restaurants Sdn Bhd"
+  },
+  "date": {
+    "value": "2018-03-18",
+    "confidence": 0.8907,
+    "raw_text": "ORD #70 -REG #19- 18/03/2018 23:02:16"
+  },
+  "items": [
+    {
+      "name": "1 L McChicken",
+      "price": "11.10",
+      "confidence": 0.9156,
+      "raw_text": "1 L McChicken 11.10"
+    },
+    {
+      "name": "2 Small Cone",
+      "price": "2.00",
+      "confidence": 0.8839,
+      "raw_text": "2 Small Cone 2.00:"
+    },
+    {
+      "name": "TakeOut Total (incl GST) .",
+      "price": "13.10",
+      "confidence": 0.9113,
+      "raw_text": "TakeOut Total (incl GST) . 13.10"
+    }
+  ],
+  "items_confidence": 0.9036,
+  "total_amount": {
+    "value": "0.74",
+    "confidence": 0.99,
+    "raw_text": "TOTAL INCLUDES 6% GST 0.74"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 13.10 from 'Total. Rounded 13.10'"
+  ],
+  "notes": []
+}

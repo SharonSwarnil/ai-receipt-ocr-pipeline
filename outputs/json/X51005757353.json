@@ -1,0 +1,43 @@
+{
+  "source_file": "X51005757353.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 44,
+    "line_count": 29,
+    "mean_confidence": 0.9706,
+    "variant_score": 0.788
+  },
+  "store_name": {
+    "value": "MR. D.I.Y. (M) SDN BHD",
+    "confidence": 0.9895,
+    "raw_text": "MR. D.I.Y. (M) SDN BHD"
+  },
+  "date": {
+    "value": "2018-03-24",
+    "confidence": 0.8747,
+    "raw_text": "24-03-18 18:10 SH01 ZJ86 T1 R000112046"
+  },
+  "items": [
+    {
+      "name": "UB 52-20/",
+      "price": "3.90",
+      "confidence": 0.9097,
+      "raw_text": "UB52-20/250 || 9072317 1 X 3.90 3.90"
+    },
+    {
+      "name": "UH 32- 10/",
+      "price": "6.50",
+      "confidence": 0.8888,
+      "raw_text": "UH32- 10/150 || 9072318 1 X 6.50 6.50"
+    }
+  ],
+  "items_confidence": 0.8993,
+  "total_amount": {
+    "value": "12.30",
+    "confidence": 0.99,
+    "raw_text": "Total Incl. GST@6% RM 12.30"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

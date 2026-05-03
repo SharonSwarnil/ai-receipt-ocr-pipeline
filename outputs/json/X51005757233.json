@@ -1,0 +1,37 @@
+{
+  "source_file": "X51005757233.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 36,
+    "line_count": 28,
+    "mean_confidence": 0.8984,
+    "variant_score": 0.6844
+  },
+  "store_name": {
+    "value": "Guardian Health And Beauty Sdn fhl",
+    "confidence": 0.876,
+    "raw_text": "Guardian Health And Beauty Sdn fhl"
+  },
+  "date": {
+    "value": "2018-09-03",
+    "confidence": 0.8273,
+    "raw_text": "：18:17. 09/03/18"
+  },
+  "items": [
+    {
+      "name": "G 0 N LR fL",
+      "price": "9.95",
+      "confidence": 0.8465,
+      "raw_text": "121048373 G0N LR fL8 100+20 9.95"
+    }
+  ],
+  "items_confidence": 0.8465,
+  "total_amount": {
+    "value": "9.95",
+    "confidence": 0.99,
+    "raw_text": "TOTAL (GSI INCL) 9.95"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

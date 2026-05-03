@@ -1,0 +1,70 @@
+{
+  "source_file": "X51005361883.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 62,
+    "line_count": 31,
+    "mean_confidence": 0.9835,
+    "variant_score": 0.9026
+  },
+  "store_name": {
+    "value": "TEO HENG STATIONERY8",
+    "confidence": 0.99,
+    "raw_text": "TEO HENG STATIONERY8"
+  },
+  "date": {
+    "value": "2018-01-18",
+    "confidence": 0.986,
+    "raw_text": "ReceiptNo.:CS1801/26874 Date:18/01/2018"
+  },
+  "items": [
+    {
+      "name": "(RM)",
+      "price": "3.30",
+      "confidence": 0.9042,
+      "raw_text": "(RM) || 9557068000035 1 3.50 5.69 3.30"
+    },
+    {
+      "name": "JIANYUSTELLRULER 30 CMTHICK",
+      "price": "1.30",
+      "confidence": 0.9111,
+      "raw_text": "-JIANYUSTELLRULER30CMTHICK || 1 1 1.30 0.00 1.30"
+    },
+    {
+      "name": "SUB-TOTAL(EX)",
+      "price": "4.60",
+      "confidence": 0.9139,
+      "raw_text": "SUB-TOTAL(EX) 4.60"
+    },
+    {
+      "name": "TOTALTAX",
+      "price": "0.28",
+      "confidence": 0.928,
+      "raw_text": "TOTALTAX 0.28"
+    },
+    {
+      "name": "ROUNDING",
+      "price": "0.02",
+      "confidence": 0.9272,
+      "raw_text": "ROUNDING 0.02"
+    },
+    {
+      "name": "(RM) (RM)",
+      "price": "0.28",
+      "confidence": 0.9138,
+      "raw_text": "(RM) (RM) || SR 6.00 4.60 0.28"
+    }
+  ],
+  "items_confidence": 0.9164,
+  "total_amount": {
+    "value": "0.28",
+    "confidence": 0.99,
+    "raw_text": "TOTAL: 4.60 0.28"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 4.90 from 'TOTAL 4.90'",
+    "Competing total candidate 4.60 from 'Total Qty.: 2 4.60'"
+  ],
+  "notes": []
+}

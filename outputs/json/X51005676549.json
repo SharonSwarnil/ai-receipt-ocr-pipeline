@@ -1,0 +1,46 @@
+{
+  "source_file": "X51005676549.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 65,
+    "line_count": 31,
+    "mean_confidence": 0.9738,
+    "variant_score": 0.8848
+  },
+  "store_name": {
+    "value": "SYARIKAT PERNIAGAAN GIN KEE",
+    "confidence": 0.99,
+    "raw_text": "SYARIKAT PERNIAGAAN GIN KEE"
+  },
+  "date": {
+    "value": "2018-02-01",
+    "confidence": 0.9872,
+    "raw_text": "DocNo CS00012504 Date:02/01/2018"
+  },
+  "items": [
+    {
+      "name": "17 MM COMB.SPANNER",
+      "price": "31.80",
+      "confidence": 0.8922,
+      "raw_text": "17MM COMB.SPANNER || 1041 2 15.90 31.80 SR"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.00",
+      "confidence": 0.9295,
+      "raw_text": "Rounding 0.00"
+    }
+  ],
+  "items_confidence": 0.9109,
+  "total_amount": {
+    "value": "2.25",
+    "confidence": 0.99,
+    "raw_text": "Total: 37.50 2.25"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 39.75 from 'Total Sales(Inclusive of GsT): 39.75'",
+    "Competing total candidate 39.75 from 'Total Qty: 3 39.75'"
+  ],
+  "notes": []
+}

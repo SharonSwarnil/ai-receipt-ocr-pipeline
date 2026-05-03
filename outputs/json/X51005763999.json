@@ -1,0 +1,87 @@
+{
+  "source_file": "X51005763999.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 64,
+    "line_count": 40,
+    "mean_confidence": 0.9426,
+    "variant_score": 0.8668
+  },
+  "store_name": {
+    "value": "MIGHTY MARK DISHWASH 11L",
+    "confidence": 0.8511,
+    "raw_text": "MIGHTY MARK DISHWASH 11L"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [
+    {
+      "name": "MIGHTY MARK DISHWASH 11 L",
+      "price": "19.80",
+      "confidence": 0.8671,
+      "raw_text": "MIGHTY MARK DISHWASH 11L || 2x9.90 19.80S"
+    },
+    {
+      "name": "UDANG XL",
+      "price": "126.88",
+      "confidence": 0.8826,
+      "raw_text": "UDANG XL || 3.18 x39.90 126.88Z"
+    },
+    {
+      "name": "UDANG XL",
+      "price": "125.69",
+      "confidence": 0.8802,
+      "raw_text": "UDANG XL || 3.15 x 39.90 125.69Z"
+    },
+    {
+      "name": "WIN CENDOL (GROSS 1.5 KG, NET 1 KG)",
+      "price": "9.02",
+      "confidence": 0.8606,
+      "raw_text": "WIN CENDOL (GROSS 1.5KG, NET 1KG) || 2X4.51 9.02S"
+    },
+    {
+      "name": "IKAN BILIS C TIMBANG",
+      "price": "74.80",
+      "confidence": 0.8826,
+      "raw_text": "IKAN BILIS C TIMBANG || 1.36 x55.00 74.80Z"
+    },
+    {
+      "name": "AJINOMOT 0 2 OX 1 KG",
+      "price": "210.00",
+      "confidence": 0.8472,
+      "raw_text": "AJINOMOT0 2OX1KG || 1x210.00 210.00S"
+    },
+    {
+      "name": "SEGI/LEMBU EMAS 0 IL 17 KG+",
+      "price": "69.90",
+      "confidence": 0.8653,
+      "raw_text": "SEGI/LEMBU EMAS 0IL17KG+- || 1x69.90 69.90Z"
+    },
+    {
+      "name": "ARC TEPUNG UBI 10 X 1 KG",
+      "price": "28.00",
+      "confidence": 0.8708,
+      "raw_text": "ARC TEPUNG UBI 10X1KG || 1x28.00 28.007"
+    },
+    {
+      "name": "Rounding:RM",
+      "price": "0.01",
+      "confidence": 0.9229,
+      "raw_text": "Rounding:RM 0.01"
+    }
+  ],
+  "items_confidence": 0.8755,
+  "total_amount": {
+    "value": "674.00",
+    "confidence": 0.99,
+    "raw_text": "Total Incl.GST:RM 674.00"
+  },
+  "low_confidence_fields": [
+    "date"
+  ],
+  "conflicts": [],
+  "notes": []
+}

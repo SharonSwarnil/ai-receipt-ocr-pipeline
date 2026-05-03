@@ -1,0 +1,65 @@
+{
+  "source_file": "X51005337867.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 55,
+    "line_count": 33,
+    "mean_confidence": 0.951,
+    "variant_score": 0.8117
+  },
+  "store_name": {
+    "value": "OLDTOWN WHITE COFFEE",
+    "confidence": 0.99,
+    "raw_text": "OLDTOWN WHITE COFFEE"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [
+    {
+      "name": "Dine In",
+      "price": "13.87",
+      "confidence": 0.9034,
+      "raw_text": "Dine In || 1 ST30 13.87 S"
+    },
+    {
+      "name": "1 TF 2 (H) Teh Tarik s",
+      "price": "12.07",
+      "confidence": 0.8437,
+      "raw_text": "1 TF2 (H) Teh Tarik s || 1 HS4 12.07 S"
+    },
+    {
+      "name": "10% Srv Chg",
+      "price": "2.59",
+      "confidence": 0.9296,
+      "raw_text": "10% Srv Chg: 2.59"
+    },
+    {
+      "name": "GST 6%",
+      "price": "1.71",
+      "confidence": 0.8775,
+      "raw_text": "GST @6% 1.71"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.01",
+      "confidence": 0.9298,
+      "raw_text": "Rounding: 0.01"
+    }
+  ],
+  "items_confidence": 0.8968,
+  "total_amount": {
+    "value": "30.25",
+    "confidence": 0.99,
+    "raw_text": "Amount Due 30.25"
+  },
+  "low_confidence_fields": [
+    "date"
+  ],
+  "conflicts": [
+    "Competing total candidate 30.24 from 'Total: 30.24'"
+  ],
+  "notes": []
+}

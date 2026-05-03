@@ -1,0 +1,43 @@
+{
+  "source_file": "X51005719882.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 26,
+    "line_count": 17,
+    "mean_confidence": 0.9586,
+    "variant_score": 0.7023
+  },
+  "store_name": {
+    "value": "TAMAN BERKELEY",
+    "confidence": 0.99,
+    "raw_text": "TAMAN BERKELEY"
+  },
+  "date": {
+    "value": "2018-02-17",
+    "confidence": 0.8325,
+    "raw_text": "09:04PM 569319 17-02-18 ."
+  },
+  "items": [
+    {
+      "name": "483 CARLSBERG CAN 4 6 320 ML RM",
+      "price": "106.50",
+      "confidence": 0.9058,
+      "raw_text": "483 CARLSBERG CAN 4*6*320ML RM106.50 S"
+    },
+    {
+      "name": "2101 CARLSBERG SMOOTH DRAUG RM",
+      "price": "106.50",
+      "confidence": 0.9044,
+      "raw_text": "2101 CARLSBERG SMOOTH DRAUG RM106.50 s"
+    }
+  ],
+  "items_confidence": 0.9051,
+  "total_amount": {
+    "value": "213.00",
+    "confidence": 0.99,
+    "raw_text": "Total Sales (Inclusive GsT) Rn 213.00."
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

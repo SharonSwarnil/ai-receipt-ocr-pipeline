@@ -1,0 +1,63 @@
+{
+  "source_file": "X51005717526.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 37,
+    "line_count": 28,
+    "mean_confidence": 0.9583,
+    "variant_score": 0.7987
+  },
+  "store_name": {
+    "value": "erbang Alaf Restaurants Sdn Bhd",
+    "confidence": 0.9548,
+    "raw_text": "erbang Alaf Restaurants Sdn Bhd"
+  },
+  "date": {
+    "value": "2003-02-19",
+    "confidence": 0.8803,
+    "raw_text": "ORD#15-REG#19-02/03/201812:59:16"
+  },
+  "items": [
+    {
+      "name": "1 L McChicken",
+      "price": "11.10",
+      "confidence": 0.9114,
+      "raw_text": "1L McChicken 11.10"
+    },
+    {
+      "name": "1 6 Nuggets",
+      "price": "7.50",
+      "confidence": 0.9113,
+      "raw_text": "1 6Nuggets 7.50"
+    },
+    {
+      "name": "1 AyamGoreng(TA)",
+      "price": "9.90",
+      "confidence": 0.9102,
+      "raw_text": "1AyamGoreng(TA) 9.90"
+    },
+    {
+      "name": "TakeOut Total (incl GST)",
+      "price": "28.50",
+      "confidence": 0.8918,
+      "raw_text": "TakeOut Total （incl GST) 28.50"
+    },
+    {
+      "name": "Cha",
+      "price": "21.50",
+      "confidence": 0.8316,
+      "raw_text": "Cha 21.50"
+    }
+  ],
+  "items_confidence": 0.8913,
+  "total_amount": {
+    "value": "1.61",
+    "confidence": 0.99,
+    "raw_text": "TOTAL INCLUDES 6% GST 1.61"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 28.50 from 'Total Rounded 28.50'"
+  ],
+  "notes": []
+}

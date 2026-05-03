@@ -1,0 +1,46 @@
+{
+  "source_file": "X51005442378.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 31,
+    "line_count": 20,
+    "mean_confidence": 0.905,
+    "variant_score": 0.7381
+  },
+  "store_name": {
+    "value": "PAGOH RESTAND.SERVICE'AREA,",
+    "confidence": 0.99,
+    "raw_text": "PAGOH RESTAND.SERVICE'AREA,"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [
+    {
+      "name": "myNEwscarelne",
+      "price": "4800.88",
+      "confidence": 0.83,
+      "raw_text": "myNEwscarelne :4800.881231"
+    },
+    {
+      "name": "FALAN JALAN (MajGfah)",
+      "price": "10.00",
+      "confidence": 0.7722,
+      "raw_text": "FALAN JALAN (MajGfah) || 02 1 10.00. :0.00 10.00 ZRL"
+    }
+  ],
+  "items_confidence": 0.8011,
+  "total_amount": {
+    "value": "10.00",
+    "confidence": 0.6931,
+    "raw_text": "SUiB TOTAL 10.00"
+  },
+  "low_confidence_fields": [
+    "date",
+    "total_amount"
+  ],
+  "conflicts": [],
+  "notes": []
+}

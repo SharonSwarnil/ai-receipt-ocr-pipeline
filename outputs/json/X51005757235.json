@@ -1,0 +1,69 @@
+{
+  "source_file": "X51005757235.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 44,
+    "line_count": 35,
+    "mean_confidence": 0.977,
+    "variant_score": 0.866
+  },
+  "store_name": {
+    "value": "3RD FLR, AEON TAMAN MALURI SC",
+    "confidence": 0.987,
+    "raw_text": "3RD FLR, AEON TAMAN MALURI SC"
+  },
+  "date": {
+    "value": "2018-09-03",
+    "confidence": 0.887,
+    "raw_text": "09/03/2018 18:54 10080010010555"
+  },
+  "items": [
+    {
+      "name": "VAL UED CUST 0 MER",
+      "price": "15.50",
+      "confidence": 0.8951,
+      "raw_text": "VAL UED CUST0MER: 1370001392 || 15.50SR"
+    },
+    {
+      "name": "BIO ZIP POWDER",
+      "price": "15.50",
+      "confidence": 0.9042,
+      "raw_text": "BIO ZIP POWDER || 15.50SR"
+    },
+    {
+      "name": "BIO ZIP POWDER",
+      "price": "31.00",
+      "confidence": 0.9073,
+      "raw_text": "BIO ZIP POWDER || 31.00"
+    },
+    {
+      "name": "Sub-total",
+      "price": "31.00",
+      "confidence": 0.9267,
+      "raw_text": "Sub-total 31.00"
+    },
+    {
+      "name": "GST Summary",
+      "price": "1.76",
+      "confidence": 0.9095,
+      "raw_text": "GST Summary || 29.24 1.76"
+    },
+    {
+      "name": "SR 6%",
+      "price": "1.76",
+      "confidence": 0.9016,
+      "raw_text": "SR @6% 1.76"
+    }
+  ],
+  "items_confidence": 0.9074,
+  "total_amount": {
+    "value": "29.24",
+    "confidence": 0.99,
+    "raw_text": "Total 29.24"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 31.00 from 'Total Sales Incl GST 31.00'"
+  ],
+  "notes": []
+}

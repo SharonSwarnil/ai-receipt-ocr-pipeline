@@ -1,0 +1,119 @@
+{
+  "source_file": "X51005806692.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 98,
+    "line_count": 44,
+    "mean_confidence": 0.9704,
+    "variant_score": 0.9451
+  },
+  "store_name": {
+    "value": "GREATZONE HOUSEHOLD CENTRE SDN BHD",
+    "confidence": 0.99,
+    "raw_text": "GREATZONE HOUSEHOLD CENTRE SDN BHD"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [
+    {
+      "name": "200 SHEET COMPACT SERVIETTES(NTE)",
+      "price": "3.30",
+      "confidence": 0.89,
+      "raw_text": "200SHEET COMPACT SERVIETTES(NTE) || 1PC 3.30 0.00 3.30 SR"
+    },
+    {
+      "name": "1.5\"RUBBER BAND",
+      "price": "3.60",
+      "confidence": 0.9023,
+      "raw_text": "1.5\"RUBBER BAND || 1200G * 3.60 0.00 3.60 SR"
+    },
+    {
+      "name": "PP 3 X",
+      "price": "2.50",
+      "confidence": 0.9117,
+      "raw_text": "PP3X504 || 1200G* 2.50 0.00 2.50 SR"
+    },
+    {
+      "name": "18 MMX 90 YOPPTAPE",
+      "price": "1.60",
+      "confidence": 0.9087,
+      "raw_text": "18MMX90YOPPTAPE || 1PC 1.60 0.00 1.60 SR"
+    },
+    {
+      "name": "911 TAPE DISPENSER",
+      "price": "8.60",
+      "confidence": 0.9008,
+      "raw_text": "911TAPE DISPENSER || 1 PC 8.60 0.00 8.60 SR"
+    },
+    {
+      "name": "PSI-890 PENSONICDRY IRON WITH SPRAY",
+      "price": "49.90",
+      "confidence": 0.8762,
+      "raw_text": "PSI-890 PENSONICDRY IRON WITH SPRAY || 1 PC 49.90 0.00 49.90 SR"
+    },
+    {
+      "name": "AP-17 APRON PLAIN CLOTH",
+      "price": "218.00",
+      "confidence": 0.8973,
+      "raw_text": "AP-17 APRON PLAIN CLOTH || 20 PC 10.90 0.00 218.00 SR"
+    },
+    {
+      "name": "TALI UKURAN",
+      "price": "1.00",
+      "confidence": 0.8985,
+      "raw_text": "TALI UKURAN || 1 PC 1.00 0.00 1.00 SR"
+    },
+    {
+      "name": "1 PC 水",
+      "price": "22.90",
+      "confidence": 0.8907,
+      "raw_text": "1PC 水 22.90 0.00 22.90 SR"
+    },
+    {
+      "name": "6 PC 水",
+      "price": "36.00",
+      "confidence": 0.8694,
+      "raw_text": "6 PC 水 6.00 0.00 36.00 SR"
+    },
+    {
+      "name": "2 KG HCKITCHEN SCALE",
+      "price": "19.90",
+      "confidence": 0.8818,
+      "raw_text": "2KG HCKITCHEN SCALE || 1 PC * 19.90 0.00 19.90 SR"
+    },
+    {
+      "name": "GST 6%",
+      "price": "20.79",
+      "confidence": 0.8873,
+      "raw_text": "GST 6%: 20.79"
+    },
+    {
+      "name": "Service Charge",
+      "price": "0.00",
+      "confidence": 0.9211,
+      "raw_text": "Service Charge : 0.00"
+    },
+    {
+      "name": "Rounding Adjustment",
+      "price": "0.00",
+      "confidence": 0.928,
+      "raw_text": "Rounding Adjustment : 0.00"
+    }
+  ],
+  "items_confidence": 0.8974,
+  "total_amount": {
+    "value": "367.30",
+    "confidence": 0.7441,
+    "raw_text": "Rounded Total (RM): 367.30"
+  },
+  "low_confidence_fields": [
+    "date"
+  ],
+  "conflicts": [
+    "Competing total candidate 20.79 from 'GST 6%: 20.79'"
+  ],
+  "notes": []
+}

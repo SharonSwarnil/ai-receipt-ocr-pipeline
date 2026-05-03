@@ -1,0 +1,43 @@
+{
+  "source_file": "X51005757324.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 39,
+    "line_count": 26,
+    "mean_confidence": 0.9641,
+    "variant_score": 0.7622
+  },
+  "store_name": {
+    "value": "MR. D.I.Y. (M) SDN BHD",
+    "confidence": 0.99,
+    "raw_text": "MR. D.I.Y. (M) SDN BHD"
+  },
+  "date": {
+    "value": "2018-03-25",
+    "confidence": 0.8684,
+    "raw_text": "25-03-18 18:47 SH01ZJ86 T1 R000112415"
+  },
+  "items": [
+    {
+      "name": "WA 10",
+      "price": "26.90",
+      "confidence": 0.9155,
+      "raw_text": "WA10-12 || 9555493002853 1 26.90 26.90"
+    },
+    {
+      "name": "JD 52-63",
+      "price": "23.90",
+      "confidence": 0.9007,
+      "raw_text": "JD52-63-20 || 9034713 1X 23.90 23.90"
+    }
+  ],
+  "items_confidence": 0.9081,
+  "total_amount": {
+    "value": "50.80",
+    "confidence": 0.99,
+    "raw_text": "Total Incl.GSI@6% RM 50.80"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

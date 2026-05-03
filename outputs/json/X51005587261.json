@@ -1,0 +1,43 @@
+{
+  "source_file": "X51005587261.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 43,
+    "line_count": 28,
+    "mean_confidence": 0.9786,
+    "variant_score": 0.7648
+  },
+  "store_name": {
+    "value": "CHOP YEW LIAN",
+    "confidence": 0.99,
+    "raw_text": "CHOP YEW LIAN"
+  },
+  "date": {
+    "value": "2017-03-23",
+    "confidence": 0.8479,
+    "raw_text": "23/03/17 14:08 17542 01 8994160 mPOS CNo Shift"
+  },
+  "items": [
+    {
+      "name": "V-Power",
+      "price": "11.54",
+      "confidence": 0.8922,
+      "raw_text": "V-Power 97 11.54 1itre Pump # 01"
+    },
+    {
+      "name": "RM",
+      "price": "30.00",
+      "confidence": 0.9277,
+      "raw_text": "RM 30.00"
+    }
+  ],
+  "items_confidence": 0.9099,
+  "total_amount": {
+    "value": "1.70",
+    "confidence": 0.99,
+    "raw_text": "Total Gross A RM 1.70"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

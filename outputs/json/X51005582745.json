@@ -1,0 +1,45 @@
+{
+  "source_file": "X51005582745.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 52,
+    "line_count": 29,
+    "mean_confidence": 0.9558,
+    "variant_score": 0.8571
+  },
+  "store_name": {
+    "value": "MODERN REPOT SIN BHD",
+    "confidence": 0.99,
+    "raw_text": "MODERN REPOT SIN BHD"
+  },
+  "date": {
+    "value": "2016-04-12",
+    "confidence": 0.8139,
+    "raw_text": "RECE1PT #: CS00090733 IATE: 04/12/2016"
+  },
+  "items": [
+    {
+      "name": "CLSTEL 670",
+      "price": "141.51",
+      "confidence": 0.9283,
+      "raw_text": "CLSTEL670 1 141.51 141.51"
+    },
+    {
+      "name": "SUB-TOTAL",
+      "price": "141.51",
+      "confidence": 0.9057,
+      "raw_text": "SUB-TOTAL 141.51"
+    }
+  ],
+  "items_confidence": 0.917,
+  "total_amount": {
+    "value": "8.49",
+    "confidence": 0.99,
+    "raw_text": "TOTAL GST 8.49"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 150.00 from 'TOTAL 150.00'"
+  ],
+  "notes": []
+}

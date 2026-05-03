@@ -1,0 +1,73 @@
+{
+  "source_file": "X51005719899.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 36,
+    "line_count": 22,
+    "mean_confidence": 0.9784,
+    "variant_score": 0.7301
+  },
+  "store_name": {
+    "value": "KUIH KETAYAP RM2.70 S",
+    "confidence": 0.8479,
+    "raw_text": "KUIH KETAYAP RM2.70 S"
+  },
+  "date": {
+    "value": "2018-03-18",
+    "confidence": 0.8313,
+    "raw_text": "REG CASHIER18-03-2018 11:23"
+  },
+  "items": [
+    {
+      "name": "KUIH KETAYAP RM",
+      "price": "2.70",
+      "confidence": 0.9199,
+      "raw_text": "KUIH KETAYAP RM2.70 S"
+    },
+    {
+      "name": "ONDEH ONDEH RM",
+      "price": "2.95",
+      "confidence": 0.9258,
+      "raw_text": "ONDEH ONDEH RM2.95 S"
+    },
+    {
+      "name": "YELLOW LAKSA RM",
+      "price": "11.60",
+      "confidence": 0.9239,
+      "raw_text": "YELLOW LAKSA RM11.60 S"
+    },
+    {
+      "name": "YELLOW LAKSA RM",
+      "price": "11.60",
+      "confidence": 0.9008,
+      "raw_text": "YELLOW LAKSA RM11.60 S"
+    },
+    {
+      "name": "CENDOL RM",
+      "price": "5.30",
+      "confidence": 0.928,
+      "raw_text": "CENDOL RM5.30 S"
+    },
+    {
+      "name": "CHEE CHEONG FUN (SOS) RM",
+      "price": "7.20",
+      "confidence": 0.9205,
+      "raw_text": "CHEE CHEONG FUN (SOS) RM7.20 S"
+    }
+  ],
+  "items_confidence": 0.9198,
+  "total_amount": {
+    "value": "50.57",
+    "confidence": 0.6949,
+    "raw_text": "TAXABLE AMOUNT RM50.57"
+  },
+  "low_confidence_fields": [
+    "total_amount"
+  ],
+  "conflicts": [
+    "Competing total candidate 5.30 from 'CENDOL RM5.30 S'",
+    "Competing total candidate 7.20 from 'CHEE CHEONG FUN (SOS) RM7.20 S'",
+    "Competing total candidate 11.60 from 'YELLOW LAKSA RM11.60 S'"
+  ],
+  "notes": []
+}

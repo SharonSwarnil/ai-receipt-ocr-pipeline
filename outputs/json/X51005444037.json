@@ -1,0 +1,60 @@
+{
+  "source_file": "X51005444037.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 63,
+    "line_count": 41,
+    "mean_confidence": 0.9583,
+    "variant_score": 0.797
+  },
+  "store_name": {
+    "value": "PERI-PERICHICKEN",
+    "confidence": 0.99,
+    "raw_text": "PERI-PERICHICKEN"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [
+    {
+      "name": "1 DELIVERY CHG",
+      "price": "4.00",
+      "confidence": 0.9103,
+      "raw_text": "1 DELIVERY CHG 4.00 S"
+    },
+    {
+      "name": "4 1/4 Chic+1 sd",
+      "price": "71.60",
+      "confidence": 0.9136,
+      "raw_text": "4 1/4Chic+1sd-T@17.90 71.60 S"
+    },
+    {
+      "name": "3 1/4 Chic+1 sd",
+      "price": "53.70",
+      "confidence": 0.9193,
+      "raw_text": "3 1/4Chic+1sd-T@17.90 53.70 S"
+    },
+    {
+      "name": "Amt Due",
+      "price": "129.30",
+      "confidence": 0.9039,
+      "raw_text": "Amt Due 129.30"
+    }
+  ],
+  "items_confidence": 0.9118,
+  "total_amount": {
+    "value": "7.30",
+    "confidence": 0.6821,
+    "raw_text": "GST@6% 7.30"
+  },
+  "low_confidence_fields": [
+    "date",
+    "total_amount"
+  ],
+  "conflicts": [
+    "Competing total candidate 129.30 from 'Amt Due 129.30'"
+  ],
+  "notes": []
+}

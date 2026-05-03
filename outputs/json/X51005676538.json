@@ -1,0 +1,58 @@
+{
+  "source_file": "X51005676538.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 77,
+    "line_count": 35,
+    "mean_confidence": 0.9845,
+    "variant_score": 0.9274
+  },
+  "store_name": {
+    "value": "SYARIKAT PERNIAGAAN GIN KEE",
+    "confidence": 0.99,
+    "raw_text": "SYARIKAT PERNIAGAAN GIN KEE"
+  },
+  "date": {
+    "value": "2018-04-01",
+    "confidence": 0.99,
+    "raw_text": "Doc No. :CS00012543 Date:04/01/2018"
+  },
+  "items": [
+    {
+      "name": "25 MM GINIPPLE",
+      "price": "1.27",
+      "confidence": 0.8995,
+      "raw_text": "25MM GINIPPLE || 1462 2 0.64 1.27 SR"
+    },
+    {
+      "name": "SEALTAPE",
+      "price": "5.83",
+      "confidence": 0.9149,
+      "raw_text": "SEALTAPE || 1748 1 5.83 5.83 SR"
+    },
+    {
+      "name": "32 MMPOLY SOCKET",
+      "price": "33.92",
+      "confidence": 0.8882,
+      "raw_text": "32MMPOLY SOCKET || 2247 1 33.92 33.92 SR"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.00",
+      "confidence": 0.9226,
+      "raw_text": "Rounding : 0.00"
+    }
+  ],
+  "items_confidence": 0.9063,
+  "total_amount": {
+    "value": "2.53",
+    "confidence": 0.99,
+    "raw_text": "Total : 42.20 2.53"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 44.73 from 'Total Sales(Inclusive of GsT) : 44.73'",
+    "Competing total candidate 44.73 from 'Total Qty: 5 44.73'"
+  ],
+  "notes": []
+}

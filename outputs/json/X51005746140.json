@@ -1,0 +1,61 @@
+{
+  "source_file": "X51005746140.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 44,
+    "line_count": 25,
+    "mean_confidence": 0.9828,
+    "variant_score": 0.8516
+  },
+  "store_name": {
+    "value": "YONG CEN ENTERPRISE",
+    "confidence": 0.99,
+    "raw_text": "YONG CEN ENTERPRISE"
+  },
+  "date": {
+    "value": "2018-02-03",
+    "confidence": 0.9807,
+    "raw_text": "RECEIPT #: CS00677115 DATE: 02/03/2018"
+  },
+  "items": [
+    {
+      "name": "SR:FEI YAN BRAND YOUNG CORN 425 G (",
+      "price": "2.33",
+      "confidence": 0.9036,
+      "raw_text": "SR:FEI YAN BRAND YOUNG CORN 425G (2.333X"
+    },
+    {
+      "name": "SUB-TOTAL",
+      "price": "59.99",
+      "confidence": 0.9256,
+      "raw_text": "SUB-TOTAL 59.99"
+    },
+    {
+      "name": "DISC",
+      "price": "0.00",
+      "confidence": 0.9209,
+      "raw_text": "DISC 0.00"
+    },
+    {
+      "name": "GST",
+      "price": "3.36",
+      "confidence": 0.9268,
+      "raw_text": "GST 3.36"
+    },
+    {
+      "name": "ROUNDING",
+      "price": "0.00",
+      "confidence": 0.9245,
+      "raw_text": "ROUNDING 0.00"
+    }
+  ],
+  "items_confidence": 0.9203,
+  "total_amount": {
+    "value": "63.35",
+    "confidence": 0.99,
+    "raw_text": "TOTAL 63.35"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

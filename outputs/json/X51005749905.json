@@ -1,0 +1,49 @@
+{
+  "source_file": "X51005749905.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 50,
+    "line_count": 29,
+    "mean_confidence": 0.9873,
+    "variant_score": 0.8691
+  },
+  "store_name": {
+    "value": "ENW Hardware Centre (M) Sdn. Bhd.",
+    "confidence": 0.9701,
+    "raw_text": "ENW Hardware Centre (M) Sdn. Bhd."
+  },
+  "date": {
+    "value": "2018-10-03",
+    "confidence": 0.8374,
+    "raw_text": "10/03/2018 Tax Invoice"
+  },
+  "items": [
+    {
+      "name": "2 kgs. Wood Lacquer Thinner",
+      "price": "10.00",
+      "confidence": 0.9187,
+      "raw_text": "2kgs. Wood Lacquer Thinner || 000920 1.00 10.00 10.00 SR"
+    },
+    {
+      "name": "1.5 kg. Ufixx Putty Filler.",
+      "price": "5.00",
+      "confidence": 0.9144,
+      "raw_text": "1.5kg. Ufixx Putty Filler. || 006828 2.00 2.50 5.00 SR"
+    },
+    {
+      "name": "Rounding Adjusment",
+      "price": "0.00",
+      "confidence": 0.924,
+      "raw_text": "Rounding Adjusment : 0.00"
+    }
+  ],
+  "items_confidence": 0.919,
+  "total_amount": {
+    "value": "34.00",
+    "confidence": 0.99,
+    "raw_text": "Total Amt Payable : 34.00"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

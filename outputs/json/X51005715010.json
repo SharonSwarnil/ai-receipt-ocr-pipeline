@@ -1,0 +1,56 @@
+{
+  "source_file": "X51005715010.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 52,
+    "line_count": 28,
+    "mean_confidence": 0.9497,
+    "variant_score": 0.7795
+  },
+  "store_name": {
+    "value": "wotsons",
+    "confidence": 0.8802,
+    "raw_text": "wotsons"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [
+    {
+      "name": "WS CUT SCISSORS",
+      "price": "18.00",
+      "confidence": 0.8754,
+      "raw_text": "22241 WS CUT SCISSORS 18.00 S"
+    },
+    {
+      "name": "QVS TEMP 0 TWEEZER",
+      "price": "17.90",
+      "confidence": 0.8173,
+      "raw_text": "64542 QVS TEMP0 TWEEZER 17.90 S"
+    },
+    {
+      "name": "WS BABY WIPES FRAG",
+      "price": "7.90",
+      "confidence": 0.8496,
+      "raw_text": "21434 WS BABY WIPES FRAG 7.90 S"
+    }
+  ],
+  "items_confidence": 0.8474,
+  "total_amount": {
+    "value": "2.37",
+    "confidence": 0.5446,
+    "raw_text": "PWP LESS 30% MAR 18 -2.37"
+  },
+  "low_confidence_fields": [
+    "date",
+    "total_amount"
+  ],
+  "conflicts": [
+    "Competing total candidate 18.00 from '22241 WS CUT SCISSORS 18.00 S'",
+    "Competing total candidate 7.90 from '21434 WS BABY WIPES FRAG 7.90 S'",
+    "Competing total candidate 10.05 from 'CHANGE CASH RM10.05'"
+  ],
+  "notes": []
+}

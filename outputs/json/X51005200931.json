@@ -1,0 +1,83 @@
+{
+  "source_file": "X51005200931.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 85,
+    "line_count": 25,
+    "mean_confidence": 0.9356,
+    "variant_score": 0.8276
+  },
+  "store_name": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "date": {
+    "value": "2018-09-02",
+    "confidence": 0.9777,
+    "raw_text": "SR CERAMIC CAP 6783 Time:08:32:00 Date.09/02/2018"
+  },
+  "items": [
+    {
+      "name": "PERNIAGAAN ZHENGHUI",
+      "price": "0.59",
+      "confidence": 0.8621,
+      "raw_text": "PERNIAGAAN ZHENGHUI NO.59JALAN PERMAS 95 JM0325955-V 103028"
+    },
+    {
+      "name": "SR:S/STEEL",
+      "price": "3.50",
+      "confidence": 0.8512,
+      "raw_text": "SR:S/STEEL 5 3.50 RSP Anoun! (RM)"
+    },
+    {
+      "name": "3496 1/2\" STREET ELBOW",
+      "price": "3.80",
+      "confidence": 0.8987,
+      "raw_text": "3496 1/2\" STREET ELBOW 30 3.80 17.5C"
+    },
+    {
+      "name": "2460 SR: ESICUT 4\" CUTING DISC SR:2.4 MM STARWELD RED HEAD TUNGSTEN ROD GA GA",
+      "price": "55.00",
+      "confidence": 0.8676,
+      "raw_text": "2460 SR: ESICUT 4\" CUTING DISC SR:2.4MM STARWELD RED HEAD TUNGSTEN ROD GA GA 55.00 114.0C"
+    },
+    {
+      "name": "9428 SR: WELDRO PICKLING GEL GA 2 (1 BOX)-50 PCS",
+      "price": "33.00",
+      "confidence": 0.8506,
+      "raw_text": "9428 SR: WELDRO PICKLING GEL GA 2 (1BOX)-50PCS 33.00 99.0C"
+    },
+    {
+      "name": "SR: 13.6\"WELDING GLOVE- TOT QTY: L 1 KG",
+      "price": "43.00",
+      "confidence": 0.8884,
+      "raw_text": "SR: 13.6\"WELDING GLOVE- TOT QTY: L1KG 43.00 86.0C"
+    },
+    {
+      "name": "GREEN(GS)",
+      "price": "10.00",
+      "confidence": 0.9225,
+      "raw_text": "GREEN(GS) 10.00"
+    },
+    {
+      "name": "Rounding (RM)",
+      "price": "24.69",
+      "confidence": 0.8457,
+      "raw_text": "Rounding (RM) : 24.69 0:00"
+    }
+  ],
+  "items_confidence": 0.8733,
+  "total_amount": {
+    "value": "411.50",
+    "confidence": 0.99,
+    "raw_text": "Total: Amount 411.50"
+  },
+  "low_confidence_fields": [
+    "store_name"
+  ],
+  "conflicts": [
+    "Competing total candidate 0.01 from 'Total (RM) : 0.01'"
+  ],
+  "notes": []
+}

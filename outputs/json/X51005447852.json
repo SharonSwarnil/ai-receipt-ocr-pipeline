@@ -1,0 +1,37 @@
+{
+  "source_file": "X51005447852.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 26,
+    "line_count": 16,
+    "mean_confidence": 0.9517,
+    "variant_score": 0.6843
+  },
+  "store_name": {
+    "value": "TAMAN BERKELEY",
+    "confidence": 0.99,
+    "raw_text": "TAMAN BERKELEY"
+  },
+  "date": {
+    "value": "2018-02-20",
+    "confidence": 0.8211,
+    "raw_text": "06:20PH-. 568008 20-02-18"
+  },
+  "items": [
+    {
+      "name": "8991 NUTRI PLUS TELUR SEGAR RM",
+      "price": "9.90",
+      "confidence": 0.8838,
+      "raw_text": "8991 NUTRI PLUS TELUR SEGAR RM9.90 2"
+    }
+  ],
+  "items_confidence": 0.8838,
+  "total_amount": {
+    "value": "9.90",
+    "confidence": 0.99,
+    "raw_text": "Total Sales (Inclusive GsT) RM .9.90"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

@@ -1,0 +1,51 @@
+{
+  "source_file": "X51005746204.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 43,
+    "line_count": 25,
+    "mean_confidence": 0.9297,
+    "variant_score": 0.7396
+  },
+  "store_name": {
+    "value": "BEMED (SP) SDN. BHD.",
+    "confidence": 0.99,
+    "raw_text": "BEMED (SP) SDN. BHD."
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [
+    {
+      "name": "PRISTIN MOPL FISH OIL R",
+      "price": "143.70",
+      "confidence": 0.8998,
+      "raw_text": "PRISTIN MOPL FISH OIL R || 1465920 143.70 143.70"
+    },
+    {
+      "name": "ALPHA LIPID LIFE LINE R",
+      "price": "165.00",
+      "confidence": 0.894,
+      "raw_text": "ALPHA LIPID LIFE LINE R || 1184810 165.00 165.00"
+    },
+    {
+      "name": "Rcunding Adj",
+      "price": "0.00",
+      "confidence": 0.9034,
+      "raw_text": "Rcunding Adj : 0.00"
+    }
+  ],
+  "items_confidence": 0.8991,
+  "total_amount": {
+    "value": "308.70",
+    "confidence": 0.99,
+    "raw_text": "Total Inclusive GST: 308.70"
+  },
+  "low_confidence_fields": [
+    "date"
+  ],
+  "conflicts": [],
+  "notes": []
+}

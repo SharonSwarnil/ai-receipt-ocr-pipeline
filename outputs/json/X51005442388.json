@@ -1,0 +1,67 @@
+{
+  "source_file": "X51005442388.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 31,
+    "line_count": 14,
+    "mean_confidence": 0.8964,
+    "variant_score": 0.6256
+  },
+  "store_name": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [
+    {
+      "name": "BubbleMI",
+      "price": "11.80",
+      "confidence": 0.8322,
+      "raw_text": "BubbleMI 2x5.90（0) RHI 11.80"
+    },
+    {
+      "name": "YanNT",
+      "price": "4.90",
+      "confidence": 0.8066,
+      "raw_text": "YanNT 1x4.90 RM 4.90"
+    },
+    {
+      "name": "ADDON",
+      "price": "1.00",
+      "confidence": 0.864,
+      "raw_text": "ADDON 1x1.00S1mck) 1.00"
+    },
+    {
+      "name": ".Cho 1 x 390 RI",
+      "price": "3.90",
+      "confidence": 0.8166,
+      "raw_text": ".Cho 1x390 RI 3.90"
+    },
+    {
+      "name": "KTOTAL RM",
+      "price": "21.60",
+      "confidence": 0.8461,
+      "raw_text": "KTOTAL RM 21.60"
+    }
+  ],
+  "items_confidence": 0.8331,
+  "total_amount": {
+    "value": "8.40",
+    "confidence": 0.6717,
+    "raw_text": "RM8.40"
+  },
+  "low_confidence_fields": [
+    "store_name",
+    "date",
+    "total_amount"
+  ],
+  "conflicts": [
+    "Competing total candidate 21.60 from 'KTOTAL RM 21.60'"
+  ],
+  "notes": []
+}

@@ -1,0 +1,63 @@
+{
+  "source_file": "X51005719895.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 54,
+    "line_count": 36,
+    "mean_confidence": 0.9445,
+    "variant_score": 0.8534
+  },
+  "store_name": {
+    "value": "GREEN LANE PHARMACY SDN BHD",
+    "confidence": 0.99,
+    "raw_text": "GREEN LANE PHARMACY SDN BHD"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [
+    {
+      "name": "1)UAM 006 KAMOXICAP 500 MG CAFSU",
+      "price": "6.00",
+      "confidence": 0.8594,
+      "raw_text": "1)UAM006KAMOXICAP 500MG CAFSU || 1.00X6.00 6.00z"
+    },
+    {
+      "name": "TAB 90 MG",
+      "price": "9.01",
+      "confidence": 0.8524,
+      "raw_text": "2)0984KNOFLUX TAB 90MG10 || 2.00X4.51 9.01*"
+    },
+    {
+      "name": "IBUPR 0 FEN 400 MG",
+      "price": "9.00",
+      "confidence": 0.8795,
+      "raw_text": "3)9557892102639 IBUPR0FEN 400MG 10 || 3.00X3.00 9.00z"
+    },
+    {
+      "name": "FEBRIC 0 L-RX",
+      "price": "10.80",
+      "confidence": 0.8896,
+      "raw_text": "4)9556492002837K FEBRIC0L-RX 10 || 4.00X2.70 10.80z"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.01",
+      "confidence": 0.9078,
+      "raw_text": "Rounding: -0.01"
+    }
+  ],
+  "items_confidence": 0.8778,
+  "total_amount": {
+    "value": "34.80",
+    "confidence": 0.99,
+    "raw_text": "TOTAL PAYMENT： 34.80"
+  },
+  "low_confidence_fields": [
+    "date"
+  ],
+  "conflicts": [],
+  "notes": []
+}

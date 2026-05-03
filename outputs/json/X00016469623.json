@@ -1,0 +1,69 @@
+{
+  "source_file": "X00016469623.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 53,
+    "line_count": 35,
+    "mean_confidence": 0.9401,
+    "variant_score": 0.8117
+  },
+  "store_name": {
+    "value": "MR D.I.Y.(M)SDN BHD",
+    "confidence": 0.9736,
+    "raw_text": "MR D.I.Y.（M)SDN BHD"
+  },
+  "date": {
+    "value": "2006-11-04",
+    "confidence": 0.8878,
+    "raw_text": "PI12PJ11-4-6/300"
+  },
+  "items": [
+    {
+      "name": "WA 45-/2 A",
+      "price": "3.11",
+      "confidence": 0.9069,
+      "raw_text": "WA45-/2A-12 || 9555916500133 1X3.11 3.11"
+    },
+    {
+      "name": "WA 44-A",
+      "price": "4.62",
+      "confidence": 0.9113,
+      "raw_text": "WA44-A-12 || 9555916500126 1X4.62 4.62"
+    },
+    {
+      "name": "WA 43-A",
+      "price": "11.23",
+      "confidence": 0.9135,
+      "raw_text": "WA43-A-24 || 079567600084 1X11.2311.23"
+    },
+    {
+      "name": "WD 00",
+      "price": "7.45",
+      "confidence": 0.9059,
+      "raw_text": "WD00-15 || 9555651400385 1X7.45 7.45"
+    },
+    {
+      "name": "PI 12 PJ 11-4-6/",
+      "price": "4.50",
+      "confidence": 0.9049,
+      "raw_text": "PI12PJ11-4-6/300 || 9090822 1X4.50 4.50"
+    },
+    {
+      "name": "ROUNDING ADJUSTMENT -RM",
+      "price": "0.01",
+      "confidence": 0.9078,
+      "raw_text": "ROUNDING ADJUSTMENT -RM0.01"
+    }
+  ],
+  "items_confidence": 0.9084,
+  "total_amount": {
+    "value": "30.90",
+    "confidence": 0.99,
+    "raw_text": "TOTAL ROUNDED RM30.90"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 30.91 from 'Total RM30.91'"
+  ],
+  "notes": []
+}

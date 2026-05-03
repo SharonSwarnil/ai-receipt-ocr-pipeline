@@ -1,0 +1,63 @@
+{
+  "source_file": "X51005676548.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 65,
+    "line_count": 31,
+    "mean_confidence": 0.9772,
+    "variant_score": 0.8935
+  },
+  "store_name": {
+    "value": "SYARIKATPERNIAGAAN GIN KEE",
+    "confidence": 0.99,
+    "raw_text": "SYARIKATPERNIAGAAN GIN KEE"
+  },
+  "date": {
+    "value": "2018-01-15",
+    "confidence": 0.9771,
+    "raw_text": "DocNo. CS00012751 Date. 15/01/2018"
+  },
+  "items": [
+    {
+      "name": "HOESPIN",
+      "price": "7.95",
+      "confidence": 0.915,
+      "raw_text": "HOESPIN || 1937 1 7.95 7.95 SR"
+    },
+    {
+      "name": "Totai Sales (Excluding GST)",
+      "price": "10.50",
+      "confidence": 0.9177,
+      "raw_text": "Totai Sales (Excluding GST) 10.50"
+    },
+    {
+      "name": "TotalGST",
+      "price": "0.63",
+      "confidence": 0.9228,
+      "raw_text": "TotalGST 0.63"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.00",
+      "confidence": 0.9294,
+      "raw_text": "Rounding 0.00"
+    },
+    {
+      "name": "TotalSales(Inclusive of GsT)",
+      "price": "11.13",
+      "confidence": 0.8947,
+      "raw_text": "TotalSales（Inclusive of GsT): 11.13"
+    }
+  ],
+  "items_confidence": 0.9159,
+  "total_amount": {
+    "value": "0.63",
+    "confidence": 0.99,
+    "raw_text": "Total : 10.50 0.63"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 11.13 from 'Total Qty 11.13'"
+  ],
+  "notes": []
+}

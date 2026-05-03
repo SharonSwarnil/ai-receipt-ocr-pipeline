@@ -1,0 +1,123 @@
+{
+  "source_file": "18.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 87,
+    "line_count": 39,
+    "mean_confidence": 0.967,
+    "variant_score": 0.8179
+  },
+  "store_name": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "date": {
+    "value": "2021-10-31",
+    "confidence": 0.8903,
+    "raw_text": "10/31/21 10:08:22"
+  },
+  "items": [
+    {
+      "name": "GREAT VAIUE GREAI VALUE",
+      "price": "0.98",
+      "confidence": 0.9015,
+      "raw_text": "GREAT VAIUE GREAI VALUE 007874206203F 007874235191F 0.98N"
+    },
+    {
+      "name": "GAINLFE",
+      "price": "2.84",
+      "confidence": 0.9232,
+      "raw_text": "GAINLFE 007874206203F 2.84N 2.84N"
+    },
+    {
+      "name": "GAIN",
+      "price": "6.97",
+      "confidence": 0.9173,
+      "raw_text": "GAIN 003700077007 6.97X"
+    },
+    {
+      "name": "GVVEGOIL",
+      "price": "4.94",
+      "confidence": 0.9098,
+      "raw_text": "GVVEGOIL 003700076954 4.94X"
+    },
+    {
+      "name": "SNICKERFS",
+      "price": "7.82",
+      "confidence": 0.9218,
+      "raw_text": "SNICKERFS 007874221000 7.82N"
+    },
+    {
+      "name": "GDBRFS 6 PK",
+      "price": "3.78",
+      "confidence": 0.9005,
+      "raw_text": "GDBRFS6PK 004000050533 3.78X"
+    },
+    {
+      "name": "MIXED CHOC",
+      "price": "4.76",
+      "confidence": 0.9012,
+      "raw_text": "MIXED CHOC 003400029305 4.76X"
+    },
+    {
+      "name": "CHERRIES",
+      "price": "13.24",
+      "confidence": 0.8271,
+      "raw_text": "CHERRIES 004000047587 F 13.24X"
+    },
+    {
+      "name": "GAIN",
+      "price": "1.78",
+      "confidence": 0.9085,
+      "raw_text": "GAIN 004326880002 1.78X"
+    },
+    {
+      "name": "BATTERIES",
+      "price": "9.97",
+      "confidence": 0.9167,
+      "raw_text": "BATTERIES 9.97N"
+    },
+    {
+      "name": "GV 20 ZMINI",
+      "price": "10.97",
+      "confidence": 0.9047,
+      "raw_text": "GV20ZMINI 001280051783 10.97X"
+    },
+    {
+      "name": "CRNBRY SAUCE",
+      "price": "2.97",
+      "confidence": 0.9038,
+      "raw_text": "CRNBRY SAUCE 007874219999 2.97X"
+    },
+    {
+      "name": "SPREADS",
+      "price": "1.58",
+      "confidence": 0.9242,
+      "raw_text": "SPREADS 003120001605F 1.580"
+    },
+    {
+      "name": "EGGS 6 CT",
+      "price": "3.46",
+      "confidence": 0.9243,
+      "raw_text": "EGGS6CT 002740026499F 3.460"
+    },
+    {
+      "name": "IAX",
+      "price": "3.60",
+      "confidence": 0.8927,
+      "raw_text": "IAX1 7.000% 3.60"
+    }
+  ],
+  "items_confidence": 0.9051,
+  "total_amount": {
+    "value": "86.35",
+    "confidence": 0.99,
+    "raw_text": "TOTAL 86.35"
+  },
+  "low_confidence_fields": [
+    "store_name"
+  ],
+  "conflicts": [],
+  "notes": []
+}

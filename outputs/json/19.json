@@ -1,0 +1,61 @@
+{
+  "source_file": "19.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 41,
+    "line_count": 18,
+    "mean_confidence": 0.9631,
+    "variant_score": 0.7122
+  },
+  "store_name": {
+    "value": "Walmart*",
+    "confidence": 0.9172,
+    "raw_text": "Walmart*"
+  },
+  "date": {
+    "value": "2021-10-16",
+    "confidence": 0.8834,
+    "raw_text": "LowPricesYou CanTrust.Every Day. 10/16/21 11:22:45"
+  },
+  "items": [
+    {
+      "name": "GRILLCOVER",
+      "price": "14.97",
+      "confidence": 0.9185,
+      "raw_text": "GRILLCOVER 471288396027 14.97X"
+    },
+    {
+      "name": "FIBER CHOICE",
+      "price": "12.94",
+      "confidence": 0.9159,
+      "raw_text": "FIBER CHOICE 036926600094 12.94N"
+    },
+    {
+      "name": "CELERY HEART",
+      "price": "2.48",
+      "confidence": 0.9063,
+      "raw_text": "CELERY HEART 003338365301F 2.48N"
+    },
+    {
+      "name": "RED GRAPE",
+      "price": "3.61",
+      "confidence": 0.8462,
+      "raw_text": "RED GRAPE 000000004023KF || 2.511b ® 11b/1.44 3.61N"
+    },
+    {
+      "name": "TAX",
+      "price": "1.05",
+      "confidence": 0.9236,
+      "raw_text": "TAX1 7.000% 1.05"
+    }
+  ],
+  "items_confidence": 0.9021,
+  "total_amount": {
+    "value": "35.05",
+    "confidence": 0.99,
+    "raw_text": "TOTAL 35.05"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

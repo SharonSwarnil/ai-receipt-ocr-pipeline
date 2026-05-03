@@ -1,0 +1,45 @@
+{
+  "source_file": "X00016469671.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 40,
+    "line_count": 23,
+    "mean_confidence": 0.9606,
+    "variant_score": 0.7981
+  },
+  "store_name": {
+    "value": "OJCMARKETINGSDNBHD",
+    "confidence": 0.99,
+    "raw_text": "OJCMARKETINGSDNBHD"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [
+    {
+      "name": "SHOESKWD",
+      "price": "0.00",
+      "confidence": 0.9249,
+      "raw_text": "SHOESKWD805 0.00"
+    },
+    {
+      "name": "RoundAmt",
+      "price": "170.00",
+      "confidence": 0.9221,
+      "raw_text": "RoundAmt: 170.00"
+    }
+  ],
+  "items_confidence": 0.9235,
+  "total_amount": {
+    "value": "170.00",
+    "confidence": 0.99,
+    "raw_text": "TOTAL: 170.00"
+  },
+  "low_confidence_fields": [
+    "date"
+  ],
+  "conflicts": [],
+  "notes": []
+}

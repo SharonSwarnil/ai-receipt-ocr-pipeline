@@ -1,0 +1,72 @@
+{
+  "source_file": "X51005303661.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 70,
+    "line_count": 41,
+    "mean_confidence": 0.9772,
+    "variant_score": 0.8974
+  },
+  "store_name": {
+    "value": "LIGHTROOM GALLERY SDN BHD",
+    "confidence": 0.99,
+    "raw_text": "LIGHTROOM GALLERY SDN BHD"
+  },
+  "date": {
+    "value": "2017-12-20",
+    "confidence": 0.9738,
+    "raw_text": "Bill Date : 20/12/2017 Cover : 1"
+  },
+  "items": [
+    {
+      "name": "1 RM",
+      "price": "2.83",
+      "confidence": 0.8971,
+      "raw_text": "1* RM 2.83 UNI ( 0. 17)=RM"
+    },
+    {
+      "name": "2 RM",
+      "price": "33.02",
+      "confidence": 0.8886,
+      "raw_text": "2 * RM 33.02 UNI （"
+    },
+    {
+      "name": "Service'Charge RM",
+      "price": "68.87",
+      "confidence": 0.9223,
+      "raw_text": "Service'Charge RM 68.87"
+    },
+    {
+      "name": "RM",
+      "price": "4.13",
+      "confidence": 0.9287,
+      "raw_text": "RM 4.13"
+    },
+    {
+      "name": "TOT-1, RM",
+      "price": "73.00",
+      "confidence": 0.8788,
+      "raw_text": "TOT-1, RM 73.00"
+    },
+    {
+      "name": "CA.. RM",
+      "price": "73.00",
+      "confidence": 0.8948,
+      "raw_text": "CA.. RM 73.00"
+    }
+  ],
+  "items_confidence": 0.9017,
+  "total_amount": {
+    "value": "68.87",
+    "confidence": 0.6876,
+    "raw_text": "SR @ 6% 68.87 4. 13"
+  },
+  "low_confidence_fields": [
+    "total_amount"
+  ],
+  "conflicts": [
+    "Competing total candidate 4.13 from 'RM 4.13'",
+    "Competing total candidate 73.00 from 'CA.. RM 73.00'"
+  ],
+  "notes": []
+}

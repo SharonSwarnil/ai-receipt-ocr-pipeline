@@ -1,0 +1,61 @@
+{
+  "source_file": "X51005441398.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 48,
+    "line_count": 30,
+    "mean_confidence": 0.9323,
+    "variant_score": 0.786
+  },
+  "store_name": {
+    "value": "BREWERYTAF",
+    "confidence": 0.99,
+    "raw_text": "BREWERYTAF"
+  },
+  "date": {
+    "value": "2018-03-30",
+    "confidence": 0.979,
+    "raw_text": "Date ：30/03/2018#8:13PM"
+  },
+  "items": [
+    {
+      "name": "Tiger 2 Bucket-HH",
+      "price": "95.00",
+      "confidence": 0.8938,
+      "raw_text": "Tiger 2 Bucket-HH 95.00SR"
+    },
+    {
+      "name": "Chicken wings",
+      "price": "22.00",
+      "confidence": 0.8973,
+      "raw_text": "Chicken wings 22.00 SR"
+    },
+    {
+      "name": "French Fries",
+      "price": "12.00",
+      "confidence": 0.8854,
+      "raw_text": "French Fries 12.00SR"
+    },
+    {
+      "name": "Tiger Bucket-HH",
+      "price": "50.00",
+      "confidence": 0.8891,
+      "raw_text": "Tiger Bucket-HH 50.00 SR"
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "0.01",
+      "confidence": 0.9156,
+      "raw_text": "Rounding Adj 0.01"
+    }
+  ],
+  "items_confidence": 0.8962,
+  "total_amount": {
+    "value": "189.75",
+    "confidence": 0.99,
+    "raw_text": "Net Total 189.75"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

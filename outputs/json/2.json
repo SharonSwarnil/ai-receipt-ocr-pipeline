@@ -1,0 +1,61 @@
+{
+  "source_file": "2.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 53,
+    "line_count": 33,
+    "mean_confidence": 0.9731,
+    "variant_score": 0.7654
+  },
+  "store_name": {
+    "value": "951AVENIDA PICO",
+    "confidence": 0.9248,
+    "raw_text": "951AVENIDA PICO"
+  },
+  "date": {
+    "value": "2020-10-18",
+    "confidence": 0.8885,
+    "raw_text": "10/18/20 11:30:42"
+  },
+  "items": [
+    {
+      "name": "GVOATMEAL",
+      "price": "1.76",
+      "confidence": 0.9265,
+      "raw_text": "GVOATMEAL 007874243408F 1.760"
+    },
+    {
+      "name": "OT 200 ZTUM",
+      "price": "6.74",
+      "confidence": 0.8972,
+      "raw_text": "OT200ZTUM 081236803115 6.74X"
+    },
+    {
+      "name": "MATHLETICS",
+      "price": "24.97",
+      "confidence": 0.9086,
+      "raw_text": "MATHLETICS 019104567781 24.97X"
+    },
+    {
+      "name": "DEXAS 15 X",
+      "price": "12.97",
+      "confidence": 0.9064,
+      "raw_text": "DEXAS15X20 008429710921 12.97X"
+    },
+    {
+      "name": "TAX",
+      "price": "3.46",
+      "confidence": 0.9203,
+      "raw_text": "TAX1 7.750% 3.46"
+    }
+  ],
+  "items_confidence": 0.9118,
+  "total_amount": {
+    "value": "49.90",
+    "confidence": 0.99,
+    "raw_text": "TOTAL 49.90"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

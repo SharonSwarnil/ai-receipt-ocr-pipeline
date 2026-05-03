@@ -1,0 +1,79 @@
+{
+  "source_file": "X00016469672.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 94,
+    "line_count": 41,
+    "mean_confidence": 0.9807,
+    "variant_score": 0.9525
+  },
+  "store_name": {
+    "value": "SOONHUATMACHINERYENTERPRISE",
+    "confidence": 0.99,
+    "raw_text": "SOONHUATMACHINERYENTERPRISE"
+  },
+  "date": {
+    "value": "2019-11-01",
+    "confidence": 0.9804,
+    "raw_text": "DocNo. ：CS00004040 Date:11/01/2019"
+  },
+  "items": [
+    {
+      "name": "workmanship&service",
+      "price": "160.00",
+      "confidence": 0.9094,
+      "raw_text": "workmanship&service || 70549 1 160.00 160.00 160.00"
+    },
+    {
+      "name": "GIANT 606 OVERFLOWASSY",
+      "price": "17.00",
+      "confidence": 0.9116,
+      "raw_text": "GIANT606OVERFLOWASSY || 1071 1 17.00 17.00 17.00"
+    },
+    {
+      "name": "ENGINEOIL",
+      "price": "10.00",
+      "confidence": 0.9155,
+      "raw_text": "ENGINEOIL || 70791 1 10.00 10.00 10.00"
+    },
+    {
+      "name": "GREASEFORTOOLS 40 ML(AKODA)",
+      "price": "6.00",
+      "confidence": 0.9003,
+      "raw_text": "GREASEFORTOOLS40ML(AKODA) || 70637 1 6.00 6.00 6.00"
+    },
+    {
+      "name": "EY 20 PLUGCHAMPION",
+      "price": "8.00",
+      "confidence": 0.9103,
+      "raw_text": "EY20PLUGCHAMPION || 1643 1 8.00 8.00 8.00"
+    },
+    {
+      "name": "STARTER TALI",
+      "price": "10.00",
+      "confidence": 0.8976,
+      "raw_text": "STARTER TALI || 70197 1 10.00 10.00 10.00"
+    },
+    {
+      "name": "EY 20 STARTERHANDLE",
+      "price": "36.00",
+      "confidence": 0.9106,
+      "raw_text": "EY20STARTERHANDLE || 70561 2 18.00 18.00 36.00"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.00",
+      "confidence": 0.9088,
+      "raw_text": "Rounding: 0.00"
+    }
+  ],
+  "items_confidence": 0.908,
+  "total_amount": {
+    "value": "327.00",
+    "confidence": 0.99,
+    "raw_text": "Total Sales: 327.00"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

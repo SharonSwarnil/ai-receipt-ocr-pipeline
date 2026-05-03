@@ -1,0 +1,63 @@
+{
+  "source_file": "X51005705729.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 63,
+    "line_count": 37,
+    "mean_confidence": 0.9747,
+    "variant_score": 0.919
+  },
+  "store_name": {
+    "value": "ASO ELECTRICAL TRADING SDN BHD",
+    "confidence": 0.99,
+    "raw_text": "ASO ELECTRICAL TRADING SDN BHD"
+  },
+  "date": {
+    "value": "2017-10-13",
+    "confidence": 0.99,
+    "raw_text": "Salesperson: Date: 13/10/2017"
+  },
+  "items": [
+    {
+      "name": "SR: CABLE LUG 50 MM(M 10)",
+      "price": "15.12",
+      "confidence": 0.9273,
+      "raw_text": "SR: CABLE LUG 50MM(M10) 1.51 15.12"
+    },
+    {
+      "name": "SR: CRIMPING TOOL. HS-38, 5.5 MM - 38 MM",
+      "price": "79.50",
+      "confidence": 0.924,
+      "raw_text": "SR: CRIMPING TOOL. HS-38, 5.5MM - 38MM 79.50. 79.50"
+    },
+    {
+      "name": "TOT QTY",
+      "price": "94.62",
+      "confidence": 0.8917,
+      "raw_text": "TOT QTY: 11 || 94.62"
+    },
+    {
+      "name": "(Excluded GST) Sub Total",
+      "price": "89.26",
+      "confidence": 0.909,
+      "raw_text": "(Excluded GST) Sub Total : || 89.26"
+    },
+    {
+      "name": "SR Amount",
+      "price": "89.26",
+      "confidence": 0.9111,
+      "raw_text": "SR Amount || 6 89.26 GST"
+    }
+  ],
+  "items_confidence": 0.9126,
+  "total_amount": {
+    "value": "5.35",
+    "confidence": 0.99,
+    "raw_text": "Total: 5.35"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 94.60 from 'Total : 94.60'"
+  ],
+  "notes": []
+}

@@ -1,0 +1,79 @@
+{
+  "source_file": "X51005337877.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 51,
+    "line_count": 26,
+    "mean_confidence": 0.9576,
+    "variant_score": 0.821
+  },
+  "store_name": {
+    "value": "UROKO JAPANESE CUISINE SDN BHD",
+    "confidence": 0.99,
+    "raw_text": "UROKO JAPANESE CUISINE SDN BHD"
+  },
+  "date": {
+    "value": "2018-03-20",
+    "confidence": 0.879,
+    "raw_text": "Date : 20/03/2018 6:41:02PM"
+  },
+  "items": [
+    {
+      "name": "1 KO NABE INANIWA",
+      "price": "24.00",
+      "confidence": 0.9016,
+      "raw_text": "1 KO NABE INANIWA 24.00 SR"
+    },
+    {
+      "name": "UDON",
+      "price": "24.00",
+      "confidence": 0.891,
+      "raw_text": "UDON @ 24.00"
+    },
+    {
+      "name": "1 GREEN TEA",
+      "price": "1.00",
+      "confidence": 0.919,
+      "raw_text": "1 GREEN TEA @ 1.00 1.00 SR"
+    },
+    {
+      "name": "1 GYOZA 5 pcs",
+      "price": "15.00",
+      "confidence": 0.9196,
+      "raw_text": "1 GYOZA 5pcs @ 15.00 15.00 SR"
+    },
+    {
+      "name": "1 GARLIC CHAHAN 1]",
+      "price": "6.00",
+      "confidence": 0.8639,
+      "raw_text": "1 GARLIC CHAHAN @ 1] 6.00 SR"
+    },
+    {
+      "name": "4 Total",
+      "price": "46.00",
+      "confidence": 0.9297,
+      "raw_text": "4 Total : 46.00"
+    },
+    {
+      "name": "service Chg",
+      "price": "4.00",
+      "confidence": 0.9195,
+      "raw_text": "service Chg 10.00% : 4.00"
+    },
+    {
+      "name": "GST",
+      "price": "3.00",
+      "confidence": 0.9278,
+      "raw_text": "GST : 3.00"
+    }
+  ],
+  "items_confidence": 0.909,
+  "total_amount": {
+    "value": "53.00",
+    "confidence": 0.99,
+    "raw_text": "Net Total : 53.00"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

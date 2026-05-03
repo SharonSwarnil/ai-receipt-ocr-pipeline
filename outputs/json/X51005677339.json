@@ -1,0 +1,46 @@
+{
+  "source_file": "X51005677339.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 67,
+    "line_count": 31,
+    "mean_confidence": 0.9563,
+    "variant_score": 0.8666
+  },
+  "store_name": {
+    "value": "BEYOND BROTHERS HARDWARE",
+    "confidence": 0.99,
+    "raw_text": "BEYOND BROTHERS HARDWARE"
+  },
+  "date": {
+    "value": "2018-05-02",
+    "confidence": 0.99,
+    "raw_text": "Doc No. CS00065374 Date: 05/02/2018"
+  },
+  "items": [
+    {
+      "name": "IVAN_KONG 12 HOTMAIL.COM",
+      "price": "1921974.72",
+      "confidence": 0.8719,
+      "raw_text": "IVAN_KONG12@HOTMAIL.COM || GST 1D: 001921974.72"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.00",
+      "confidence": 0.9293,
+      "raw_text": "Rounding 0.00"
+    }
+  ],
+  "items_confidence": 0.9006,
+  "total_amount": {
+    "value": "3.60",
+    "confidence": 0.99,
+    "raw_text": "Total: 60.00 3.60"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 63.60 from 'Total Sales (Inclusive of GsT) : 63.60'",
+    "Competing total candidate 63.60 from 'Total Qty: 2 63.60'"
+  ],
+  "notes": []
+}

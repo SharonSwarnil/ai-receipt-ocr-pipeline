@@ -1,0 +1,42 @@
+{
+  "source_file": "X51005433494.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 39,
+    "line_count": 15,
+    "mean_confidence": 0.9336,
+    "variant_score": 0.7252
+  },
+  "store_name": {
+    "value": "AMBROSIAL GREEK",
+    "confidence": 0.9497,
+    "raw_text": "AMBROSIAL GREEK"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [
+    {
+      "name": "Sub-total",
+      "price": "75.00",
+      "confidence": 0.858,
+      "raw_text": "Sub-total 75.005R"
+    }
+  ],
+  "items_confidence": 0.858,
+  "total_amount": {
+    "value": "75.00",
+    "confidence": 0.6269,
+    "raw_text": "Iten Cont 75.00"
+  },
+  "low_confidence_fields": [
+    "date",
+    "total_amount"
+  ],
+  "conflicts": [
+    "Competing total candidate 25.00 from 'R% 25.00'"
+  ],
+  "notes": []
+}

@@ -1,0 +1,61 @@
+{
+  "source_file": "X51005712038.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 58,
+    "line_count": 32,
+    "mean_confidence": 0.9708,
+    "variant_score": 0.8598
+  },
+  "store_name": {
+    "value": "SWC ENTERPRISE SDN BHD",
+    "confidence": 0.99,
+    "raw_text": "SWC ENTERPRISE SDN BHD"
+  },
+  "date": {
+    "value": "2018-03-28",
+    "confidence": 0.8761,
+    "raw_text": "28/03/2018 10:36:13"
+  },
+  "items": [
+    {
+      "name": "PD",
+      "price": "3.80",
+      "confidence": 0.9252,
+      "raw_text": "PD3.20 -3.80"
+    },
+    {
+      "name": "PKT",
+      "price": "1.00",
+      "confidence": 0.9003,
+      "raw_text": "0020323 PKT 1x1.00 1.00S"
+    },
+    {
+      "name": "Iten 4 SubTotal Incl GST",
+      "price": "30.00",
+      "confidence": 0.9059,
+      "raw_text": "Iten4 SubTotal Incl GST 30.00"
+    },
+    {
+      "name": "Qty 6 Spec.Disc",
+      "price": "0.00",
+      "confidence": 0.9178,
+      "raw_text": "Qty6 Spec.Disc 0.00"
+    },
+    {
+      "name": "Saving",
+      "price": "0.00",
+      "confidence": 0.9222,
+      "raw_text": "Saving3.80 Rounding 0.00"
+    }
+  ],
+  "items_confidence": 0.9143,
+  "total_amount": {
+    "value": "30.00",
+    "confidence": 0.99,
+    "raw_text": "Total 30.00"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

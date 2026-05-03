@@ -1,0 +1,43 @@
+{
+  "source_file": "X51005605334.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 41,
+    "line_count": 27,
+    "mean_confidence": 0.985,
+    "variant_score": 0.8137
+  },
+  "store_name": {
+    "value": "POPULAR BOOK",
+    "confidence": 0.99,
+    "raw_text": "POPULAR BOOK"
+  },
+  "date": {
+    "value": "2018-03-29",
+    "confidence": 0.8349,
+    "raw_text": "29/03/18 13:24 Slip No.: 0010111111"
+  },
+  "items": [
+    {
+      "name": "PB SHT/P 11 H A 4 10'S C/0.",
+      "price": "7.00",
+      "confidence": 0.9092,
+      "raw_text": "PB SHT/P 11H A4 10'S C/0. || 2pc @ 3.50 7.00 T"
+    },
+    {
+      "name": "R RING 500'S",
+      "price": "2.65",
+      "confidence": 0.9251,
+      "raw_text": "R RING 500'S 2.65 T"
+    }
+  ],
+  "items_confidence": 0.9171,
+  "total_amount": {
+    "value": "9.65",
+    "confidence": 0.99,
+    "raw_text": "Total RM Incl. of GST 9.65"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

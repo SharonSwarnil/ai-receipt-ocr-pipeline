@@ -1,0 +1,49 @@
+{
+  "source_file": "X51005757304.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 35,
+    "line_count": 26,
+    "mean_confidence": 0.9771,
+    "variant_score": 0.7916
+  },
+  "store_name": {
+    "value": "DAISO JAPAN, IOI MALL",
+    "confidence": 0.9807,
+    "raw_text": "DAISO JAPAN, IOI MALL"
+  },
+  "date": {
+    "value": "2018-03-20",
+    "confidence": 0.8402,
+    "raw_text": "20/03/2018 7:07pm RCPT N0.18252"
+  },
+  "items": [
+    {
+      "name": "20/03/2018 7:07 pm RCPT",
+      "price": "0.18",
+      "confidence": 0.9195,
+      "raw_text": "20/03/2018 7:07pm RCPT N0.18252"
+    },
+    {
+      "name": "Plastic spoons 8 pcs",
+      "price": "17.70",
+      "confidence": 0.9286,
+      "raw_text": "Plastic spoons 8pcs 17.70 SR"
+    },
+    {
+      "name": "Plastic forks 8 pcs",
+      "price": "17.70",
+      "confidence": 0.9229,
+      "raw_text": "Plastic forks 8pcs 17.70 SR"
+    }
+  ],
+  "items_confidence": 0.9237,
+  "total_amount": {
+    "value": "35.40",
+    "confidence": 0.99,
+    "raw_text": "TOTAL RM 35.40"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

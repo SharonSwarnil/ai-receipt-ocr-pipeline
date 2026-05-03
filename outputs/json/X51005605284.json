@@ -1,0 +1,63 @@
+{
+  "source_file": "X51005605284.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 59,
+    "line_count": 31,
+    "mean_confidence": 0.9858,
+    "variant_score": 0.9063
+  },
+  "store_name": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "date": {
+    "value": "2018-03-23",
+    "confidence": 0.8266,
+    "raw_text": "M#: M2-0 23/03/2018 3:13:19"
+  },
+  "items": [
+    {
+      "name": "CANON PG-47 BK E 400 BLACK FINE( SR",
+      "price": "1.00",
+      "confidence": 0.9164,
+      "raw_text": "CANON PG-47BK E400 BLACK FINE( SR 1 27736 $0.20 -1.00"
+    },
+    {
+      "name": "6 Type",
+      "price": "29.00",
+      "confidence": 0.9209,
+      "raw_text": "6 Type: 2 29.00 29.00"
+    },
+    {
+      "name": "Disc $.20 Total",
+      "price": "84.00",
+      "confidence": 0.9197,
+      "raw_text": "Disc $.20 Total || 84.00"
+    },
+    {
+      "name": "Rounding Adj X 5",
+      "price": "1.00",
+      "confidence": 0.8958,
+      "raw_text": "Rounding Adj X5 -1.00"
+    },
+    {
+      "name": "GST Summary",
+      "price": "2.00",
+      "confidence": 0.928,
+      "raw_text": "GST Summary 2.00"
+    }
+  ],
+  "items_confidence": 0.9162,
+  "total_amount": {
+    "value": "83.00",
+    "confidence": 0.99,
+    "raw_text": "Total 4.70 83.00"
+  },
+  "low_confidence_fields": [
+    "store_name"
+  ],
+  "conflicts": [],
+  "notes": []
+}

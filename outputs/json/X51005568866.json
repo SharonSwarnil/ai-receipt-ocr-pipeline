@@ -1,0 +1,45 @@
+{
+  "source_file": "X51005568866.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 52,
+    "line_count": 36,
+    "mean_confidence": 0.9589,
+    "variant_score": 0.857
+  },
+  "store_name": {
+    "value": "POPULAR BOOK",
+    "confidence": 0.99,
+    "raw_text": "POPULAR BOOK"
+  },
+  "date": {
+    "value": "2020-08-31",
+    "confidence": 0.8238,
+    "raw_text": "Card Expiry:31/08/20"
+  },
+  "items": [
+    {
+      "name": "H'MAN GLASS PAPER",
+      "price": "5.60",
+      "confidence": 0.8875,
+      "raw_text": "H'MAN GLASS PAPER || 4pc e1.40 5.60T"
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "0.01",
+      "confidence": 0.9177,
+      "raw_text": "Rounding Adj 0.01"
+    }
+  ],
+  "items_confidence": 0.9026,
+  "total_amount": {
+    "value": "5.05",
+    "confidence": 0.99,
+    "raw_text": "Total RM 5.05"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 5.04 from 'Total RM Incl.of GST 5.04'"
+  ],
+  "notes": []
+}

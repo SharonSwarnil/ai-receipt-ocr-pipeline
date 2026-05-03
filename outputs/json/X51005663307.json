@@ -1,0 +1,82 @@
+{
+  "source_file": "X51005663307.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 77,
+    "line_count": 36,
+    "mean_confidence": 0.9556,
+    "variant_score": 0.9168
+  },
+  "store_name": {
+    "value": "TAMAN SRI RAMPAI,",
+    "confidence": 0.841,
+    "raw_text": "TAMAN SRI RAMPAI,"
+  },
+  "date": {
+    "value": "2018-09-02",
+    "confidence": 0.99,
+    "raw_text": "Date : 09/02/2018 09:21:19 AM"
+  },
+  "items": [
+    {
+      "name": "5 PCS",
+      "price": "14.30",
+      "confidence": 0.9078,
+      "raw_text": "5 PCS 2.86 0.00 14.30 SR"
+    },
+    {
+      "name": "5 PCS",
+      "price": "14.30",
+      "confidence": 0.9089,
+      "raw_text": "5 PCS 2.86 0.00 14.30 SR"
+    },
+    {
+      "name": "2 PCS",
+      "price": "5.72",
+      "confidence": 0.9243,
+      "raw_text": "2 PCS 2.86 0.00 5.72 SR"
+    },
+    {
+      "name": "1 BTL #",
+      "price": "7.42",
+      "confidence": 0.8699,
+      "raw_text": "1 BTL # 7.42 0.00 7.42 SR"
+    },
+    {
+      "name": "2 PCS",
+      "price": "7.42",
+      "confidence": 0.889,
+      "raw_text": "2 PCS * 3.71 0.00 7.42 SR"
+    },
+    {
+      "name": "1 PCS",
+      "price": "2.33",
+      "confidence": 0.853,
+      "raw_text": "1 PCS * 2.33 0.00 2.33 SR"
+    },
+    {
+      "name": "1 PCS",
+      "price": "5.30",
+      "confidence": 0.9126,
+      "raw_text": "1 PCS 5.30 0.00 5.30 SR"
+    },
+    {
+      "name": "Rounding Adjustment",
+      "price": "0.01",
+      "confidence": 0.9299,
+      "raw_text": "Rounding Adjustment : 0.01"
+    }
+  ],
+  "items_confidence": 0.8994,
+  "total_amount": {
+    "value": "56.80",
+    "confidence": 0.7485,
+    "raw_text": "Rounded Total (RM): 56.80"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 0.01 from 'Rounding Adjustment : 0.01'",
+    "Competing total candidate 53.58 from 'SR @ 6 % 53.58'"
+  ],
+  "notes": []
+}

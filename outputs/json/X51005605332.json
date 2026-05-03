@@ -1,0 +1,37 @@
+{
+  "source_file": "X51005605332.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 38,
+    "line_count": 30,
+    "mean_confidence": 0.9851,
+    "variant_score": 0.817
+  },
+  "store_name": {
+    "value": "POPULAR BOOK",
+    "confidence": 0.99,
+    "raw_text": "POPULAR BOOK"
+  },
+  "date": {
+    "value": "2018-03-14",
+    "confidence": 0.8421,
+    "raw_text": "14/03/18 12:52 Slip No. : 0040081037"
+  },
+  "items": [
+    {
+      "name": "CBE Rubber Band 200 gm",
+      "price": "7.95",
+      "confidence": 0.913,
+      "raw_text": "CBE Rubber Band200gm 7.95 T"
+    }
+  ],
+  "items_confidence": 0.913,
+  "total_amount": {
+    "value": "7.95",
+    "confidence": 0.99,
+    "raw_text": "Total RM Incl. of GST 7.95"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

@@ -1,0 +1,67 @@
+{
+  "source_file": "X51005675099.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 48,
+    "line_count": 29,
+    "mean_confidence": 0.9721,
+    "variant_score": 0.8081
+  },
+  "store_name": {
+    "value": "Super Terminal Sdn Bhd",
+    "confidence": 0.9457,
+    "raw_text": "Super Terminal Sdn Bhd"
+  },
+  "date": {
+    "value": "2018-01-20",
+    "confidence": 0.8886,
+    "raw_text": "INV NO:CS-1801-00883Date :20/01/2018"
+  },
+  "items": [
+    {
+      "name": "1.LED 11 SIGNAL",
+      "price": "58.30",
+      "confidence": 0.8883,
+      "raw_text": "1.LED 11 SIGNAL || 1 X 55.00 58.30 SR"
+    },
+    {
+      "name": "(MODEL:SC 1201(MT)",
+      "price": "19.08",
+      "confidence": 0.8937,
+      "raw_text": "(MODEL:SC1201(MT) || 1 X 18.00 19.08 SR"
+    },
+    {
+      "name": "3.YAMLUBE(SEMI) MOTOR OIL",
+      "price": "31.80",
+      "confidence": 0.8922,
+      "raw_text": "3.YAMLUBE(SEMI) MOTOR OIL || 1X30.00 31.80 SR"
+    },
+    {
+      "name": "4.OIL FILTER LC",
+      "price": "13.78",
+      "confidence": 0.8854,
+      "raw_text": "4.OIL FILTER LC135 || 1 X13.00 13.78 SR"
+    },
+    {
+      "name": "5.BULBSIGNAL 12 V 8 RXZG 18.",
+      "price": "3.18",
+      "confidence": 0.9129,
+      "raw_text": "5.BULBSIGNAL12V8RXZG18.5 || 1X3.00 3.18 SR"
+    },
+    {
+      "name": "6.NUMBER PLASTIC",
+      "price": "6.36",
+      "confidence": 0.894,
+      "raw_text": "6.NUMBER PLASTIC || 6 X 1.00 6.36 SR"
+    }
+  ],
+  "items_confidence": 0.8944,
+  "total_amount": {
+    "value": "132.50",
+    "confidence": 0.99,
+    "raw_text": "Total SalesInclusiveGST@6% 132.50"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

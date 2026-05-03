@@ -1,0 +1,61 @@
+{
+  "source_file": "X51005663278.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 46,
+    "line_count": 28,
+    "mean_confidence": 0.9723,
+    "variant_score": 0.8158
+  },
+  "store_name": {
+    "value": "IKANO HANDEL SDN BHD",
+    "confidence": 0.99,
+    "raw_text": "IKANO HANDEL SDN BHD"
+  },
+  "date": {
+    "value": "2017-12-23",
+    "confidence": 0.99,
+    "raw_text": "Date: 23/12/17"
+  },
+  "items": [
+    {
+      "name": "A 1 mond Cak",
+      "price": "22.50",
+      "confidence": 0.9153,
+      "raw_text": "910347623 A1mond Cak 22.50 SR"
+    },
+    {
+      "name": "IKEA Retai",
+      "price": "36.00",
+      "confidence": 0.9211,
+      "raw_text": "999900245 IKEA Retai 36.00 SR"
+    },
+    {
+      "name": "IKEA Drink",
+      "price": "1.00",
+      "confidence": 0.8988,
+      "raw_text": "599937000 IKEA Drink 1.00 SR"
+    },
+    {
+      "name": "Dark Chocolate 70% U",
+      "price": "13.80",
+      "confidence": 0.8961,
+      "raw_text": "999900701 Dark Chocolate 70% U || 2 pc 6.90 13.80 SR"
+    },
+    {
+      "name": "Rounding Adj.",
+      "price": "0.00",
+      "confidence": 0.9265,
+      "raw_text": "Rounding Adj. 0.00"
+    }
+  ],
+  "items_confidence": 0.9116,
+  "total_amount": {
+    "value": "73.30",
+    "confidence": 0.99,
+    "raw_text": "Total Rounded 73.30"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

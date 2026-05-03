@@ -1,0 +1,52 @@
+{
+  "source_file": "X51005715456.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 66,
+    "line_count": 32,
+    "mean_confidence": 0.9622,
+    "variant_score": 0.8809
+  },
+  "store_name": {
+    "value": "KHE ELECTRICAL, TRADING",
+    "confidence": 0.99,
+    "raw_text": "KHE ELECTRICAL, TRADING"
+  },
+  "date": {
+    "value": "2018-03-22",
+    "confidence": 0.9623,
+    "raw_text": "Doc No. : CS00058953 Date: 22/03/2018"
+  },
+  "items": [
+    {
+      "name": "fotal Qty",
+      "price": "101.76",
+      "confidence": 0.9104,
+      "raw_text": "fotal Qty: 2 101.76"
+    },
+    {
+      "name": "Totai GsT",
+      "price": "5.76",
+      "confidence": 0.8942,
+      "raw_text": "Totai GsT : 5.76"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.01",
+      "confidence": 0.9237,
+      "raw_text": "Rounding : -0.01"
+    }
+  ],
+  "items_confidence": 0.9094,
+  "total_amount": {
+    "value": "5.76",
+    "confidence": 0.99,
+    "raw_text": "Total: 96.00 5.76"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 101.75 from 'Total Sales (Inclusive of GsT) : 101.75'",
+    "Competing total candidate 96.00 from 'Total Sales (Excluding GST) : 96.00'"
+  ],
+  "notes": []
+}

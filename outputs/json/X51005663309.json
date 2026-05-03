@@ -1,0 +1,55 @@
+{
+  "source_file": "X51005663309.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 49,
+    "line_count": 28,
+    "mean_confidence": 0.9713,
+    "variant_score": 0.8522
+  },
+  "store_name": {
+    "value": "KDH SENG HARDWARE",
+    "confidence": 0.99,
+    "raw_text": "KDH SENG HARDWARE"
+  },
+  "date": {
+    "value": "2018-01-02",
+    "confidence": 0.9889,
+    "raw_text": "RECEIPT #: CS00044964 DATE: 01/02/2018"
+  },
+  "items": [
+    {
+      "name": "H 311 110 U/P AMOUNT",
+      "price": "5.30",
+      "confidence": 0.8714,
+      "raw_text": "H311 110 U/P AMOUNT || 3674 10 0.53 5.30 S ."
+    },
+    {
+      "name": "DISC.",
+      "price": "0.00",
+      "confidence": 0.9248,
+      "raw_text": "DISC. 0.00"
+    },
+    {
+      "name": "GST",
+      "price": "0.30",
+      "confidence": 0.9279,
+      "raw_text": "GST 0.30"
+    },
+    {
+      "name": "ROUNDING",
+      "price": "0.00",
+      "confidence": 0.9274,
+      "raw_text": "ROUNDING 0.00"
+    }
+  ],
+  "items_confidence": 0.9129,
+  "total_amount": {
+    "value": "5.30",
+    "confidence": 0.99,
+    "raw_text": "TOTAL 5.30"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

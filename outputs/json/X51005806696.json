@@ -1,0 +1,69 @@
+{
+  "source_file": "X51005806696.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 41,
+    "line_count": 24,
+    "mean_confidence": 0.9831,
+    "variant_score": 0.8019
+  },
+  "store_name": {
+    "value": "IMAGE FRINTEC (M) SDN BHD",
+    "confidence": 0.99,
+    "raw_text": "IMAGE FRINTEC (M) SDN BHD"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [
+    {
+      "name": "Qty Desc",
+      "price": "2.00",
+      "confidence": 0.9093,
+      "raw_text": "Qty Desc 1.00 2.00 SR"
+    },
+    {
+      "name": "2 COLOR COPY A",
+      "price": "0.20",
+      "confidence": 0.9183,
+      "raw_text": "2 COLOR COPY A4 0.10 0.20 SR"
+    },
+    {
+      "name": "2 PHOTOCOPY A",
+      "price": "5.00",
+      "confidence": 0.9032,
+      "raw_text": "2 PHOTOCOPY A4 2.50 5.00 SR"
+    },
+    {
+      "name": "2 LAMINATE A",
+      "price": "7.20",
+      "confidence": 0.883,
+      "raw_text": "2 LAMINATE A4 || 6 Type: 3 7.20"
+    },
+    {
+      "name": "GST 6%",
+      "price": "0.02",
+      "confidence": 0.928,
+      "raw_text": "GST 6% 0.02"
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "7.65",
+      "confidence": 0.9294,
+      "raw_text": "Rounding Adj : 7.65"
+    }
+  ],
+  "items_confidence": 0.9119,
+  "total_amount": {
+    "value": "10.00",
+    "confidence": 0.99,
+    "raw_text": "NET TOTAL: 10.00"
+  },
+  "low_confidence_fields": [
+    "date"
+  ],
+  "conflicts": [],
+  "notes": []
+}

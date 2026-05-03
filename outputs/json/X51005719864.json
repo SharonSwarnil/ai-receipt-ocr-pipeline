@@ -1,0 +1,37 @@
+{
+  "source_file": "X51005719864.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 40,
+    "line_count": 23,
+    "mean_confidence": 0.9643,
+    "variant_score": 0.7985
+  },
+  "store_name": {
+    "value": "FUN N CHEER (MALURD)",
+    "confidence": 0.99,
+    "raw_text": "FUN N CHEER (MALURD)"
+  },
+  "date": {
+    "value": "2018-05-01",
+    "confidence": 0.8053,
+    "raw_text": "05/01/2018 Cashier: Cs01"
+  },
+  "items": [
+    {
+      "name": "KAIN BEBOLA(S)SHA BU SR",
+      "price": "29.80",
+      "confidence": 0.8977,
+      "raw_text": "KAIN BEBOLA(S)SHA BU SR || 0412638 ..2  14.90 29.80"
+    }
+  ],
+  "items_confidence": 0.8977,
+  "total_amount": {
+    "value": "28.11",
+    "confidence": 0.99,
+    "raw_text": "TOTAL EXCL.GST 28.11·"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

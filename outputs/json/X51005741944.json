@@ -1,0 +1,37 @@
+{
+  "source_file": "X51005741944.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 53,
+    "line_count": 30,
+    "mean_confidence": 0.9763,
+    "variant_score": 0.8459
+  },
+  "store_name": {
+    "value": "BHPetrol Subang Airport",
+    "confidence": 0.9476,
+    "raw_text": "BHPetrol Subang Airport"
+  },
+  "date": {
+    "value": "2020-11-30",
+    "confidence": 0.8999,
+    "raw_text": "136 30/11/2020"
+  },
+  "items": [
+    {
+      "name": "intiniti 97 E 4 Mp",
+      "price": "41.95",
+      "confidence": 0.8969,
+      "raw_text": "intiniti97 E4Mp3 2.570 16.32 41.95 S"
+    }
+  ],
+  "items_confidence": 0.8969,
+  "total_amount": {
+    "value": "41.95",
+    "confidence": 0.99,
+    "raw_text": "TOTAL SALES RM 41.95"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

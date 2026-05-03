@@ -1,0 +1,43 @@
+{
+  "source_file": "X51005447832.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 39,
+    "line_count": 26,
+    "mean_confidence": 0.9663,
+    "variant_score": 0.7295
+  },
+  "store_name": {
+    "value": "PETRODELI.ENTERPRISE",
+    "confidence": 0.99,
+    "raw_text": "PETRODELI.ENTERPRISE"
+  },
+  "date": {
+    "value": "2018-02-26",
+    "confidence": 0.8808,
+    "raw_text": "26/02/18 08:28 10886 09"
+  },
+  "items": [
+    {
+      "name": "FuelSave 95 RM",
+      "price": "85.54",
+      "confidence": 0.9252,
+      "raw_text": "FuelSave 95 RM 85.54 C"
+    },
+    {
+      "name": "Relief GST C RM",
+      "price": "0.00",
+      "confidence": 0.9077,
+      "raw_text": "Relief GST C RM 0.00"
+    }
+  ],
+  "items_confidence": 0.9165,
+  "total_amount": {
+    "value": "85.54",
+    "confidence": 0.99,
+    "raw_text": "Total Gross C RM 85.54"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

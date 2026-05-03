@@ -1,0 +1,46 @@
+{
+  "source_file": "X51005677332.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 58,
+    "line_count": 29,
+    "mean_confidence": 0.9788,
+    "variant_score": 0.867
+  },
+  "store_name": {
+    "value": "SYARIKAT PERNIAGAAN GIN KEE",
+    "confidence": 0.99,
+    "raw_text": "SYARIKAT PERNIAGAAN GIN KEE"
+  },
+  "date": {
+    "value": "2018-12-01",
+    "confidence": 0.99,
+    "raw_text": "Doc No. CS00012693 Date: 12/01/2018"
+  },
+  "items": [
+    {
+      "name": "Totai Sales (Excluding GST)",
+      "price": "7.50",
+      "confidence": 0.9219,
+      "raw_text": "Totai Sales (Excluding GST): 7.50"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.00",
+      "confidence": 0.9287,
+      "raw_text": "Rounding 0.00"
+    }
+  ],
+  "items_confidence": 0.9253,
+  "total_amount": {
+    "value": "0.45",
+    "confidence": 0.99,
+    "raw_text": "Total: 7.50 0.45"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 7.95 from 'Total Sales(Inclusive of GsT) 7.95'",
+    "Competing total candidate 7.95 from 'Total Qty: 1 7.95'"
+  ],
+  "notes": []
+}

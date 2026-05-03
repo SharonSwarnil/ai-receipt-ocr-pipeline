@@ -1,0 +1,55 @@
+{
+  "source_file": "X51005663310.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 44,
+    "line_count": 26,
+    "mean_confidence": 0.9613,
+    "variant_score": 0.7781
+  },
+  "store_name": {
+    "value": "LIM SENG THO HARDWARE TRADING",
+    "confidence": 0.99,
+    "raw_text": "LIM SENG THO HARDWARE TRADING"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [
+    {
+      "name": "JalanlpohBatu",
+      "price": "5.51",
+      "confidence": 0.9146,
+      "raw_text": "JalanlpohBatu5.51200KualaLumpur"
+    },
+    {
+      "name": "12 00 NOS X",
+      "price": "0.70",
+      "confidence": 0.8667,
+      "raw_text": "12 00 NOS X 0.70 840 SR"
+    },
+    {
+      "name": "Totai Incl. of GST",
+      "price": "8.40",
+      "confidence": 0.916,
+      "raw_text": "Totai Incl. of GST 8.40"
+    }
+  ],
+  "items_confidence": 0.8991,
+  "total_amount": {
+    "value": "8.40",
+    "confidence": 0.6829,
+    "raw_text": "Payment: 8.40"
+  },
+  "low_confidence_fields": [
+    "date",
+    "total_amount"
+  ],
+  "conflicts": [
+    "Competing total candidate 7.92 from 'SR ? 6% 7.92 048'",
+    "Competing total candidate 0.70 from '12 00 NOS X 0.70 840 SR'"
+  ],
+  "notes": []
+}

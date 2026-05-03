@@ -1,0 +1,57 @@
+{
+  "source_file": "X51005663272.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 58,
+    "line_count": 32,
+    "mean_confidence": 0.9723,
+    "variant_score": 0.8886
+  },
+  "store_name": {
+    "value": "WAHIN HARDWARE SIN BHD",
+    "confidence": 0.99,
+    "raw_text": "WAHIN HARDWARE SIN BHD"
+  },
+  "date": {
+    "value": "2017-04-12",
+    "confidence": 0.9522,
+    "raw_text": "Date 8 04/12/17 5:06 PH"
+  },
+  "items": [
+    {
+      "name": "14\" MINI ROLLER REFILL",
+      "price": "5.30",
+      "confidence": 0.9069,
+      "raw_text": "14\" MINI ROLLER REFILL || 2 2.6500 5.30 SR"
+    },
+    {
+      "name": "24\"X 18\" ROLLERPAINT HANDLE",
+      "price": "6.36",
+      "confidence": 0.8988,
+      "raw_text": "24\"X18\" ROLLERPAINT HANDLE || 2 3.1800 6.36 SR"
+    },
+    {
+      "name": "33.5 LRT BLACK OXIDE PAINT",
+      "price": "30.74",
+      "confidence": 0.9143,
+      "raw_text": "33.5LRT BLACK OXIDE PAINT || 1 30.7400 30.74 SR"
+    },
+    {
+      "name": "Gross Amount",
+      "price": "40.00",
+      "confidence": 0.9196,
+      "raw_text": "Gross Amount : 40.00"
+    }
+  ],
+  "items_confidence": 0.9099,
+  "total_amount": {
+    "value": "2.40",
+    "confidence": 0.99,
+    "raw_text": "Total GST Ant : 2.40"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 42.40 from 'Total (RM) 8 42.40'"
+  ],
+  "notes": []
+}

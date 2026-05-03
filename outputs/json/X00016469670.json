@@ -1,0 +1,45 @@
+{
+  "source_file": "X00016469670.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 44,
+    "line_count": 29,
+    "mean_confidence": 0.9573,
+    "variant_score": 0.7883
+  },
+  "store_name": {
+    "value": "OJCMARKETINGSDNBHD",
+    "confidence": 0.99,
+    "raw_text": "OJCMARKETINGSDNBHD"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [
+    {
+      "name": "TotalGST 6%",
+      "price": "0.00",
+      "confidence": 0.8978,
+      "raw_text": "TotalGST@6%: 0.00"
+    },
+    {
+      "name": "Round Amt",
+      "price": "0.00",
+      "confidence": 0.9037,
+      "raw_text": "Round Amt: 0.00"
+    }
+  ],
+  "items_confidence": 0.9007,
+  "total_amount": {
+    "value": "193.00",
+    "confidence": 0.99,
+    "raw_text": "TOTAL: 193.00"
+  },
+  "low_confidence_fields": [
+    "date"
+  ],
+  "conflicts": [],
+  "notes": []
+}

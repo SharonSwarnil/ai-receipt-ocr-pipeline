@@ -1,0 +1,63 @@
+{
+  "source_file": "X51005442379.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 37,
+    "line_count": 19,
+    "mean_confidence": 0.9476,
+    "variant_score": 0.7521
+  },
+  "store_name": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [
+    {
+      "name": "SR I 00100000027-2 Meal+2 Vege",
+      "price": "8.70",
+      "confidence": 0.8672,
+      "raw_text": "SR I00100000027-2Meal+2Vege $8.70 Qty"
+    },
+    {
+      "name": "$0.50 SR I 00100000064-AddVegetable $8.",
+      "price": "0.50",
+      "confidence": 0.9012,
+      "raw_text": "$0.50 SR I00100000064-AddVegetable $8.70 || $0.50"
+    },
+    {
+      "name": "TotalAmcunt",
+      "price": "9.20",
+      "confidence": 0.8643,
+      "raw_text": "TotalAmcunt:$9.20"
+    },
+    {
+      "name": "Payment Mode GST 6%",
+      "price": "0.52",
+      "confidence": 0.8844,
+      "raw_text": "Payment Mode GST@6%:$0.52"
+    }
+  ],
+  "items_confidence": 0.8792,
+  "total_amount": {
+    "value": "9.20",
+    "confidence": 0.648,
+    "raw_text": "$9.20"
+  },
+  "low_confidence_fields": [
+    "store_name",
+    "date",
+    "total_amount"
+  ],
+  "conflicts": [
+    "Competing total candidate 0.52 from 'Payment Mode GST@6%:$0.52'",
+    "Competing total candidate 8.68 from '8.68 .Tax(s)'",
+    "Competing total candidate 0.00 from 'GSTSummary $0.00'"
+  ],
+  "notes": []
+}

@@ -1,0 +1,63 @@
+{
+  "source_file": "X51005568881.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 48,
+    "line_count": 25,
+    "mean_confidence": 0.9666,
+    "variant_score": 0.7988
+  },
+  "store_name": {
+    "value": "HON HWA HARDWARE TRADING",
+    "confidence": 0.99,
+    "raw_text": "HON HWA HARDWARE TRADING"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [
+    {
+      "name": "5 PVCWALLPLUG",
+      "price": "5.00",
+      "confidence": 0.909,
+      "raw_text": "5PVCWALLPLUG 1.00 5.00 SR"
+    },
+    {
+      "name": "5.9 Type:2 Total",
+      "price": "10.40",
+      "confidence": 0.9009,
+      "raw_text": "5.9Type:2 Total 10.40"
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "0.00",
+      "confidence": 0.9221,
+      "raw_text": "Rounding Adj 0.00"
+    },
+    {
+      "name": "Tolal Inclusive GST",
+      "price": "10.40",
+      "confidence": 0.9116,
+      "raw_text": "Tolal Inclusive GST: 10.40"
+    },
+    {
+      "name": "Code % Net Amt GST Tofal(RM)",
+      "price": "10.40",
+      "confidence": 0.8939,
+      "raw_text": "Code % Net Amt GST Tofal(RM) || SR SR 9.81 0.59 10.40"
+    }
+  ],
+  "items_confidence": 0.9075,
+  "total_amount": {
+    "value": "10.40",
+    "confidence": 0.99,
+    "raw_text": "Total 9.81 0.59 10.40"
+  },
+  "low_confidence_fields": [
+    "date"
+  ],
+  "conflicts": [],
+  "notes": []
+}

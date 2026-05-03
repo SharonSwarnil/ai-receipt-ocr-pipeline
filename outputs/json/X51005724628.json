@@ -1,0 +1,40 @@
+{
+  "source_file": "X51005724628.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 68,
+    "line_count": 34,
+    "mean_confidence": 0.9786,
+    "variant_score": 0.8987
+  },
+  "store_name": {
+    "value": "KEDAI PAPAN YEW CHUAN",
+    "confidence": 0.99,
+    "raw_text": "KEDAI PAPAN YEW CHUAN"
+  },
+  "date": {
+    "value": "2018-10-03",
+    "confidence": 0.9713,
+    "raw_text": "Doc No. ：CS00010679 Date:10/03/2018"
+  },
+  "items": [
+    {
+      "name": "Rounding",
+      "price": "0.00",
+      "confidence": 0.9164,
+      "raw_text": "Rounding : 0.00"
+    }
+  ],
+  "items_confidence": 0.9164,
+  "total_amount": {
+    "value": "4.80",
+    "confidence": 0.99,
+    "raw_text": "Total : 80.00 4.80"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 84.80 from 'Total Qty: 10 84.80'",
+    "Competing total candidate 80.00 from 'Total Sales (Excluding GST) : 80.00'"
+  ],
+  "notes": []
+}

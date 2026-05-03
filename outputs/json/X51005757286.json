@@ -1,0 +1,43 @@
+{
+  "source_file": "X51005757286.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 40,
+    "line_count": 24,
+    "mean_confidence": 0.9799,
+    "variant_score": 0.8304
+  },
+  "store_name": {
+    "value": "TSH POWER HARDWARE",
+    "confidence": 0.99,
+    "raw_text": "TSH POWER HARDWARE"
+  },
+  "date": {
+    "value": "2017-10-10",
+    "confidence": 0.99,
+    "raw_text": "Date 10/10/2017 4:22:12 PM"
+  },
+  "items": [
+    {
+      "name": "1 MAJESTA HSS",
+      "price": "8.00",
+      "confidence": 0.9118,
+      "raw_text": "1 MAJESTA HSS 2 4.00 8.00 SR*"
+    },
+    {
+      "name": "Round Amt",
+      "price": "0.00",
+      "confidence": 0.9292,
+      "raw_text": "Round Amt: 0.00"
+    }
+  ],
+  "items_confidence": 0.9205,
+  "total_amount": {
+    "value": "8.00",
+    "confidence": 0.99,
+    "raw_text": "NET TOTAL : 8.00"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

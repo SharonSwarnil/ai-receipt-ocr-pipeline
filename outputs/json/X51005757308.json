@@ -1,0 +1,67 @@
+{
+  "source_file": "X51005757308.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 62,
+    "line_count": 37,
+    "mean_confidence": 0.962,
+    "variant_score": 0.846
+  },
+  "store_name": {
+    "value": "MR.D.I.Y.(M) SDN BHD",
+    "confidence": 0.9776,
+    "raw_text": "MR.D.I.Y.（M) SDN BHD"
+  },
+  "date": {
+    "value": "2018-03-21",
+    "confidence": 0.8764,
+    "raw_text": "21-03-18 12:27 SH01 ZJ86 T2 R000110882"
+  },
+  "items": [
+    {
+      "name": "RC 22-32",
+      "price": "1.90",
+      "confidence": 0.9051,
+      "raw_text": "RC22-32-36 || 9084134 1X 1.90 1.90"
+    },
+    {
+      "name": "GB 12-21-22",
+      "price": "3.90",
+      "confidence": 0.9115,
+      "raw_text": "GB12-21-22-36 || 6935818350846 1X3.90 3.90"
+    },
+    {
+      "name": "HD 03",
+      "price": "1.90",
+      "confidence": 0.9053,
+      "raw_text": "HD03-36 || 9084135 1X1.90 1.90"
+    },
+    {
+      "name": "WA 10-8/",
+      "price": "11.90",
+      "confidence": 0.9084,
+      "raw_text": "WA10-8/64 || 9554100363103 1 X 11.90 11.90"
+    },
+    {
+      "name": "MC 42",
+      "price": "1.70",
+      "confidence": 0.9066,
+      "raw_text": "MC42-88 || 9080456 1 X 1.70 1.70"
+    },
+    {
+      "name": "PLASTIC BAGS S",
+      "price": "0.20",
+      "confidence": 0.8948,
+      "raw_text": "PLASTIC BAGS S* || 99999 1X0.20 0.20"
+    }
+  ],
+  "items_confidence": 0.9053,
+  "total_amount": {
+    "value": "21.50",
+    "confidence": 0.99,
+    "raw_text": "Total Incl. GST@6% RM 21.50"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

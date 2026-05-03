@@ -1,0 +1,45 @@
+{
+  "source_file": "X51005745244.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 31,
+    "line_count": 23,
+    "mean_confidence": 0.9736,
+    "variant_score": 0.7598
+  },
+  "store_name": {
+    "value": "A-G--O6, DATARAN GLOMAC,",
+    "confidence": 0.9693,
+    "raw_text": "A-G--O6, DATARAN GLOMAC,"
+  },
+  "date": {
+    "value": "2018-02-14",
+    "confidence": 0.8461,
+    "raw_text": "Served by: J0SEPH 14/02/2018 11:13:31"
+  },
+  "items": [
+    {
+      "name": "1 (MY) EDV Meal RM",
+      "price": "11.90",
+      "confidence": 0.9173,
+      "raw_text": "1 (MY) EDV Meal RM11.90"
+    },
+    {
+      "name": "GST 6% (6%) RM",
+      "price": "0.67",
+      "confidence": 0.9225,
+      "raw_text": "GST 6% (6%) RM0.67"
+    }
+  ],
+  "items_confidence": 0.9199,
+  "total_amount": {
+    "value": "11.23",
+    "confidence": 0.99,
+    "raw_text": "Total-Excl-GST RM11.23"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 11.90 from 'Total (Eat Jn) RM11.90'"
+  ],
+  "notes": []
+}

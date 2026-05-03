@@ -1,0 +1,67 @@
+{
+  "source_file": "X51005568895.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 63,
+    "line_count": 33,
+    "mean_confidence": 0.9766,
+    "variant_score": 0.9202
+  },
+  "store_name": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "date": {
+    "value": "2017-09-13",
+    "confidence": 0.9695,
+    "raw_text": "Date : 13/09/2017 01:13:09 PM"
+  },
+  "items": [
+    {
+      "name": "Pp - 16 x",
+      "price": "0.04",
+      "confidence": 0.8949,
+      "raw_text": "Pp - 16x26 0.04mm"
+    },
+    {
+      "name": "PP - 14 x",
+      "price": "0.04",
+      "confidence": 0.9189,
+      "raw_text": "PP - 14x20 0.04mm"
+    },
+    {
+      "name": "Item Count: 3 Item Qty",
+      "price": "4.00",
+      "confidence": 0.9253,
+      "raw_text": "Item Count: 3 Item Qty: 4.00"
+    },
+    {
+      "name": "GST 6%",
+      "price": "2.97",
+      "confidence": 0.9297,
+      "raw_text": "GST 6% : 2.97"
+    },
+    {
+      "name": "Rounding Adf.",
+      "price": "0.02",
+      "confidence": 0.9152,
+      "raw_text": "Rounding Adf. : -0.02"
+    }
+  ],
+  "items_confidence": 0.9168,
+  "total_amount": {
+    "value": "52.45",
+    "confidence": 0.726,
+    "raw_text": "Rounded Total (RM): 52.45"
+  },
+  "low_confidence_fields": [
+    "store_name"
+  ],
+  "conflicts": [
+    "Competing total candidate 2.97 from 'GST 6% : 2.97'",
+    "Competing total candidate 4.00 from 'Item Count: 3 Item Qty: 4.00'",
+    "Competing total candidate 0.02 from 'Rounding Adf. : -0.02'"
+  ],
+  "notes": []
+}

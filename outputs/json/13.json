@@ -1,0 +1,59 @@
+{
+  "source_file": "13.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 38,
+    "line_count": 25,
+    "mean_confidence": 0.9195,
+    "variant_score": 0.6661
+  },
+  "store_name": {
+    "value": "Walmart>",
+    "confidence": 0.9195,
+    "raw_text": "Walmart>"
+  },
+  "date": {
+    "value": "2017-08-11",
+    "confidence": 0.8858,
+    "raw_text": "08/11/17 1922:40"
+  },
+  "items": [
+    {
+      "name": "GIFTCARD 08/",
+      "price": "50.00",
+      "confidence": 0.8708,
+      "raw_text": "GIFTCARD 08/458604333 50.000"
+    },
+    {
+      "name": "SUBIOIAL",
+      "price": "50.00",
+      "confidence": 0.8898,
+      "raw_text": "SUBIOIAL 50.00"
+    },
+    {
+      "name": "TOIAL",
+      "price": "50.00",
+      "confidence": 0.8559,
+      "raw_text": "TOIAL 50.00"
+    },
+    {
+      "name": "CASHTIND",
+      "price": "60.00",
+      "confidence": 0.8987,
+      "raw_text": "CASHTIND 60.00"
+    }
+  ],
+  "items_confidence": 0.8788,
+  "total_amount": {
+    "value": "10.00",
+    "confidence": 0.6642,
+    "raw_text": "10.00"
+  },
+  "low_confidence_fields": [
+    "total_amount"
+  ],
+  "conflicts": [
+    "Competing total candidate 50.00 from 'SHOPCARD ACT IVATION 50.00'"
+  ],
+  "notes": []
+}

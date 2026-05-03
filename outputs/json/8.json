@@ -1,0 +1,89 @@
+{
+  "source_file": "8.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 56,
+    "line_count": 30,
+    "mean_confidence": 0.9763,
+    "variant_score": 0.8741
+  },
+  "store_name": {
+    "value": "WHOLESALE",
+    "confidence": 0.99,
+    "raw_text": "WHOLESALE"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [
+    {
+      "name": "2 X Member",
+      "price": "23.99",
+      "confidence": 0.9107,
+      "raw_text": "2X Member 111826278335 23.99E"
+    },
+    {
+      "name": "E FF BS BREAST",
+      "price": "6.49",
+      "confidence": 0.9139,
+      "raw_text": "E 673919 FF BS BREAST 6.49E"
+    },
+    {
+      "name": "E KS DICED TOM",
+      "price": "2.97",
+      "confidence": 0.918,
+      "raw_text": "E 633561 KS DICED TOM 2.97E"
+    },
+    {
+      "name": "E",
+      "price": "12.87",
+      "confidence": 0.912,
+      "raw_text": "E 967596JACK0RGSALSA || 3 4.29 12.87E"
+    },
+    {
+      "name": "E 18 CT EGGS",
+      "price": "6.29",
+      "confidence": 0.915,
+      "raw_text": "E 878137 18CT EGGS 6.29E"
+    },
+    {
+      "name": "EC 0 HALF PAN",
+      "price": "6.49",
+      "confidence": 0.9094,
+      "raw_text": "404609 EC0 HALF PAN 6.49A"
+    },
+    {
+      "name": "TURKEY",
+      "price": "18.47",
+      "confidence": 0.9183,
+      "raw_text": "55992GRND TURKEY 18.47E"
+    },
+    {
+      "name": "E MONT JACK 2#",
+      "price": "4.45",
+      "confidence": 0.9101,
+      "raw_text": "E 22101 MONT JACK 2# 4.45E"
+    },
+    {
+      "name": "Check/Member Prntd",
+      "price": "89.13",
+      "confidence": 0.9262,
+      "raw_text": "Check/Member Prntd 89.13"
+    }
+  ],
+  "items_confidence": 0.9149,
+  "total_amount": {
+    "value": "3.52",
+    "confidence": 0.99,
+    "raw_text": "TOTAL TAX 3.52"
+  },
+  "low_confidence_fields": [
+    "date"
+  ],
+  "conflicts": [
+    "Competing total candidate 89.13 from 'TOTAL 89.13'"
+  ],
+  "notes": []
+}

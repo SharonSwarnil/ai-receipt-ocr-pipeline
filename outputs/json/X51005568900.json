@@ -1,0 +1,37 @@
+{
+  "source_file": "X51005568900.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 36,
+    "line_count": 24,
+    "mean_confidence": 0.9361,
+    "variant_score": 0.7283
+  },
+  "store_name": {
+    "value": "MR.D.I.Y.SDN BHD",
+    "confidence": 0.99,
+    "raw_text": "MR.D.I.Y.SDN BHD"
+  },
+  "date": {
+    "value": "2017-12-28",
+    "confidence": 0.8748,
+    "raw_text": "28-12-17-18:52 SH01 ZT09 T1 R000020832"
+  },
+  "items": [
+    {
+      "name": "OZ 02-12/",
+      "price": "9.90",
+      "confidence": 0.8959,
+      "raw_text": "OZ02-12/48 || 6942131561507 1 X9.90 9.90"
+    }
+  ],
+  "items_confidence": 0.8959,
+  "total_amount": {
+    "value": "9.90",
+    "confidence": 0.99,
+    "raw_text": "Total Incl.GST@6% RM 9.90"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

@@ -1,0 +1,73 @@
+{
+  "source_file": "X51005444041.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 63,
+    "line_count": 34,
+    "mean_confidence": 0.9729,
+    "variant_score": 0.8999
+  },
+  "store_name": {
+    "value": "BENS INDEPENDENT GROCER SDN. BHD",
+    "confidence": 0.9663,
+    "raw_text": "BENS INDEPENDENT GROCER SDN. BHD"
+  },
+  "date": {
+    "value": "2018-08-03",
+    "confidence": 0.8325,
+    "raw_text": "Tax Invoice : BAT01201803080169 : 08/03/18"
+  },
+  "items": [
+    {
+      "name": "Dole Pineapple Pcs",
+      "price": "23.70",
+      "confidence": 0.9029,
+      "raw_text": "Dole Pineapple Pcs || 8809069300708 7.90*3 23.70 2"
+    },
+    {
+      "name": "Farmhouse Fresh Milk Twin Pack 2 x 1 L",
+      "price": "19.90",
+      "confidence": 0.9148,
+      "raw_text": "Farmhouse Fresh Milk Twin Pack 2x1L || 9556040440548 19.90*1 19.90 S"
+    },
+    {
+      "name": "Fresh Cut Honev kfruit Peeled 400 g",
+      "price": "26.70",
+      "confidence": 0.9,
+      "raw_text": "Fresh Cut Honev kfruit Peeled 400g || 1430018201 8.90*3 26.70 Z"
+    },
+    {
+      "name": "Nestle Bliss Yog Drink Strawberry 700 g",
+      "price": "5.80",
+      "confidence": 0.9038,
+      "raw_text": "Nestle Bliss Yog Drink Strawberry 700g || 9556001030290 5.80*1 5.80 S"
+    },
+    {
+      "name": "Vitagen Assorted 5 x 125 m!",
+      "price": "4.90",
+      "confidence": 0.9013,
+      "raw_text": "Vitagen Assorted 5x125m! || 9557305000118 4.90*1 4.90 S"
+    },
+    {
+      "name": "Item Total with GST 6%",
+      "price": "81.00",
+      "confidence": 0.9281,
+      "raw_text": "Item Total with GST @ 6% 81.00"
+    },
+    {
+      "name": "Qty 6 Rounding",
+      "price": "0.00",
+      "confidence": 0.9278,
+      "raw_text": "Qty 6 Rounding 0.00"
+    }
+  ],
+  "items_confidence": 0.9113,
+  "total_amount": {
+    "value": "81.00",
+    "confidence": 0.99,
+    "raw_text": "Total Saving 0.00 Total 81.00"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

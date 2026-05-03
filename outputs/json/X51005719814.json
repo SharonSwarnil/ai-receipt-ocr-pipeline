@@ -1,0 +1,61 @@
+{
+  "source_file": "X51005719814.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 50,
+    "line_count": 25,
+    "mean_confidence": 0.9707,
+    "variant_score": 0.8018
+  },
+  "store_name": {
+    "value": "KIKU JAPANESE RESTAURANT",
+    "confidence": 0.99,
+    "raw_text": "KIKU JAPANESE RESTAURANT"
+  },
+  "date": {
+    "value": "2018-01-17",
+    "confidence": 0.9682,
+    "raw_text": "Date:17/1/2018 12:12:21"
+  },
+  "items": [
+    {
+      "name": "Chicken Katsu Bento",
+      "price": "12.90",
+      "confidence": 0.9113,
+      "raw_text": "Chicken Katsu Bento || BEN02 1 12.90 0.00 12.90"
+    },
+    {
+      "name": "Omu Curry Fried Rice Set",
+      "price": "6.90",
+      "confidence": 0.9072,
+      "raw_text": "Omu Curry Fried Rice Set || Set10 1 6.90 0.00 6.90"
+    },
+    {
+      "name": "TS 02 Kat",
+      "price": "9.90",
+      "confidence": 0.9151,
+      "raw_text": "TS02 Kat 1 9.90 0.00 9.90"
+    },
+    {
+      "name": "Service Charge RM",
+      "price": "0.00",
+      "confidence": 0.9214,
+      "raw_text": "Service Charge RM0.00"
+    },
+    {
+      "name": "Rounding Adjustment: RM",
+      "price": "0.00",
+      "confidence": 0.9009,
+      "raw_text": "Rounding Adjustment: RM 0.00"
+    }
+  ],
+  "items_confidence": 0.9112,
+  "total_amount": {
+    "value": "29.70",
+    "confidence": 0.99,
+    "raw_text": "TOTAL RM 29.70"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

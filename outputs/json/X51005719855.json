@@ -1,0 +1,67 @@
+{
+  "source_file": "X51005719855.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 52,
+    "line_count": 29,
+    "mean_confidence": 0.9872,
+    "variant_score": 0.8137
+  },
+  "store_name": {
+    "value": "ROCKU YAKINIKU",
+    "confidence": 0.99,
+    "raw_text": "ROCKU YAKINIKU"
+  },
+  "date": {
+    "value": "2018-02-19",
+    "confidence": 0.8344,
+    "raw_text": "19/02/2018 17:43 1001 A063975"
+  },
+  "items": [
+    {
+      "name": "GREEN TEA",
+      "price": "3.00",
+      "confidence": 0.9152,
+      "raw_text": "GREEN TEA || 1 3.00 3.00 T"
+    },
+    {
+      "name": "GREEN TEA",
+      "price": "3.00",
+      "confidence": 0.9023,
+      "raw_text": "GREEN TEA || 1 3.00 3.00 T"
+    },
+    {
+      "name": "BUFFET DINNER (ADULT)",
+      "price": "149.70",
+      "confidence": 0.9098,
+      "raw_text": "BUFFET DINNER (ADULT) || 3 49.90 149.70 T"
+    },
+    {
+      "name": "SUBTTL",
+      "price": "155.70",
+      "confidence": 0.9284,
+      "raw_text": "SUBTTL 155.70"
+    },
+    {
+      "name": "10% SVC CHG",
+      "price": "15.57",
+      "confidence": 0.9258,
+      "raw_text": "10% SVC CHG 15.57"
+    },
+    {
+      "name": "6% GST",
+      "price": "10.28",
+      "confidence": 0.9213,
+      "raw_text": "6% GST 10.28"
+    }
+  ],
+  "items_confidence": 0.9171,
+  "total_amount": {
+    "value": "181.55",
+    "confidence": 0.99,
+    "raw_text": "TOTAL 181.55"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

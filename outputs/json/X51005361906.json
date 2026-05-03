@@ -1,0 +1,76 @@
+{
+  "source_file": "X51005361906.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 75,
+    "line_count": 35,
+    "mean_confidence": 0.9695,
+    "variant_score": 0.9191
+  },
+  "store_name": {
+    "value": "TEO HENG STATIONERX & BOOKS",
+    "confidence": 0.99,
+    "raw_text": "TEO HENG STATIONERX & BOOKS"
+  },
+  "date": {
+    "value": "2018-01-27",
+    "confidence": 0.9612,
+    "raw_text": "Receipt No.: CS1801/27175 Date: 27/01/2018"
+  },
+  "items": [
+    {
+      "name": "TEL",
+      "price": "3.32",
+      "confidence": 0.8505,
+      "raw_text": "TEL:03.32719872FAX:08-327149481"
+    },
+    {
+      "name": "ITEM QTY U/P DISC% (RM)",
+      "price": "3.80",
+      "confidence": 0.8994,
+      "raw_text": "ITEM QTY U/P DISC% (RM) || 1355 1 3.96 4.09 3.80*"
+    },
+    {
+      "name": "DOUBLESIDEFOAMTAPE 18 MM",
+      "price": "13.00",
+      "confidence": 0.9054,
+      "raw_text": "-DOUBLESIDEFOAMTAPE18MM || 9557950605126 5 2.74 4.96 13.00 *"
+    },
+    {
+      "name": "CAMISSQBOOK",
+      "price": "5.20",
+      "confidence": 0.9116,
+      "raw_text": "-CAMISSQBOOK 200 || 9557369315029 1 5.47 4.96 5.20"
+    },
+    {
+      "name": "EAGLEF 4200 FOOLSCAPBOOK",
+      "price": "3.80",
+      "confidence": 0.8773,
+      "raw_text": "-EAGLEF4200FOOLSCAPBOOK || 9557369305006 1 3.96 4.09 3.80 *"
+    },
+    {
+      "name": "SUB-TOTAL (EX)",
+      "price": "25.80",
+      "confidence": 0.923,
+      "raw_text": "SUB-TOTAL (EX) 25.80"
+    },
+    {
+      "name": "ROUNDING",
+      "price": "0.00",
+      "confidence": 0.9264,
+      "raw_text": "ROUNDING 0.00"
+    }
+  ],
+  "items_confidence": 0.8991,
+  "total_amount": {
+    "value": "27.35",
+    "confidence": 0.99,
+    "raw_text": "TOTAL 27.35"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 1.55 from 'TOTAL TAX 1.55'",
+    "Competing total candidate 25.80 from 'Total Qty. : 8 25.80'"
+  ],
+  "notes": []
+}

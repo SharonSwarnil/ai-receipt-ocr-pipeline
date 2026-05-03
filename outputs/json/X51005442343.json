@@ -1,0 +1,36 @@
+{
+  "source_file": "X51005442343.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 64,
+    "line_count": 30,
+    "mean_confidence": 0.9401,
+    "variant_score": 0.8678
+  },
+  "store_name": {
+    "value": "NO4.JALAN PERJIRANAN10.",
+    "confidence": 0.99,
+    "raw_text": "NO4.JALAN PERJIRANAN10."
+  },
+  "date": {
+    "value": "2018-03-13",
+    "confidence": 0.9738,
+    "raw_text": "Cashier :USER ：CS00035862 Date:13/03/2018"
+  },
+  "items": [],
+  "items_confidence": 0.0,
+  "total_amount": {
+    "value": "4.08",
+    "confidence": 0.99,
+    "raw_text": "Total: 4.08"
+  },
+  "low_confidence_fields": [
+    "items"
+  ],
+  "conflicts": [
+    "Competing total candidate 72.00 from 'Total Sales(Excluding GST): 72.00'"
+  ],
+  "notes": [
+    "No item rows were confidently extracted from this receipt."
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "source_file": "X51005441408.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 47,
+    "line_count": 26,
+    "mean_confidence": 0.9586,
+    "variant_score": 0.8243
+  },
+  "store_name": {
+    "value": "DAMANSARA UTAMA,",
+    "confidence": 0.99,
+    "raw_text": "DAMANSARA UTAMA,"
+  },
+  "date": {
+    "value": "2018-10-03",
+    "confidence": 0.9798,
+    "raw_text": "Date :10-03-2018 23:03:06"
+  },
+  "items": [
+    {
+      "name": "HEINEKEN (5 BTL)",
+      "price": "190.00",
+      "confidence": 0.8728,
+      "raw_text": "HEINEKEN (5 BTL) || 2x 95.00 190.00 SR"
+    },
+    {
+      "name": "GSTPayable",
+      "price": "10.75",
+      "confidence": 0.9215,
+      "raw_text": "GSTPayable: 10.75"
+    }
+  ],
+  "items_confidence": 0.8971,
+  "total_amount": {
+    "value": "190.00",
+    "confidence": 0.99,
+    "raw_text": "TOTAL : 190.00"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 171.25 from 'Total (Excluding GST): 171.25'"
+  ],
+  "notes": []
+}

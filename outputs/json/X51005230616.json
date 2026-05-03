@@ -1,0 +1,57 @@
+{
+  "source_file": "X51005230616.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 47,
+    "line_count": 38,
+    "mean_confidence": 0.9744,
+    "variant_score": 0.8609
+  },
+  "store_name": {
+    "value": "Gerbang Alaf Restaurants Sdn Bhd",
+    "confidence": 0.914,
+    "raw_text": "Gerbang Alaf Restaurants Sdn Bhd"
+  },
+  "date": {
+    "value": "2018-01-18",
+    "confidence": 0.8421,
+    "raw_text": "ORD #90 -REG #19- 18/01/2018 17:09:21"
+  },
+  "items": [
+    {
+      "name": "2 M SpicyDeluxe",
+      "price": "25.40",
+      "confidence": 0.9287,
+      "raw_text": "2 M SpicyDeluxe 25.40"
+    },
+    {
+      "name": "1 M Gri]ChicBgr",
+      "price": "12.50",
+      "confidence": 0.9098,
+      "raw_text": "1 M Gri]ChicBgr 12.50"
+    },
+    {
+      "name": "1 Small Cone",
+      "price": "1.00",
+      "confidence": 0.9189,
+      "raw_text": "1 Small Cone 1.00"
+    },
+    {
+      "name": "TakeOut Total (incl GST)",
+      "price": "38.90",
+      "confidence": 0.9124,
+      "raw_text": "TakeOut Total (incl GST) 38.90"
+    }
+  ],
+  "items_confidence": 0.9175,
+  "total_amount": {
+    "value": "2.20",
+    "confidence": 0.99,
+    "raw_text": "TOTAL INCLUDES 6X GST 2.20"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 38.90 from 'Total Rounded 38.90'"
+  ],
+  "notes": []
+}

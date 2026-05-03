@@ -1,0 +1,43 @@
+{
+  "source_file": "X51005685357.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 48,
+    "line_count": 29,
+    "mean_confidence": 0.9688,
+    "variant_score": 0.7798
+  },
+  "store_name": {
+    "value": "23, Jln Burung Jentayu, Tmn Bukit",
+    "confidence": 0.8489,
+    "raw_text": "23, Jln Burung Jentayu, Tmn Bukit"
+  },
+  "date": {
+    "value": "2018-02-03",
+    "confidence": 0.8406,
+    "raw_text": "Receipt : 71857936 02/03/18 05:16 PM"
+  },
+  "items": [
+    {
+      "name": "BMS MILK THISTLE",
+      "price": "72.35",
+      "confidence": 0.9068,
+      "raw_text": "061558 - **BMS MILK THISTLE || 1 X 111.30 36.75 72.35 S"
+    },
+    {
+      "name": "TRILON-E CRM",
+      "price": "7.00",
+      "confidence": 0.8532,
+      "raw_text": "910845 - TRILON-E CRM || 1 X 7.00 : 7.00 Z"
+    }
+  ],
+  "items_confidence": 0.88,
+  "total_amount": {
+    "value": "79.35",
+    "confidence": 0.99,
+    "raw_text": "TOTAL (Including GST) 79.35"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

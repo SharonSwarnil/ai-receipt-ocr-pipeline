@@ -1,0 +1,34 @@
+{
+  "source_file": "X51005663274.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 43,
+    "line_count": 25,
+    "mean_confidence": 0.9724,
+    "variant_score": 0.7981
+  },
+  "store_name": {
+    "value": "MALAYSIA",
+    "confidence": 0.9609,
+    "raw_text": "MALAYSIA"
+  },
+  "date": {
+    "value": "2018-08-02",
+    "confidence": 0.99,
+    "raw_text": "Date : 08/02/2018 12:42"
+  },
+  "items": [],
+  "items_confidence": 0.0,
+  "total_amount": {
+    "value": "10.50",
+    "confidence": 0.99,
+    "raw_text": "Total Inci. of GST 10.50"
+  },
+  "low_confidence_fields": [
+    "items"
+  ],
+  "conflicts": [],
+  "notes": [
+    "No item rows were confidently extracted from this receipt."
+  ]
+}

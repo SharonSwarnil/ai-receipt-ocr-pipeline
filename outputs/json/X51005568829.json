@@ -1,0 +1,81 @@
+{
+  "source_file": "X51005568829.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 77,
+    "line_count": 33,
+    "mean_confidence": 0.9791,
+    "variant_score": 0.8715
+  },
+  "store_name": {
+    "value": "THAI DELICIOUS RESTAURANT",
+    "confidence": 0.99,
+    "raw_text": "THAI DELICIOUS RESTAURANT"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [
+    {
+      "name": "06 SBRAISED",
+      "price": "20.00",
+      "confidence": 0.9267,
+      "raw_text": "06SBRAISED 1 20.00 20.00"
+    },
+    {
+      "name": "2 32 PHRANAKON",
+      "price": "28.00",
+      "confidence": 0.9275,
+      "raw_text": "2 32PHRANAKON 1 28.00 28.00"
+    },
+    {
+      "name": "3 51 GARLICFRIED",
+      "price": "13.00",
+      "confidence": 0.9253,
+      "raw_text": "3 51GARLICFRIED 13.00 13.00"
+    },
+    {
+      "name": "4 84 THAISTYLE",
+      "price": "15.00",
+      "confidence": 0.9257,
+      "raw_text": "4 84THAISTYLE 1 15.00 15.00"
+    },
+    {
+      "name": "5 130 PLAINRICE",
+      "price": "7.20",
+      "confidence": 0.9245,
+      "raw_text": "5 130PLAINRICE 4 1.80 7.20"
+    },
+    {
+      "name": "6 113 COCONUT",
+      "price": "6.50",
+      "confidence": 0.9168,
+      "raw_text": "6 113COCONUT 1 6.50 6.50"
+    },
+    {
+      "name": "7 116 DISTILLED",
+      "price": "0.60",
+      "confidence": 0.9194,
+      "raw_text": "7 116DISTILLED 1 0.60 0.60"
+    },
+    {
+      "name": "8 106 BCOLD",
+      "price": "2.50",
+      "confidence": 0.8841,
+      "raw_text": "8 106BCOLD 1 2.50 2.50"
+    }
+  ],
+  "items_confidence": 0.9188,
+  "total_amount": {
+    "value": "92.80",
+    "confidence": 0.99,
+    "raw_text": "Grand Total 92.80"
+  },
+  "low_confidence_fields": [
+    "date"
+  ],
+  "conflicts": [],
+  "notes": []
+}

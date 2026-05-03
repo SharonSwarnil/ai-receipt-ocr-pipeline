@@ -1,0 +1,57 @@
+{
+  "source_file": "X51005685355.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 60,
+    "line_count": 30,
+    "mean_confidence": 0.9753,
+    "variant_score": 0.8505
+  },
+  "store_name": {
+    "value": "RESTORANIBRAHIMMAJUSB",
+    "confidence": 0.99,
+    "raw_text": "RESTORANIBRAHIMMAJUSB"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [
+    {
+      "name": "MAKANAN",
+      "price": "2.30",
+      "confidence": 0.9234,
+      "raw_text": "MAKANAN 2.30 2.30 S"
+    },
+    {
+      "name": "MAKANAN",
+      "price": "1.40",
+      "confidence": 0.9256,
+      "raw_text": "MAKANAN 1.40 1.40S"
+    },
+    {
+      "name": "MAKANAN",
+      "price": "1.60",
+      "confidence": 0.911,
+      "raw_text": "MAKANAN 1.60 1.60 S"
+    },
+    {
+      "name": "Round Adjustmt RM",
+      "price": "0.00",
+      "confidence": 0.9201,
+      "raw_text": "Round Adjustmt RM 0.00"
+    }
+  ],
+  "items_confidence": 0.92,
+  "total_amount": {
+    "value": "5.30",
+    "confidence": 0.99,
+    "raw_text": "Total RM 5.30"
+  },
+  "low_confidence_fields": [
+    "date"
+  ],
+  "conflicts": [],
+  "notes": []
+}

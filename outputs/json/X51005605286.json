@@ -1,0 +1,46 @@
+{
+  "source_file": "X51005605286.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 41,
+    "line_count": 26,
+    "mean_confidence": 0.9775,
+    "variant_score": 0.8269
+  },
+  "store_name": {
+    "value": "3RD FLR, AEON TAMAN MALURI SC",
+    "confidence": 0.99,
+    "raw_text": "3RD FLR, AEON TAMAN MALURI SC"
+  },
+  "date": {
+    "value": "2018-09-02",
+    "confidence": 0.8935,
+    "raw_text": "09/02/2018 12:53 5132 002 0023885"
+  },
+  "items": [
+    {
+      "name": "MON-SUN:1000 HRS - 2200 HRS",
+      "price": "5.90",
+      "confidence": 0.9049,
+      "raw_text": "MON-SUN:1000 HRS - 2200 HRS || 000008190901 5.90SR"
+    },
+    {
+      "name": "Sub-total",
+      "price": "5.90",
+      "confidence": 0.9296,
+      "raw_text": "Sub-total 5.90"
+    }
+  ],
+  "items_confidence": 0.9172,
+  "total_amount": {
+    "value": "0.33",
+    "confidence": 0.99,
+    "raw_text": "Total 5.57 0.33"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 5.90 from 'Total After Adj Incl GST 5.90'",
+    "Competing total candidate 5.90 from 'Total Sales Incl GST 5.90'"
+  ],
+  "notes": []
+}

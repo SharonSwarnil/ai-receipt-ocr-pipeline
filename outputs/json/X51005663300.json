@@ -1,0 +1,35 @@
+{
+  "source_file": "X51005663300.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 43,
+    "line_count": 26,
+    "mean_confidence": 0.9611,
+    "variant_score": 0.7936
+  },
+  "store_name": {
+    "value": "LIM SENG THO HARDWARE TRADING",
+    "confidence": 0.99,
+    "raw_text": "LIM SENG THO HARDWARE TRADING"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [],
+  "items_confidence": 0.0,
+  "total_amount": {
+    "value": "7.00",
+    "confidence": 0.99,
+    "raw_text": "Total Incl. of GST 7.00"
+  },
+  "low_confidence_fields": [
+    "date",
+    "items"
+  ],
+  "conflicts": [],
+  "notes": [
+    "No item rows were confidently extracted from this receipt."
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "source_file": "X51005433538.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 38,
+    "line_count": 19,
+    "mean_confidence": 0.9372,
+    "variant_score": 0.7853
+  },
+  "store_name": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [
+    {
+      "name": "SR I 00100000015-Vegetable 7 Total",
+      "price": "1.10",
+      "confidence": 0.8722,
+      "raw_text": "SR I00100000015-Vegetable 7 Total || $1.10"
+    },
+    {
+      "name": "GSTSummary",
+      "price": "8.20",
+      "confidence": 0.9217,
+      "raw_text": "GSTSummary $8.20"
+    },
+    {
+      "name": "SR=GST 6%",
+      "price": "0.00",
+      "confidence": 0.88,
+      "raw_text": "SR=GST@6% $0.00"
+    }
+  ],
+  "items_confidence": 0.8913,
+  "total_amount": {
+    "value": "0.46",
+    "confidence": 0.6764,
+    "raw_text": "BARWANG RICE@PERMAS JAYA 0.46"
+  },
+  "low_confidence_fields": [
+    "store_name",
+    "date",
+    "total_amount"
+  ],
+  "conflicts": [
+    "Competing total candidate 8.20 from 'GSTSummary $8.20'",
+    "Competing total candidate 7.74 from 'GSTREG000656195584 7.74 Tax(s)'"
+  ],
+  "notes": []
+}

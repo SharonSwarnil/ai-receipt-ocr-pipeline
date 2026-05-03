@@ -1,0 +1,64 @@
+{
+  "source_file": "X51005361897.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 57,
+    "line_count": 30,
+    "mean_confidence": 0.9779,
+    "variant_score": 0.8805
+  },
+  "store_name": {
+    "value": "TEO HENGSTATIONERY &BOOKS",
+    "confidence": 0.99,
+    "raw_text": "TEO HENGSTATIONERY &BOOKS"
+  },
+  "date": {
+    "value": "2018-01-17",
+    "confidence": 0.9889,
+    "raw_text": "ReceiptNo.:CS1801/26821 Date:17/01/2018"
+  },
+  "items": [
+    {
+      "name": "ITEM QTY U/P DISC% (RM)",
+      "price": "26.00",
+      "confidence": 0.9101,
+      "raw_text": "ITEM QTY U/P DISC% (RM) || 9555017370017 28.00 7.14 26.00*"
+    },
+    {
+      "name": "SUB-TOTAL(EX)",
+      "price": "26.00",
+      "confidence": 0.9219,
+      "raw_text": "SUB-TOTAL(EX) 26.00"
+    },
+    {
+      "name": "TOTALTAX",
+      "price": "1.56",
+      "confidence": 0.9275,
+      "raw_text": "TOTALTAX 1.56"
+    },
+    {
+      "name": "ROUNDING",
+      "price": "0.01",
+      "confidence": 0.9251,
+      "raw_text": "ROUNDING -0.01"
+    },
+    {
+      "name": "TAXCODE % (RM) (RM)",
+      "price": "1.56",
+      "confidence": 0.906,
+      "raw_text": "TAXCODE % (RM) (RM) || SR 6.00 26.00 1.56"
+    }
+  ],
+  "items_confidence": 0.9181,
+  "total_amount": {
+    "value": "1.56",
+    "confidence": 0.99,
+    "raw_text": "TOTAL: 26.00 1.56"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 26.00 from 'Total Qty.: 1 26.00'",
+    "Competing total candidate 27.55 from 'TOTAL AI 27.55'"
+  ],
+  "notes": []
+}

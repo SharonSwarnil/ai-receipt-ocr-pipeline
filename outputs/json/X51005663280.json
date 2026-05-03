@@ -1,0 +1,71 @@
+{
+  "source_file": "X51005663280.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 54,
+    "line_count": 38,
+    "mean_confidence": 0.9616,
+    "variant_score": 0.829
+  },
+  "store_name": {
+    "value": "Chili's Grill & Bar KLCC",
+    "confidence": 0.8787,
+    "raw_text": "Chili's Grill & Bar KLCC"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [
+    {
+      "name": "PINEAPPLE JUICE .",
+      "price": "12.95",
+      "confidence": 0.9103,
+      "raw_text": "PINEAPPLE JUICE . 12.95 S"
+    },
+    {
+      "name": "1 TOSTADA CHIPS .",
+      "price": "16.95",
+      "confidence": 0.919,
+      "raw_text": "1 TOSTADA CHIPS .16.95 5"
+    },
+    {
+      "name": "1 CHP_BWL CK",
+      "price": "29.95",
+      "confidence": 0.8939,
+      "raw_text": "1 CHP_BWL CK 29.95 S'"
+    },
+    {
+      "name": "1 MARG CK",
+      "price": "27.95",
+      "confidence": 0.91,
+      "raw_text": "1 MARG CK 27.95 S"
+    },
+    {
+      "name": "10% Srv Chg",
+      "price": "8.78",
+      "confidence": 0.918,
+      "raw_text": "10% Srv Chg 8.78"
+    },
+    {
+      "name": "GST 6%",
+      "price": "5.81",
+      "confidence": 0.8783,
+      "raw_text": "GST@6% 5.81"
+    }
+  ],
+  "items_confidence": 0.9049,
+  "total_amount": {
+    "value": "102.39",
+    "confidence": 0.99,
+    "raw_text": "Total: 102.39"
+  },
+  "low_confidence_fields": [
+    "date"
+  ],
+  "conflicts": [
+    "Competing total candidate 102.40 from 'Total 102.40'"
+  ],
+  "notes": []
+}

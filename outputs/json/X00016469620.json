@@ -1,0 +1,61 @@
+{
+  "source_file": "X00016469620.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 49,
+    "line_count": 33,
+    "mean_confidence": 0.9569,
+    "variant_score": 0.7975
+  },
+  "store_name": {
+    "value": "MRD.I.Y.(JOHOR)SDN BHD",
+    "confidence": 0.99,
+    "raw_text": "MRD.I.Y.(JOHOR)SDN BHD"
+  },
+  "date": {
+    "value": "2019-12-01",
+    "confidence": 0.8793,
+    "raw_text": "12-01-19 21:13 SH01 ZK09 T4R000027830"
+  },
+  "items": [
+    {
+      "name": "EZ 10 HD 05",
+      "price": "19.00",
+      "confidence": 0.9096,
+      "raw_text": "EZ10HD05-24 || 8970669 1X19.00 019.00"
+    },
+    {
+      "name": "HC 03-7",
+      "price": "8.02",
+      "confidence": 0.9104,
+      "raw_text": "HC03-7-15 || 9066468 1X8.02 8.02"
+    },
+    {
+      "name": "WA 14-3 A",
+      "price": "3.02",
+      "confidence": 0.9032,
+      "raw_text": "WA14-3A-48 || 9557031100236 1X 3.02 3.02"
+    },
+    {
+      "name": "FZ-04",
+      "price": "3.88",
+      "confidence": 0.8961,
+      "raw_text": "FZ-04-36 || 6935818350846 1X 3.88 3.88"
+    },
+    {
+      "name": "ROUNDING ADJUSTMEX RM",
+      "price": "33.92",
+      "confidence": 0.9066,
+      "raw_text": "ROUNDING ADJUSTMEX RM33.92"
+    }
+  ],
+  "items_confidence": 0.9052,
+  "total_amount": {
+    "value": "0.02",
+    "confidence": 0.99,
+    "raw_text": "TOTAL ROUNDED ?3-10 RM33.90 -RM0.02"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

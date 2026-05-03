@@ -1,0 +1,55 @@
+{
+  "source_file": "X51005712039.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 49,
+    "line_count": 25,
+    "mean_confidence": 0.9765,
+    "variant_score": 0.8272
+  },
+  "store_name": {
+    "value": "LTWOFLORIST&HANDICRAFT",
+    "confidence": 0.99,
+    "raw_text": "LTWOFLORIST&HANDICRAFT"
+  },
+  "date": {
+    "value": "2018-03-21",
+    "confidence": 0.9851,
+    "raw_text": "RECEIPT#: CS00007203 DATE: 21/03/2018"
+  },
+  "items": [
+    {
+      "name": "11/2\"SAFETYPIN",
+      "price": "7.00",
+      "confidence": 0.8976,
+      "raw_text": "11/2\"SAFETYPIN || SB/01-3 1 7.00, 7.00"
+    },
+    {
+      "name": "SUB-TOTAL",
+      "price": "9.00",
+      "confidence": 0.908,
+      "raw_text": "SUB-TOTAL: 9.00"
+    },
+    {
+      "name": "DISC",
+      "price": "0.00",
+      "confidence": 0.9176,
+      "raw_text": "DISC: 0.00"
+    },
+    {
+      "name": "ROUNDING",
+      "price": "0.00",
+      "confidence": 0.9278,
+      "raw_text": "ROUNDING 0.00"
+    }
+  ],
+  "items_confidence": 0.9127,
+  "total_amount": {
+    "value": "9.00",
+    "confidence": 0.99,
+    "raw_text": "TOTAL 9.00"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

@@ -1,0 +1,115 @@
+{
+  "source_file": "1.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 59,
+    "line_count": 37,
+    "mean_confidence": 0.9774,
+    "variant_score": 0.86
+  },
+  "store_name": {
+    "value": "TRADER JOE'S",
+    "confidence": 0.99,
+    "raw_text": "TRADER JOE'S"
+  },
+  "date": {
+    "value": "2014-06-28",
+    "confidence": 0.8986,
+    "raw_text": "06-28-2014"
+  },
+  "items": [
+    {
+      "name": "R-CARROTS SHREDDED 10 OZ",
+      "price": "1.29",
+      "confidence": 0.9051,
+      "raw_text": "R-CARROTS SHREDDED 10 OZ 1.29"
+    },
+    {
+      "name": "R-CUCUMBERS PERSIAN 1 LB",
+      "price": "1.99",
+      "confidence": 0.9082,
+      "raw_text": "R-CUCUMBERS PERSIAN 1LB 1.99"
+    },
+    {
+      "name": "TOMATOES CRUSHED NO SALT",
+      "price": "1.59",
+      "confidence": 0.9113,
+      "raw_text": "TOMATOES CRUSHED NO SALT 1.59"
+    },
+    {
+      "name": "TOMATOESWHOLE NO SALT W/BASIL",
+      "price": "1.59",
+      "confidence": 0.9132,
+      "raw_text": "TOMATOESWHOLE NO SALT W/BASIL 1.59"
+    },
+    {
+      "name": "ORGANIC OLD FASHIONED OATMEAL",
+      "price": "2.69",
+      "confidence": 0.9163,
+      "raw_text": "ORGANIC OLD FASHIONED OATMEAL 2.69"
+    },
+    {
+      "name": "MINI-PEARL TOMATOES.",
+      "price": "2.49",
+      "confidence": 0.9156,
+      "raw_text": "MINI-PEARL TOMATOES. 2.49"
+    },
+    {
+      "name": "PKG SHREDDED MOZZARELLA LITET",
+      "price": "3.99",
+      "confidence": 0.9132,
+      "raw_text": "PKG SHREDDED MOZZARELLA LITET 3.99"
+    },
+    {
+      "name": "EGGS 1 DOZ ORGANIC BROWN.",
+      "price": "3.79",
+      "confidence": 0.9088,
+      "raw_text": "EGGS1 DOZ ORGANIC BROWN. 3.79"
+    },
+    {
+      "name": "BEANS GARBANZO",
+      "price": "2.99",
+      "confidence": 0.9166,
+      "raw_text": "BEANS GARBANZO 2.99"
+    },
+    {
+      "name": "SPROUTEDCA STYLE",
+      "price": "3.99",
+      "confidence": 0.9164,
+      "raw_text": "SPROUTEDCA STYLE 3.99"
+    },
+    {
+      "name": "A-AVOCADOS HASS BAG 4 CT",
+      "price": "2.99",
+      "confidence": 0.9096,
+      "raw_text": "A-AVOCADOS HASS BAG 4CT 2.99"
+    },
+    {
+      "name": "A-APPLE BAG JAZZ 2 LB",
+      "price": "0.99",
+      "confidence": 0.9073,
+      "raw_text": "A-APPLE BAG JAZZ2LB 0.99"
+    },
+    {
+      "name": "CREAMY SALTED PEANUT BUTTER 3 EA",
+      "price": "2.49",
+      "confidence": 0.9088,
+      "raw_text": "CREAMY SALTED PEANUT BUTTER 3EA@0.29/EA 2.49"
+    },
+    {
+      "name": "WHL WHT PITA BREAD",
+      "price": "1.69",
+      "confidence": 0.9029,
+      "raw_text": "WHL WHT PITA BREAD 1.69"
+    }
+  ],
+  "items_confidence": 0.9109,
+  "total_amount": {
+    "value": "40.00",
+    "confidence": 0.99,
+    "raw_text": "TOTAL $40.00"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

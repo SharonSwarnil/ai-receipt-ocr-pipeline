@@ -1,0 +1,55 @@
+{
+  "source_file": "X51005365179.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 49,
+    "line_count": 28,
+    "mean_confidence": 0.9811,
+    "variant_score": 0.8567
+  },
+  "store_name": {
+    "value": "C W KHOO HARDWARE SDN BHD",
+    "confidence": 0.9806,
+    "raw_text": "C W KHOO HARDWARE SDN BHD"
+  },
+  "date": {
+    "value": "2018-01-03",
+    "confidence": 0.9891,
+    "raw_text": "Date : 01-03-18 5:23:26 PM"
+  },
+  "items": [
+    {
+      "name": "AIR ADAPTOR",
+      "price": "20.00",
+      "confidence": 0.8922,
+      "raw_text": "AIR ADAPTOR @ 1 || 5 4.00 20.00 SR"
+    },
+    {
+      "name": "5 Item(s) Total (MYR)",
+      "price": "20.00",
+      "confidence": 0.9173,
+      "raw_text": "5 Item(s) Total (MYR) : 20.00"
+    },
+    {
+      "name": "GST 6%",
+      "price": "1.20",
+      "confidence": 0.9294,
+      "raw_text": "GST @ 6% : 1.20"
+    },
+    {
+      "name": "Rounding Adj.",
+      "price": "0.00",
+      "confidence": 0.9131,
+      "raw_text": "Rounding Adj. : 0.00"
+    }
+  ],
+  "items_confidence": 0.913,
+  "total_amount": {
+    "value": "21.20",
+    "confidence": 0.99,
+    "raw_text": "Net Total Rounded (MYR) : 21.20"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

@@ -1,0 +1,63 @@
+{
+  "source_file": "X51005719906.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 46,
+    "line_count": 33,
+    "mean_confidence": 0.9737,
+    "variant_score": 0.8413
+  },
+  "store_name": {
+    "value": "Zen and coffee 28 S/B",
+    "confidence": 0.947,
+    "raw_text": "Zen and coffee 28 S/B"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [
+    {
+      "name": "1 Saba shloyak 1 wazen (20 mins)",
+      "price": "26.00",
+      "confidence": 0.887,
+      "raw_text": "1 Saba shloyak1 wazen (20mins) 26.00 S"
+    },
+    {
+      "name": "1 Unagi don",
+      "price": "28.00",
+      "confidence": 0.8992,
+      "raw_text": "1 Unagi don 28.00 S"
+    },
+    {
+      "name": "1 Spicy ASARI Pasta",
+      "price": "19.00",
+      "confidence": 0.9226,
+      "raw_text": "1 Spicy ASARI Pasta 19.00 S"
+    },
+    {
+      "name": "1 Ebl Mentai Pasta",
+      "price": "22.00",
+      "confidence": 0.8946,
+      "raw_text": "1 Ebl Mentai Pasta 22.00 S"
+    },
+    {
+      "name": "1 Jasmine Green Tea",
+      "price": "10.00",
+      "confidence": 0.9228,
+      "raw_text": "1 Jasmine Green Tea 10.00 S"
+    }
+  ],
+  "items_confidence": 0.9052,
+  "total_amount": {
+    "value": "105.00",
+    "confidence": 0.99,
+    "raw_text": "Total: 105.00"
+  },
+  "low_confidence_fields": [
+    "date"
+  ],
+  "conflicts": [],
+  "notes": []
+}

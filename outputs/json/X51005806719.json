@@ -1,0 +1,54 @@
+{
+  "source_file": "X51005806719.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 65,
+    "line_count": 31,
+    "mean_confidence": 0.9618,
+    "variant_score": 0.8817
+  },
+  "store_name": {
+    "value": "SATU KAMPUNG ENTERPRISE SDN BHD",
+    "confidence": 0.99,
+    "raw_text": "SATU KAMPUNG ENTERPRISE SDN BHD"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [
+    {
+      "name": "Cashier :USER Time",
+      "price": "37.00",
+      "confidence": 0.893,
+      "raw_text": "Cashier :USER Time:23 37.00"
+    },
+    {
+      "name": "KITO 1",
+      "price": "63.00",
+      "confidence": 0.9109,
+      "raw_text": "KITO1 3 19.81 21.00 63.00 SR"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.00",
+      "confidence": 0.9147,
+      "raw_text": "Rounding : 0.00"
+    }
+  ],
+  "items_confidence": 0.9062,
+  "total_amount": {
+    "value": "63.00",
+    "confidence": 0.99,
+    "raw_text": "Total Sales (Inclusive of GST) : 63.00"
+  },
+  "low_confidence_fields": [
+    "date"
+  ],
+  "conflicts": [
+    "Competing total candidate 59.43 from 'Total Sales (Exciuding GST) : 59.43'",
+    "Competing total candidate 3.57 from 'Total GST : 3.57'"
+  ],
+  "notes": []
+}

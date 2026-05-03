@@ -1,0 +1,49 @@
+{
+  "source_file": "X51005230621.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 52,
+    "line_count": 32,
+    "mean_confidence": 0.93,
+    "variant_score": 0.8254
+  },
+  "store_name": {
+    "value": "SIN LIANHAP SON BHD",
+    "confidence": 0.99,
+    "raw_text": "SIN LIANHAP SON BHD"
+  },
+  "date": {
+    "value": "2018-05-02",
+    "confidence": 0.9613,
+    "raw_text": "Date: ：05/02/2018"
+  },
+  "items": [
+    {
+      "name": "PPD 4 MMDENLIME",
+      "price": "1.88",
+      "confidence": 0.9001,
+      "raw_text": "PPD 4MMDENLIME || 1.887 SR"
+    },
+    {
+      "name": "6023#GARDEN",
+      "price": "5.00",
+      "confidence": 0.9034,
+      "raw_text": "6023#GARDEN || 5.000 SR"
+    },
+    {
+      "name": "Tuta'GaesEnciuinyGST",
+      "price": "6.69",
+      "confidence": 0.814,
+      "raw_text": "Tuta'GaesEnciuinyGST: 6.69"
+    }
+  ],
+  "items_confidence": 0.8725,
+  "total_amount": {
+    "value": "7.30",
+    "confidence": 0.99,
+    "raw_text": "Total Salee Inclueive of GsT: 7.30"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

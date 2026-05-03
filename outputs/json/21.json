@@ -1,0 +1,104 @@
+{
+  "source_file": "21.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 60,
+    "line_count": 27,
+    "mean_confidence": 0.9518,
+    "variant_score": 0.8168
+  },
+  "store_name": {
+    "value": null,
+    "confidence": 0.7864,
+    "raw_text": "Suite C-3"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [
+    {
+      "name": "CLIF BARPB",
+      "price": "1.00",
+      "confidence": 0.9033,
+      "raw_text": "CLIF BARPB 1 1.00 1.00N"
+    },
+    {
+      "name": "CLIF BARPB",
+      "price": "1.00",
+      "confidence": 0.9021,
+      "raw_text": "CLIF BARPB 1 1.00 1.00N"
+    },
+    {
+      "name": "SLICED PEPPERONI 3 Z 1,",
+      "price": "1.00",
+      "confidence": 0.872,
+      "raw_text": "SLICED PEPPERONI3Z 1,00 1.0ON"
+    },
+    {
+      "name": "SLICED PEPPERONI 3 Z",
+      "price": "1.00",
+      "confidence": 0.9064,
+      "raw_text": "SLICED PEPPERONI3Z 1.00 1.00N"
+    },
+    {
+      "name": "ASSURED CAPLETS",
+      "price": "1.00",
+      "confidence": 0.9062,
+      "raw_text": "ASSURED CAPLETS 1.00 1.00N"
+    },
+    {
+      "name": "SUPER GLUE GEL",
+      "price": "1.00",
+      "confidence": 0.9158,
+      "raw_text": "SUPER GLUE GEL 1 1.00 1.00T"
+    },
+    {
+      "name": "CONDITIONER",
+      "price": "1.00",
+      "confidence": 0.8938,
+      "raw_text": "CONDITIONER 1.00 1.00T"
+    },
+    {
+      "name": "GINSENG TAB 500 MG",
+      "price": "1.00",
+      "confidence": 0.8595,
+      "raw_text": "GINSENG TAB 500MG 1.00 1.D0N"
+    },
+    {
+      "name": "GINSENG TAB 50 OMG",
+      "price": "1.00",
+      "confidence": 0.8862,
+      "raw_text": "GINSENG TAB 50OMG 1.00 1.00N"
+    },
+    {
+      "name": "SCRUE SPONGE",
+      "price": "1.00",
+      "confidence": 0.9117,
+      "raw_text": "SCRUE SPONGE 1.00 1.00T"
+    },
+    {
+      "name": "GENERALEXEM",
+      "price": "0.00",
+      "confidence": 0.9218,
+      "raw_text": "GENERALEXEM $0.00"
+    }
+  ],
+  "items_confidence": 0.8981,
+  "total_amount": {
+    "value": "10.21",
+    "confidence": 0.6835,
+    "raw_text": "$10.21"
+  },
+  "low_confidence_fields": [
+    "date",
+    "total_amount"
+  ],
+  "conflicts": [
+    "Competing total candidate 0.21 from 'SALES TAX $0.21'",
+    "Competing total candidate 1.00 from 'Whare Everything's$1.00'",
+    "Competing total candidate 1.00 from 'GINSENG TAB 500MG 1.00 1.D0N'"
+  ],
+  "notes": []
+}

@@ -1,0 +1,39 @@
+{
+  "source_file": "X51005442392.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 34,
+    "line_count": 24,
+    "mean_confidence": 0.9102,
+    "variant_score": 0.7594
+  },
+  "store_name": {
+    "value": "UNIHAKKA INTERNATIONAL SDN BHD",
+    "confidence": 0.99,
+    "raw_text": "UNIHAKKA INTERNATIONAL SDN BHD"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [
+    {
+      "name": "SR I 0010000035-1 Meat+3 Vege.",
+      "price": "7.10",
+      "confidence": 0.8597,
+      "raw_text": "SR I0010000035-1 Meat+3Vege. || $7.10. $7,10:"
+    }
+  ],
+  "items_confidence": 0.8597,
+  "total_amount": {
+    "value": "7.10",
+    "confidence": 0.99,
+    "raw_text": "Total Amount: $7.10."
+  },
+  "low_confidence_fields": [
+    "date"
+  ],
+  "conflicts": [],
+  "notes": []
+}

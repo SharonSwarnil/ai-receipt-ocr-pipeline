@@ -1,0 +1,169 @@
+{
+  "source_file": "20.png",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 117,
+    "line_count": 44,
+    "mean_confidence": 0.9717,
+    "variant_score": 0.9543
+  },
+  "store_name": {
+    "value": "DOLLARTREE",
+    "confidence": 0.99,
+    "raw_text": "DOLLARTREE"
+  },
+  "date": {
+    "value": "2022-09-17",
+    "confidence": 0.899,
+    "raw_text": "7534001850400421435062 9/17/22 17:08"
+  },
+  "items": [
+    {
+      "name": "BAHBOO CHARCOAL TOOTHBRUSH",
+      "price": "1.00",
+      "confidence": 0.9203,
+      "raw_text": "BAHBOO CHARCOAL TOOTHBRUSH 1 1.00 1.00T"
+    },
+    {
+      "name": "COLGATE TOTAL WHTNING TPST 1.4",
+      "price": "1.00",
+      "confidence": 0.9232,
+      "raw_text": "COLGATE TOTAL WHTNING TPST 1.4 1 1.00 1.00T"
+    },
+    {
+      "name": "COLGATE TOTAL WHTNING TPST 1.4",
+      "price": "1.00",
+      "confidence": 0.9218,
+      "raw_text": "COLGATE TOTAL WHTNING TPST 1.4 1 1.00 1.00T"
+    },
+    {
+      "name": "COLGATE TOTAL WHTNING TPST 1.4",
+      "price": "1.00",
+      "confidence": 0.9211,
+      "raw_text": "COLGATE TOTAL WHTNING TPST 1.4 1 1.00 1.00T"
+    },
+    {
+      "name": "COLGATE TOTAL WHTNING TPST 1.4",
+      "price": "1.00",
+      "confidence": 0.9135,
+      "raw_text": "COLGATE TOTAL WHTNING TPST 1.4 1 1.00 1.00T"
+    },
+    {
+      "name": "COLGATE TOTAL WHTNING TPST 1.4",
+      "price": "1.00",
+      "confidence": 0.9191,
+      "raw_text": "COLGATE TOTAL WHTNING TPST 1.4 1 1.00 1.00T"
+    },
+    {
+      "name": "COLGATE TOTAL WHTNING TPST 1.",
+      "price": "1.00",
+      "confidence": 0.9226,
+      "raw_text": "COLGATE TOTAL WHTNING TPST 1.4 1.00 1.00T"
+    },
+    {
+      "name": "COLGATE TOTAL WHTNING TPST 1.4",
+      "price": "1.00",
+      "confidence": 0.9233,
+      "raw_text": "COLGATE TOTAL WHTNING TPST 1.4 1 1.00 1.00T"
+    },
+    {
+      "name": "SP STICK ACTIVE DE 0 1.8 Z",
+      "price": "1.00",
+      "confidence": 0.9122,
+      "raw_text": "SP STICK ACTIVE DE0 1.8Z 1.00 1.00T"
+    },
+    {
+      "name": "SP STICK ACTIVE DE 0 1.8 Z",
+      "price": "1.00",
+      "confidence": 0.9103,
+      "raw_text": "SP STICK ACTIVE DE0 1.8Z 1.00 1.00T"
+    },
+    {
+      "name": "SP STICK ACTIVE DE 0 1.8 Z",
+      "price": "1.00",
+      "confidence": 0.9116,
+      "raw_text": "SP STICK ACTIVE DE0 1.8Z 1 1.00 1.00T"
+    },
+    {
+      "name": "SP STICK ACTIVE DE 0 1.8 Z",
+      "price": "1.00",
+      "confidence": 0.908,
+      "raw_text": "SP STICK ACTIVE DE0 1.8Z 1 1.00 1.00T"
+    },
+    {
+      "name": "SP STICK ACTIVE DE 0 1.8 Z",
+      "price": "1.00",
+      "confidence": 0.9154,
+      "raw_text": "SP STICK ACTIVE DE0 1.8Z 1 1.00 1.00T"
+    },
+    {
+      "name": "SPEED STCK A/P ULT SPRT",
+      "price": "1.00",
+      "confidence": 0.9235,
+      "raw_text": "SPEED STCK A/P ULT SPRT 1.82 1 1.00 1.00T"
+    },
+    {
+      "name": "SPEED STCK A/P ULT SPRT",
+      "price": "1.00",
+      "confidence": 0.917,
+      "raw_text": "SPEED STCK A/P ULT SPRT 1.82 1 1.00 1.00T"
+    },
+    {
+      "name": "SPEED STCK A/P ULT SPRT",
+      "price": "1.00",
+      "confidence": 0.9121,
+      "raw_text": "SPEED STCK A/P ULT SPRT 1.82 1.00 1.00T"
+    },
+    {
+      "name": "BAHBOO CHARCOAL TOOTHBRUSH",
+      "price": "1.00",
+      "confidence": 0.9164,
+      "raw_text": "BAHBOO CHARCOAL TOOTHBRUSH 1.00 1.00T"
+    },
+    {
+      "name": "BAHBOO CHARCOAL TOOTHBRUSH",
+      "price": "1.00",
+      "confidence": 0.9156,
+      "raw_text": "BAHBOO CHARCOAL TOOTHBRUSH 1.00 1.00T"
+    },
+    {
+      "name": "BAHBOO CHARCOAL TOOTHBRUSH",
+      "price": "1.00",
+      "confidence": 0.917,
+      "raw_text": "BAHBOO CHARCOAL TOOTHBRUSH 1.00 1.00T"
+    },
+    {
+      "name": "BAHBOO CHARCOAL TOOTHBRUSH",
+      "price": "1.00",
+      "confidence": 0.9165,
+      "raw_text": "BAHBOO CHARCOAL TOOTHBRUSH 1.00 1.00T"
+    },
+    {
+      "name": "BAHBOO CHARCOAL TOOTHBRUSH",
+      "price": "1.00",
+      "confidence": 0.9163,
+      "raw_text": "BAHBOO CHARCOAL TOOTHBRUSH 1.00 1.00T"
+    },
+    {
+      "name": "BAHBOO CHARCOAL TOOTHBRUSH",
+      "price": "1.00",
+      "confidence": 0.9099,
+      "raw_text": "BAHBOO CHARCOAL TOOTHBRUSH 1 1.00 1.00T"
+    },
+    {
+      "name": "BAHBOO CHARCOAL TOOTHBRUSH",
+      "price": "1.00",
+      "confidence": 0.9106,
+      "raw_text": "BAHBOO CHARCOAL TOOTHBRUSH 1 1.00 1.00T"
+    }
+  ],
+  "items_confidence": 0.9164,
+  "total_amount": {
+    "value": "25.44",
+    "confidence": 0.99,
+    "raw_text": "Total $25.44"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

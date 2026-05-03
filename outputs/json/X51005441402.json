@@ -1,0 +1,37 @@
+{
+  "source_file": "X51005441402.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 38,
+    "line_count": 23,
+    "mean_confidence": 0.977,
+    "variant_score": 0.8192
+  },
+  "store_name": {
+    "value": "THREESTOOGES",
+    "confidence": 0.99,
+    "raw_text": "THREESTOOGES"
+  },
+  "date": {
+    "value": "2018-03-03",
+    "confidence": 0.8429,
+    "raw_text": "INVDATE:03/03/2018"
+  },
+  "items": [
+    {
+      "name": "1 SUB TOTAL",
+      "price": "150.00",
+      "confidence": 0.9121,
+      "raw_text": "1 SUB TOTAL 150.00"
+    }
+  ],
+  "items_confidence": 0.9121,
+  "total_amount": {
+    "value": "174.90",
+    "confidence": 0.99,
+    "raw_text": "NET TOTAL 174.90"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

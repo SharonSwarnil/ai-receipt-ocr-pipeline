@@ -1,0 +1,35 @@
+{
+  "source_file": "X51005663301.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 44,
+    "line_count": 26,
+    "mean_confidence": 0.9567,
+    "variant_score": 0.7846
+  },
+  "store_name": {
+    "value": "LIMSENGTHO HARDWARETRADING",
+    "confidence": 0.99,
+    "raw_text": "LIMSENGTHO HARDWARETRADING"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [],
+  "items_confidence": 0.0,
+  "total_amount": {
+    "value": "7.00",
+    "confidence": 0.99,
+    "raw_text": "Total Incl.of GST 7.00"
+  },
+  "low_confidence_fields": [
+    "date",
+    "items"
+  ],
+  "conflicts": [],
+  "notes": [
+    "No item rows were confidently extracted from this receipt."
+  ]
+}

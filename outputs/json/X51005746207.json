@@ -1,0 +1,75 @@
+{
+  "source_file": "X51005746207.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 71,
+    "line_count": 43,
+    "mean_confidence": 0.9764,
+    "variant_score": 0.9086
+  },
+  "store_name": {
+    "value": "SUPER SEVEN CASH & CARRY SDN BHD",
+    "confidence": 0.99,
+    "raw_text": "SUPER SEVEN CASH & CARRY SDN BHD"
+  },
+  "date": {
+    "value": "2018-03-21",
+    "confidence": 0.8376,
+    "raw_text": "21-03-2018 11:25:07 AM"
+  },
+  "items": [
+    {
+      "name": "FRUIT (FP)",
+      "price": "2.99",
+      "confidence": 0.9245,
+      "raw_text": "FRUIT (FP) @2.99"
+    },
+    {
+      "name": "NANGKA 1 PINGGAN",
+      "price": "2.00",
+      "confidence": 0.9183,
+      "raw_text": "NANGKA 1 PINGGAN @2.00"
+    },
+    {
+      "name": "KIMBALL TOMAT 0 PUREE 430 G",
+      "price": "3.80",
+      "confidence": 0.8892,
+      "raw_text": "KIMBALL TOMAT0 PUREE 430G @3.80"
+    },
+    {
+      "name": "KIMBALL TOMATO PUREE 430 G",
+      "price": "3.80",
+      "confidence": 0.9035,
+      "raw_text": "KIMBALL TOMATO PUREE 430G 03.80"
+    },
+    {
+      "name": "URO MUSHR 0 OM 425 G",
+      "price": "2.80",
+      "confidence": 0.8811,
+      "raw_text": "URO MUSHR0OM 425G@2.80"
+    },
+    {
+      "name": "YOUNG CORN 425 G (MS) e",
+      "price": "2.90",
+      "confidence": 0.8771,
+      "raw_text": "YOUNG CORN 425G (MS) e2.90"
+    },
+    {
+      "name": "Rounding Adjustment RM",
+      "price": "0.01",
+      "confidence": 0.9247,
+      "raw_text": "Rounding Adjustment RM0.01"
+    }
+  ],
+  "items_confidence": 0.9027,
+  "total_amount": {
+    "value": "18.30",
+    "confidence": 0.99,
+    "raw_text": "Net Total RM18.30"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 18.29 from 'Total Sales (Incl. GST C6%) RM18.29'"
+  ],
+  "notes": []
+}

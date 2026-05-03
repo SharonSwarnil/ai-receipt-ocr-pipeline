@@ -1,0 +1,37 @@
+{
+  "source_file": "X51005444045.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 26,
+    "line_count": 16,
+    "mean_confidence": 0.9101,
+    "variant_score": 0.6513
+  },
+  "store_name": {
+    "value": "TAMAN BERKELEY",
+    "confidence": 0.99,
+    "raw_text": "TAMAN BERKELEY"
+  },
+  "date": {
+    "value": "2018-03-19",
+    "confidence": 0.8431,
+    "raw_text": "09:06PM 569547 19-03-18"
+  },
+  "items": [
+    {
+      "name": "103 SUNQUICK OREN 84 OML RM",
+      "price": "11.40",
+      "confidence": 0.8646,
+      "raw_text": "103 SUNQUICK OREN 84OML RM11.40S"
+    }
+  ],
+  "items_confidence": 0.8646,
+  "total_amount": {
+    "value": "11.40",
+    "confidence": 0.99,
+    "raw_text": "Total Sales (Inclusive GsT) RM 11.40"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

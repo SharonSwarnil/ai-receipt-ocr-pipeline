@@ -1,0 +1,57 @@
+{
+  "source_file": "X51005447840.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 61,
+    "line_count": 31,
+    "mean_confidence": 0.9792,
+    "variant_score": 0.9045
+  },
+  "store_name": {
+    "value": "PASARAYA BORONG PINTAR",
+    "confidence": 0.99,
+    "raw_text": "PASARAYA BORONG PINTAR"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [
+    {
+      "name": "1 WALK",
+      "price": "1.60",
+      "confidence": 0.9166,
+      "raw_text": "1 WALK 1.60 1.60 1.60 ZRL"
+    },
+    {
+      "name": "1 WALK",
+      "price": "1.60",
+      "confidence": 0.9235,
+      "raw_text": "1 WALK 1.60 1.60 1.60 ZRL"
+    },
+    {
+      "name": "1 WALK",
+      "price": "4.50",
+      "confidence": 0.9182,
+      "raw_text": "1 WALK 4.50 4.50 4.50 ZRL"
+    },
+    {
+      "name": "1 WALK",
+      "price": "0.50",
+      "confidence": 0.925,
+      "raw_text": "1 WALK 0.50 0.50 0.50 ZRL"
+    }
+  ],
+  "items_confidence": 0.9208,
+  "total_amount": {
+    "value": "8.20",
+    "confidence": 0.99,
+    "raw_text": "Total Includes GST O% 8.20"
+  },
+  "low_confidence_fields": [
+    "date"
+  ],
+  "conflicts": [],
+  "notes": []
+}

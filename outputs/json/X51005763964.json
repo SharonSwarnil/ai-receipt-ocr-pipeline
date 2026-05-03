@@ -1,0 +1,61 @@
+{
+  "source_file": "X51005763964.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 39,
+    "line_count": 23,
+    "mean_confidence": 0.9567,
+    "variant_score": 0.8246
+  },
+  "store_name": {
+    "value": "YONG CEN ENTERPRISE",
+    "confidence": 0.99,
+    "raw_text": "YONG CEN ENTERPRISE"
+  },
+  "date": {
+    "value": "2018-06-01",
+    "confidence": 0.99,
+    "raw_text": "RECEIPT #: CS00668594 DATE: 06/01/2018"
+  },
+  "items": [
+    {
+      "name": "SR:CHAMPIGNONS MUSHROOMS 425 G(",
+      "price": "2.58",
+      "confidence": 0.9054,
+      "raw_text": "SR:CHAMPIGNONS MUSHROOMS 425G(2.5833X"
+    },
+    {
+      "name": "SUB-TOTAL.",
+      "price": "61.99",
+      "confidence": 0.9019,
+      "raw_text": "SUB-TOTAL.61.99"
+    },
+    {
+      "name": "DISC",
+      "price": "0.00",
+      "confidence": 0.8742,
+      "raw_text": "DISC: 0.00"
+    },
+    {
+      "name": "GST",
+      "price": "3.72",
+      "confidence": 0.9252,
+      "raw_text": "GST 3.72"
+    },
+    {
+      "name": "ROUNDING",
+      "price": "0.01",
+      "confidence": 0.8782,
+      "raw_text": "ROUNDING *0.01"
+    }
+  ],
+  "items_confidence": 0.897,
+  "total_amount": {
+    "value": "65.70",
+    "confidence": 0.99,
+    "raw_text": "TOTAL 65.70"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

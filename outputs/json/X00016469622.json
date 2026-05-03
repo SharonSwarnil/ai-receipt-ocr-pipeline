@@ -1,0 +1,40 @@
+{
+  "source_file": "X00016469622.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 59,
+    "line_count": 28,
+    "mean_confidence": 0.9553,
+    "variant_score": 0.8473
+  },
+  "store_name": {
+    "value": "YONGFATTENTERPRISE",
+    "confidence": 0.99,
+    "raw_text": "YONGFATTENTERPRISE"
+  },
+  "date": {
+    "value": "2018-12-25",
+    "confidence": 0.99,
+    "raw_text": "DocNo CS00031663 Date.25/12/2018"
+  },
+  "items": [
+    {
+      "name": "Cashler USER Time",
+      "price": "1231.00",
+      "confidence": 0.8855,
+      "raw_text": "Cashler USER Time1231.00"
+    }
+  ],
+  "items_confidence": 0.8855,
+  "total_amount": {
+    "value": "80.91",
+    "confidence": 0.99,
+    "raw_text": "Total Sales(Excluding GST) 80.91"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 80.90 from 'Total Salos(Inclusivoof GST): 80.90'",
+    "Competing total candidate 0.00 from 'Total: 80.91 0.00'"
+  ],
+  "notes": []
+}

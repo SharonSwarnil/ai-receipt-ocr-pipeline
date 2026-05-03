@@ -1,0 +1,68 @@
+{
+  "source_file": "X51005806695.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 42,
+    "line_count": 33,
+    "mean_confidence": 0.9762,
+    "variant_score": 0.863
+  },
+  "store_name": {
+    "value": "SAYANG YOU STATION SDN BHD",
+    "confidence": 0.99,
+    "raw_text": "SAYANG YOU STATION SDN BHD"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [
+    {
+      "name": "Item Descrlption",
+      "price": "4.10",
+      "confidence": 0.8962,
+      "raw_text": "Item Descrlption || 1640310083 4.10 SR"
+    },
+    {
+      "name": "MEASUREMENTTAPE",
+      "price": "4.10",
+      "confidence": 0.9066,
+      "raw_text": "MEASUREMENTTAPE || 714WH 4.10"
+    },
+    {
+      "name": "BALANCE",
+      "price": "0.23",
+      "confidence": 0.9285,
+      "raw_text": "BALANCE: 0.23"
+    },
+    {
+      "name": "INC. GST",
+      "price": "6.00",
+      "confidence": 0.9199,
+      "raw_text": "INC. GST 6.00% :"
+    },
+    {
+      "name": "GsT Summary",
+      "price": "0.23",
+      "confidence": 0.9197,
+      "raw_text": "GsT Summary 0.23"
+    }
+  ],
+  "items_confidence": 0.9142,
+  "total_amount": {
+    "value": "3.87",
+    "confidence": 0.6929,
+    "raw_text": "3.87"
+  },
+  "low_confidence_fields": [
+    "date",
+    "total_amount"
+  ],
+  "conflicts": [
+    "Competing total candidate 0.23 from 'GsT Summary 0.23'",
+    "Competing total candidate 0.23 from 'BALANCE: 0.23'",
+    "Competing total candidate 4.10 from '4.10'"
+  ],
+  "notes": []
+}

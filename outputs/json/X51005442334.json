@@ -1,0 +1,62 @@
+{
+  "source_file": "X51005442334.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 38,
+    "line_count": 17,
+    "mean_confidence": 0.9474,
+    "variant_score": 0.7766
+  },
+  "store_name": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [
+    {
+      "name": "SRI 0010000035-1 Meat+3 Vege",
+      "price": "7.10",
+      "confidence": 0.9045,
+      "raw_text": "SRI0010000035-1Meat+3Vege $7.10 Qty"
+    },
+    {
+      "name": "SRI 0010000015-Vegetable 1 Total",
+      "price": "1.10",
+      "confidence": 0.861,
+      "raw_text": "SRI0010000015-Vegetable 1 Total || $1.10"
+    },
+    {
+      "name": "GSTSummary",
+      "price": "8.20",
+      "confidence": 0.8768,
+      "raw_text": "GSTSummary $8.20"
+    },
+    {
+      "name": "SR=GST 6%",
+      "price": "0.00",
+      "confidence": 0.9018,
+      "raw_text": "SR=GST6% $0.00"
+    }
+  ],
+  "items_confidence": 0.886,
+  "total_amount": {
+    "value": "0.46",
+    "confidence": 0.6597,
+    "raw_text": "BARWANGRICE@PERMASJAYA 0.46"
+  },
+  "low_confidence_fields": [
+    "store_name",
+    "date",
+    "total_amount"
+  ],
+  "conflicts": [
+    "Competing total candidate 8.20 from 'GSTSummary $8.20'",
+    "Competing total candidate 0.00 from 'SR=GST6% $0.00'"
+  ],
+  "notes": []
+}

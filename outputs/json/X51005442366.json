@@ -1,0 +1,64 @@
+{
+  "source_file": "X51005442366.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 38,
+    "line_count": 21,
+    "mean_confidence": 0.9674,
+    "variant_score": 0.7661
+  },
+  "store_name": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [
+    {
+      "name": "1 xApollo cake",
+      "price": "10.00",
+      "confidence": 0.9151,
+      "raw_text": "1xApollo cake 10.00 10.00"
+    },
+    {
+      "name": "original 30 s",
+      "price": "6.50",
+      "confidence": 0.9268,
+      "raw_text": "original30s 6.80 6.50"
+    },
+    {
+      "name": "(Diso",
+      "price": "0.30",
+      "confidence": 0.8742,
+      "raw_text": "(Diso:0.3000)"
+    },
+    {
+      "name": "nuts mixwd",
+      "price": "4.20",
+      "confidence": 0.9204,
+      "raw_text": "nuts mixwd 4.20 4.20"
+    },
+    {
+      "name": "coconut",
+      "price": "1.90",
+      "confidence": 0.9256,
+      "raw_text": "coconut 1.90 1.90"
+    }
+  ],
+  "items_confidence": 0.9124,
+  "total_amount": {
+    "value": "0.30",
+    "confidence": 0.99,
+    "raw_text": "Total Amount 0.30"
+  },
+  "low_confidence_fields": [
+    "store_name",
+    "date"
+  ],
+  "conflicts": [],
+  "notes": []
+}

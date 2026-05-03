@@ -1,0 +1,37 @@
+{
+  "source_file": "X51005447859.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 40,
+    "line_count": 25,
+    "mean_confidence": 0.9704,
+    "variant_score": 0.8326
+  },
+  "store_name": {
+    "value": "PASARAYA BORONG PINTAR",
+    "confidence": 0.99,
+    "raw_text": "PASARAYA BORONG PINTAR"
+  },
+  "date": {
+    "value": "2018-02-14",
+    "confidence": 0.8435,
+    "raw_text": "14/02/2018 5:37:44PM"
+  },
+  "items": [
+    {
+      "name": "WALK",
+      "price": "1.45",
+      "confidence": 0.8971,
+      "raw_text": "WALK 1.45 1.45 1.45 ZRL"
+    }
+  ],
+  "items_confidence": 0.8971,
+  "total_amount": {
+    "value": "1.46",
+    "confidence": 0.99,
+    "raw_text": "Total Includes GST 0% 1.46"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

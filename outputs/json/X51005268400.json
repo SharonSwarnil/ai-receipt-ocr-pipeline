@@ -1,0 +1,46 @@
+{
+  "source_file": "X51005268400.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 55,
+    "line_count": 29,
+    "mean_confidence": 0.9519,
+    "variant_score": 0.8501
+  },
+  "store_name": {
+    "value": "RESTORAN HASSANBISTRO",
+    "confidence": 0.99,
+    "raw_text": "RESTORAN HASSANBISTRO"
+  },
+  "date": {
+    "value": "2017-12-28",
+    "confidence": 0.99,
+    "raw_text": "DATE : 12/28/2017 10:17:32 PM"
+  },
+  "items": [
+    {
+      "name": "MAKANAN",
+      "price": "15.00",
+      "confidence": 0.8557,
+      "raw_text": "MAKANAN || 1 15.00 0 15.00 ZR"
+    },
+    {
+      "name": "GST 6 RM",
+      "price": "0.00",
+      "confidence": 0.9019,
+      "raw_text": "GST 6 RM 0.00"
+    }
+  ],
+  "items_confidence": 0.8788,
+  "total_amount": {
+    "value": "15.00",
+    "confidence": 0.99,
+    "raw_text": "Total Incl.6x GST RM 15.00"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 1.00 from 'Total Itens 1.00'",
+    "Competing total candidate 1.00 from 'Total Qty 1.00'"
+  ],
+  "notes": []
+}

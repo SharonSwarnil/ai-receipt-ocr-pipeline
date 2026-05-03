@@ -1,0 +1,94 @@
+{
+  "source_file": "X51005361907.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 90,
+    "line_count": 43,
+    "mean_confidence": 0.9738,
+    "variant_score": 0.956
+  },
+  "store_name": {
+    "value": "TEO HENG STATIONERY & BOOKS",
+    "confidence": 0.99,
+    "raw_text": "TEO HENG STATIONERY & BOOKS"
+  },
+  "date": {
+    "value": "2018-12-02",
+    "confidence": 0.9897,
+    "raw_text": "Receipt No.:CS1802/27714 Date:12/02/2018"
+  },
+  "items": [
+    {
+      "name": "(RM)",
+      "price": "105.66",
+      "confidence": 0.9038,
+      "raw_text": "(RM) || 9555067700208 10 10.57 0.00 105.66 *"
+    },
+    {
+      "name": "IKYELLOW 70 GRAMS",
+      "price": "17.45",
+      "confidence": 0.9063,
+      "raw_text": "-IKYELLOW70GRAMS || 9557583450025 1 17.45 0.00 17.45*"
+    },
+    {
+      "name": "PAPYRUSDARKCOLOURPAPER",
+      "price": "2.70",
+      "confidence": 0.9001,
+      "raw_text": "-PAPYRUSDARKCOLOURPAPER || 4974052801334 1 2.70 0.00 2.70"
+    },
+    {
+      "name": "ARTLINE",
+      "price": "0.85",
+      "confidence": 0.9012,
+      "raw_text": "-ARTLINE70 || 9557546953990 0.85 0.00 0.85*"
+    },
+    {
+      "name": "FASTER CX 5 NBALLPEN",
+      "price": "1.70",
+      "confidence": 0.8985,
+      "raw_text": "-FASTER CX5NBALLPEN || 6924238702311 2 0.85 0.00 1.70 *"
+    },
+    {
+      "name": "CBEHANDYCUTTER",
+      "price": "8.40",
+      "confidence": 0.9024,
+      "raw_text": "CBEHANDYCUTTER || 9556655112694 8.40 0.00 8.40*"
+    },
+    {
+      "name": "CLEARHOLDER",
+      "price": "7.92",
+      "confidence": 0.9156,
+      "raw_text": "CLEARHOLDER || 9557369305006 2 3.96 0.00 7.92"
+    },
+    {
+      "name": "SUB-TOTAL",
+      "price": "144.68",
+      "confidence": 0.928,
+      "raw_text": "SUB-TOTAL 144.68"
+    },
+    {
+      "name": "ROUNDING",
+      "price": "0.01",
+      "confidence": 0.9265,
+      "raw_text": "ROUNDING -0.01"
+    },
+    {
+      "name": "(RMI) (RM)",
+      "price": "8.68",
+      "confidence": 0.864,
+      "raw_text": "(RMI) (RM) || SR 6.00 144.68 8.68"
+    }
+  ],
+  "items_confidence": 0.9046,
+  "total_amount": {
+    "value": "8.68",
+    "confidence": 0.99,
+    "raw_text": "TOTAL: 144.68 8.68"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 153.35 from 'TOTAL 153.35'",
+    "Competing total candidate 144.68 from 'Total Qty.: 18 144.68'"
+  ],
+  "notes": []
+}

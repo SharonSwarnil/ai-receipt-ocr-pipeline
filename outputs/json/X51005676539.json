@@ -1,0 +1,40 @@
+{
+  "source_file": "X51005676539.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 57,
+    "line_count": 28,
+    "mean_confidence": 0.9785,
+    "variant_score": 0.8694
+  },
+  "store_name": {
+    "value": "SYARIKAT PERNIAGAAN GIN KEE",
+    "confidence": 0.99,
+    "raw_text": "SYARIKAT PERNIAGAAN GIN KEE"
+  },
+  "date": {
+    "value": "2018-10-01",
+    "confidence": 0.9793,
+    "raw_text": "Doc No CS00012626 Date:10/01/2018"
+  },
+  "items": [
+    {
+      "name": "Rounding",
+      "price": "0.00",
+      "confidence": 0.9297,
+      "raw_text": "Rounding 0.00"
+    }
+  ],
+  "items_confidence": 0.9297,
+  "total_amount": {
+    "value": "1.32",
+    "confidence": 0.99,
+    "raw_text": "Total: 22.00 1.32"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 23.32 from 'Total Sales(Inclusiveof GsT) 23.32'",
+    "Competing total candidate 22.00 from 'Total Sales(ExcludingGST): 22.00'"
+  ],
+  "notes": []
+}

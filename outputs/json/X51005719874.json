@@ -1,0 +1,49 @@
+{
+  "source_file": "X51005719874.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 23,
+    "line_count": 16,
+    "mean_confidence": 0.9763,
+    "variant_score": 0.6897
+  },
+  "store_name": {
+    "value": ". NADEJE PRESTIGE SDN BHD",
+    "confidence": 0.99,
+    "raw_text": ". NADEJE PRESTIGE SDN BHD"
+  },
+  "date": {
+    "value": "2018-02-22",
+    "confidence": 0.99,
+    "raw_text": "Date: 2018/02/22 13:34:14"
+  },
+  "items": [
+    {
+      "name": "LOT N 0.:G",
+      "price": "1.11",
+      "confidence": 0.9005,
+      "raw_text": "LOT N0.:G1.116A,GR0UND FL00R,"
+    },
+    {
+      "name": "Original Slice 2 RM",
+      "price": "26.00",
+      "confidence": 0.9126,
+      "raw_text": "Original Slice 2 RM26.00"
+    },
+    {
+      "name": "DoubleChoc Slice 1 RM",
+      "price": "13.00",
+      "confidence": 0.928,
+      "raw_text": "DoubleChoc Slice 1 RM13.00"
+    }
+  ],
+  "items_confidence": 0.9137,
+  "total_amount": {
+    "value": "39.00",
+    "confidence": 0.99,
+    "raw_text": "Grand Total RM39.00"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

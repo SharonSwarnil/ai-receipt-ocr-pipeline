@@ -1,0 +1,51 @@
+{
+  "source_file": "X51005605333.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 44,
+    "line_count": 29,
+    "mean_confidence": 0.9454,
+    "variant_score": 0.8093
+  },
+  "store_name": {
+    "value": "POPULAR BOOK",
+    "confidence": 0.99,
+    "raw_text": "POPULAR BOOK"
+  },
+  "date": {
+    "value": "2018-07-01",
+    "confidence": 0.8307,
+    "raw_text": "07/01/18 14:41 Slip No.: 7010385084"
+  },
+  "items": [
+    {
+      "name": "70 g P.Copy 450'S",
+      "price": "41.07",
+      "confidence": 0.8824,
+      "raw_text": "70g P.Copy 450'S || 3pc 0 13.69 41.07 7"
+    },
+    {
+      "name": "Stat-Great Saving",
+      "price": "9.60",
+      "confidence": 0.924,
+      "raw_text": "Stat-Great Saving -9.60"
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "0.02",
+      "confidence": 0.9105,
+      "raw_text": "Rounding Adj -0.02"
+    }
+  ],
+  "items_confidence": 0.9056,
+  "total_amount": {
+    "value": "31.45",
+    "confidence": 0.99,
+    "raw_text": "Total RY 31.45"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 31.47 from 'Total RM Incl. of GST 31.47'"
+  ],
+  "notes": []
+}

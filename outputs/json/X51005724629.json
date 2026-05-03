@@ -1,0 +1,40 @@
+{
+  "source_file": "X51005724629.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 70,
+    "line_count": 35,
+    "mean_confidence": 0.9778,
+    "variant_score": 0.9024
+  },
+  "store_name": {
+    "value": "KEDAIPAPANYEWCHUAN",
+    "confidence": 0.99,
+    "raw_text": "KEDAIPAPANYEWCHUAN"
+  },
+  "date": {
+    "value": "2018-03-17",
+    "confidence": 0.99,
+    "raw_text": "DocNo CS00010930 Date:17/03/2018"
+  },
+  "items": [
+    {
+      "name": "Rounding",
+      "price": "0.00",
+      "confidence": 0.9165,
+      "raw_text": "Rounding: 0.00"
+    }
+  ],
+  "items_confidence": 0.9165,
+  "total_amount": {
+    "value": "9.90",
+    "confidence": 0.99,
+    "raw_text": "Total: 165.00 9.90"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 174.90 from 'Total Qty: 174.90'",
+    "Competing total candidate 174.90 from 'Total Sales(Inclusive of GsT): 174.90'"
+  ],
+  "notes": []
+}

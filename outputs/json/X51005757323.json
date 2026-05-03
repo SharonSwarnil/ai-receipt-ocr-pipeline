@@ -1,0 +1,37 @@
+{
+  "source_file": "X51005757323.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 44,
+    "line_count": 29,
+    "mean_confidence": 0.9595,
+    "variant_score": 0.7818
+  },
+  "store_name": {
+    "value": "MR. D.I.Y.(M) SDN BHD",
+    "confidence": 0.99,
+    "raw_text": "MR. D.I.Y.(M) SDN BHD"
+  },
+  "date": {
+    "value": "2018-03-26",
+    "confidence": 0.8788,
+    "raw_text": "26-03-18 15:25 SH01 ZJ86 T1 R000112587"
+  },
+  "items": [
+    {
+      "name": "WA 33-100/",
+      "price": "0.80",
+      "confidence": 0.902,
+      "raw_text": "WA33-100/1000 || 9180501 1 X 0.80 0.80"
+    }
+  ],
+  "items_confidence": 0.902,
+  "total_amount": {
+    "value": "28.00",
+    "confidence": 0.99,
+    "raw_text": "Total Incl. GST@6% RM 28.00"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

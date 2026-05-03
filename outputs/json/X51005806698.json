@@ -1,0 +1,59 @@
+{
+  "source_file": "X51005806698.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 53,
+    "line_count": 28,
+    "mean_confidence": 0.9864,
+    "variant_score": 0.8729
+  },
+  "store_name": {
+    "value": "ADVANCO COMPANY",
+    "confidence": 0.99,
+    "raw_text": "ADVANCO COMPANY"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [
+    {
+      "name": "UNICORN GLUE STICK USG-21 G 2'S SR",
+      "price": "11.60",
+      "confidence": 0.8968,
+      "raw_text": "UNICORN GLUE STICK USG-21G 2'S SR || 2 27755 5.80 11.60"
+    },
+    {
+      "name": "2 Type: 1 Total",
+      "price": "11.60",
+      "confidence": 0.9183,
+      "raw_text": "2 Type: 1 Total 11.60"
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "0.01",
+      "confidence": 0.9265,
+      "raw_text": "Rounding Adj 0.01"
+    },
+    {
+      "name": "Code % Net Amt GST Total",
+      "price": "10.44",
+      "confidence": 0.9091,
+      "raw_text": "Code % Net Amt GST Total || SR 6% 9.85 0.59 10.44"
+    }
+  ],
+  "items_confidence": 0.9127,
+  "total_amount": {
+    "value": "10.44",
+    "confidence": 0.99,
+    "raw_text": "Total 9.85 0.59 10.44"
+  },
+  "low_confidence_fields": [
+    "date"
+  ],
+  "conflicts": [
+    "Competing total candidate 10.45 from 'Total Inclusive GST: 10.45'"
+  ],
+  "notes": []
+}

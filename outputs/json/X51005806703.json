@@ -1,0 +1,73 @@
+{
+  "source_file": "X51005806703.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 63,
+    "line_count": 29,
+    "mean_confidence": 0.9767,
+    "variant_score": 0.8999
+  },
+  "store_name": {
+    "value": "CAMERON HIGHLANDS,",
+    "confidence": 0.9565,
+    "raw_text": "CAMERON HIGHLANDS,"
+  },
+  "date": {
+    "value": "2018-06-02",
+    "confidence": 0.9866,
+    "raw_text": "Date : 06/02/2018 07:09.46 PM"
+  },
+  "items": [
+    {
+      "name": "Date : 06/02/2018 07",
+      "price": "9.46",
+      "confidence": 0.9157,
+      "raw_text": "Date : 06/02/2018 07:09.46 PM"
+    },
+    {
+      "name": "3 UNIT",
+      "price": "14.40",
+      "confidence": 0.923,
+      "raw_text": "3UNIT * 4.80 0.00 14.40 SR"
+    },
+    {
+      "name": "PLASTIC BOWL",
+      "price": "2.80",
+      "confidence": 0.9108,
+      "raw_text": "PLASTIC BOWL - 2.80"
+    },
+    {
+      "name": "8 JNIT",
+      "price": "22.40",
+      "confidence": 0.9077,
+      "raw_text": "8 JNIT * 2.80 0.00 22.40 SR"
+    },
+    {
+      "name": "6 UNIT",
+      "price": "9.00",
+      "confidence": 0.9099,
+      "raw_text": "6 UNIT * 1.50 0.00 9.00 SR"
+    },
+    {
+      "name": "1 UNIT",
+      "price": "10.00",
+      "confidence": 0.9227,
+      "raw_text": "1 UNIT * 10.00 0.00 10.00 SR"
+    },
+    {
+      "name": "11 UNIT",
+      "price": "53.90",
+      "confidence": 0.9231,
+      "raw_text": "11 UNIT * 4.90 0.00 53.90 SR"
+    }
+  ],
+  "items_confidence": 0.9161,
+  "total_amount": {
+    "value": "109.70",
+    "confidence": 0.99,
+    "raw_text": "Total Inclusive GST 6% : 109.70"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

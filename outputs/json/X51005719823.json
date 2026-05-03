@@ -1,0 +1,61 @@
+{
+  "source_file": "X51005719823.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 66,
+    "line_count": 35,
+    "mean_confidence": 0.9721,
+    "variant_score": 0.9068
+  },
+  "store_name": {
+    "value": "AA FHARMACY",
+    "confidence": 0.99,
+    "raw_text": "AA FHARMACY"
+  },
+  "date": {
+    "value": "2018-01-29",
+    "confidence": 0.99,
+    "raw_text": "RECEIPT #: CS00123688 DATE: 29/01/2018"
+  },
+  "items": [
+    {
+      "name": "IRUFROFEN FILM COATEI TAR",
+      "price": "12.00",
+      "confidence": 0.893,
+      "raw_text": "IRUFROFEN FILM COATEI TAR || 9556492002837 4 3.00 12.00 7"
+    },
+    {
+      "name": ".FEBRIC 0 L - RX 10 X 10'S",
+      "price": "20.94",
+      "confidence": 0.8947,
+      "raw_text": ".FEBRIC0L - RX 10X10'S || 940152 6 3.49 20.94 S"
+    },
+    {
+      "name": "SUB-TOTAL",
+      "price": "44.94",
+      "confidence": 0.9167,
+      "raw_text": "SUB-TOTAL 44.94"
+    },
+    {
+      "name": "nISC 00'",
+      "price": "1.26",
+      "confidence": 0.8487,
+      "raw_text": "nISC 00'0 || GST 1.26"
+    },
+    {
+      "name": "ROUNIING",
+      "price": "0.00",
+      "confidence": 0.9163,
+      "raw_text": "ROUNIING 0.00"
+    }
+  ],
+  "items_confidence": 0.8939,
+  "total_amount": {
+    "value": "46.20",
+    "confidence": 0.99,
+    "raw_text": "TOTAL 46.20"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

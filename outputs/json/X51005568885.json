@@ -1,0 +1,57 @@
+{
+  "source_file": "X51005568885.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 46,
+    "line_count": 28,
+    "mean_confidence": 0.8954,
+    "variant_score": 0.7567
+  },
+  "store_name": {
+    "value": "EYERGREEN LIGHT SDN BHD",
+    "confidence": 0.99,
+    "raw_text": "EYERGREEN LIGHT SDN BHD"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [
+    {
+      "name": "B.CODE. QTY UPRICE AIT",
+      "price": "5.03",
+      "confidence": 0.8447,
+      "raw_text": "B.CODE. QTY UPRICE AIT || '11598 4 13.21 5.0315"
+    },
+    {
+      "name": "TotslGETIE!",
+      "price": "3.17",
+      "confidence": 0.8567,
+      "raw_text": "TotslGETIE! 3.17"
+    },
+    {
+      "name": "8 UB-TOTAL",
+      "price": "56.01",
+      "confidence": 0.8809,
+      "raw_text": "8UB-TOTAL 56.01"
+    },
+    {
+      "name": "ROLNDING ADJILET",
+      "price": "0.01",
+      "confidence": 0.8802,
+      "raw_text": "ROLNDING ADJILET -0.01."
+    }
+  ],
+  "items_confidence": 0.8656,
+  "total_amount": {
+    "value": "56.00",
+    "confidence": 0.99,
+    "raw_text": "Total lncl GST 56.00."
+  },
+  "low_confidence_fields": [
+    "date"
+  ],
+  "conflicts": [],
+  "notes": []
+}

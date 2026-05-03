@@ -1,0 +1,37 @@
+{
+  "source_file": "X51005444044.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 26,
+    "line_count": 16,
+    "mean_confidence": 0.9435,
+    "variant_score": 0.679
+  },
+  "store_name": {
+    "value": "TAMAN BERKELEY",
+    "confidence": 0.99,
+    "raw_text": "TAMAN BERKELEY"
+  },
+  "date": {
+    "value": "2018-10-03",
+    "confidence": 0.8463,
+    "raw_text": "02:27PM 570285 10-03-18"
+  },
+  "items": [
+    {
+      "name": "104 SUNQUICK OREN 330 ML RM",
+      "price": "5.35",
+      "confidence": 0.8712,
+      "raw_text": "104 SUNQUICK OREN 330ML RM5.35 s"
+    }
+  ],
+  "items_confidence": 0.8712,
+  "total_amount": {
+    "value": "5.35",
+    "confidence": 0.99,
+    "raw_text": "Total Sales (Inclusive GST) RM 5.35"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

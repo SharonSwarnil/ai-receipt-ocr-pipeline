@@ -1,0 +1,85 @@
+{
+  "source_file": "X51005447844.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 62,
+    "line_count": 35,
+    "mean_confidence": 0.9736,
+    "variant_score": 0.8321
+  },
+  "store_name": {
+    "value": "RESTAURANTJIAWEI",
+    "confidence": 0.99,
+    "raw_text": "RESTAURANTJIAWEI"
+  },
+  "date": {
+    "value": "2018-02-23",
+    "confidence": 0.9774,
+    "raw_text": "Date:23/2/2018 20:04:08"
+  },
+  "items": [
+    {
+      "name": "Red Cat Fish",
+      "price": "0.00",
+      "confidence": 0.8911,
+      "raw_text": "Red Cat Fish || 1 42.00 0.00 42."
+    },
+    {
+      "name": "Ginger Clams (S)",
+      "price": "0.00",
+      "confidence": 0.8876,
+      "raw_text": "Ginger Clams (S) || 20.00 0.00"
+    },
+    {
+      "name": "Beancurd W Dao Gan(S)",
+      "price": "0.00",
+      "confidence": 0.895,
+      "raw_text": "Beancurd W Dao Gan(S) || 1 18.00 0.00"
+    },
+    {
+      "name": "G.Dragon Chives(S)",
+      "price": "0.00",
+      "confidence": 0.8929,
+      "raw_text": "G.Dragon Chives(S) || 1 16.00 0.00"
+    },
+    {
+      "name": "Pu Er(1-3)",
+      "price": "0.00",
+      "confidence": 0.8667,
+      "raw_text": "Pu Er（1-3) || (1-3) 5.00 0.00 5.0"
+    },
+    {
+      "name": "Rice (B)",
+      "price": "0.00",
+      "confidence": 0.8846,
+      "raw_text": "Rice (B) || .50 0.00 6"
+    },
+    {
+      "name": "Rice Smal!",
+      "price": "0.00",
+      "confidence": 0.8826,
+      "raw_text": "Rice Smal! || 100 0.00 3.0"
+    },
+    {
+      "name": "Service Char RM",
+      "price": "0.00",
+      "confidence": 0.9193,
+      "raw_text": "Service Char RM0.00"
+    },
+    {
+      "name": "Rounding Adjustment RM",
+      "price": "0.00",
+      "confidence": 0.9205,
+      "raw_text": "Rounding Adjustment RM0.00"
+    }
+  ],
+  "items_confidence": 0.8934,
+  "total_amount": {
+    "value": "110.00",
+    "confidence": 0.99,
+    "raw_text": "TOTAL RM110.00"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

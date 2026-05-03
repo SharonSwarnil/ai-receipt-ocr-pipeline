@@ -1,0 +1,43 @@
+{
+  "source_file": "0.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 34,
+    "line_count": 22,
+    "mean_confidence": 0.9629,
+    "variant_score": 0.7183
+  },
+  "store_name": {
+    "value": "WAL*MART",
+    "confidence": 0.99,
+    "raw_text": "WAL*MART"
+  },
+  "date": {
+    "value": "2010-08-20",
+    "confidence": 0.8884,
+    "raw_text": "08/20/10 13:12:01"
+  },
+  "items": [
+    {
+      "name": "BANANAS",
+      "price": "0.20",
+      "confidence": 0.9083,
+      "raw_text": "BANANAS 000000004011KF || 0.41 1b. \"1 1b /0.49 0.20 N"
+    },
+    {
+      "name": "FRAP",
+      "price": "5.48",
+      "confidence": 0.919,
+      "raw_text": "FRAP 001200010451. F 5.48 N"
+    }
+  ],
+  "items_confidence": 0.9136,
+  "total_amount": {
+    "value": "5.11",
+    "confidence": 0.99,
+    "raw_text": "TOTAL 5.11"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

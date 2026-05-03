@@ -1,0 +1,41 @@
+{
+  "source_file": "X51005715455.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 27,
+    "line_count": 18,
+    "mean_confidence": 0.8715,
+    "variant_score": 0.6056
+  },
+  "store_name": {
+    "value": "TANAN PERVELEY",
+    "confidence": 0.9285,
+    "raw_text": "TANAN PERVELEY"
+  },
+  "date": {
+    "value": "2018-03-26",
+    "confidence": 0.7519,
+    "raw_text": "10r228M 567234. 26-03-18"
+  },
+  "items": [
+    {
+      "name": "2146 TLC GLAS 5 CLEANER IPIN RH",
+      "price": "10.60",
+      "confidence": 0.8222,
+      "raw_text": "2146 TLC GLAS5 CLEANER IPIN RH10.60 3"
+    }
+  ],
+  "items_confidence": 0.8222,
+  "total_amount": {
+    "value": "10.60",
+    "confidence": 0.6385,
+    "raw_text": "Totsl. Sales (Inclusive GsT) RH 10.60"
+  },
+  "low_confidence_fields": [
+    "total_amount"
+  ],
+  "conflicts": [
+    "Competing total candidate 10.00 from '5 =61 10.00 60'"
+  ],
+  "notes": []
+}

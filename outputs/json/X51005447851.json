@@ -1,0 +1,37 @@
+{
+  "source_file": "X51005447851.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 40,
+    "line_count": 25,
+    "mean_confidence": 0.9622,
+    "variant_score": 0.8276
+  },
+  "store_name": {
+    "value": "PASARAYA BORONG PINTAR",
+    "confidence": 0.99,
+    "raw_text": "PASARAYA BORONG PINTAR"
+  },
+  "date": {
+    "value": "2018-01-30",
+    "confidence": 0.8434,
+    "raw_text": "30/01/2018 14:48:23"
+  },
+  "items": [
+    {
+      "name": "WAlK .",
+      "price": "1.70",
+      "confidence": 0.8727,
+      "raw_text": "WAlK . 1.70 1.70 1.70 ZRL"
+    }
+  ],
+  "items_confidence": 0.8727,
+  "total_amount": {
+    "value": "1.70",
+    "confidence": 0.99,
+    "raw_text": "Total Includes GST 0% 1.70"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

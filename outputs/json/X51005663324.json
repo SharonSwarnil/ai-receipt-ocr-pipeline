@@ -1,0 +1,100 @@
+{
+  "source_file": "X51005663324.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 115,
+    "line_count": 48,
+    "mean_confidence": 0.9788,
+    "variant_score": 0.9715
+  },
+  "store_name": {
+    "value": "SYARIKATPERNIAGAANGINKEE",
+    "confidence": 0.99,
+    "raw_text": "SYARIKATPERNIAGAANGINKEE"
+  },
+  "date": {
+    "value": "2017-12-28",
+    "confidence": 0.9886,
+    "raw_text": "DocNo CS00012440 Date: 28/12/2017"
+  },
+  "items": [
+    {
+      "name": "NAIL(PER/PACK)-RM",
+      "price": "7.95",
+      "confidence": 0.8949,
+      "raw_text": "NAIL(PER/PACK)-RM2 || 3483 1 7.95 7.95 SR"
+    },
+    {
+      "name": "11/2\"SANCORAPAINTBRUSH",
+      "price": "10.07",
+      "confidence": 0.911,
+      "raw_text": "11/2\"SANCORAPAINTBRUSH || 1452 1 10.07 10.07 SR"
+    },
+    {
+      "name": "7\"PAINTROLLERSET",
+      "price": "53.00",
+      "confidence": 0.9067,
+      "raw_text": "7\"PAINTROLLERSET || 1664 2 26.50 53.00 SR"
+    },
+    {
+      "name": "1 LTBIGTREEHIGHGLOSSPAINT",
+      "price": "133.56",
+      "confidence": 0.9158,
+      "raw_text": "1LTBIGTREEHIGHGLOSSPAINT || 1665 450 0.30 133.56 SR"
+    },
+    {
+      "name": "CEMENTBRICK",
+      "price": "47.70",
+      "confidence": 0.9169,
+      "raw_text": "CEMENTBRICK || 1041 3 15.90 47.70 SR"
+    },
+    {
+      "name": "6'X 35#CORRUGATEDROOFINGSHEET",
+      "price": "72.08",
+      "confidence": 0.9054,
+      "raw_text": "6'X35#CORRUGATEDROOFINGSHEET || 2430 4 18.02 72.08 SR"
+    },
+    {
+      "name": "CEMENT(50 KG)",
+      "price": "33.92",
+      "confidence": 0.8997,
+      "raw_text": "CEMENT(50KG) || 1812 2 16.96 33.92 SR"
+    },
+    {
+      "name": "10'2 X",
+      "price": "22.26",
+      "confidence": 0.8529,
+      "raw_text": "10'2X3 || 1792 3 7.42 22.26 SR"
+    },
+    {
+      "name": "10'1 X",
+      "price": "80.56",
+      "confidence": 0.8359,
+      "raw_text": "10'1X2 || 1840 2 40.28 80.56 SR"
+    },
+    {
+      "name": "TotalQty",
+      "price": "465.34",
+      "confidence": 0.9255,
+      "raw_text": "TotalQty 470 465.34"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.00",
+      "confidence": 0.9139,
+      "raw_text": "Rounding: 0.00"
+    }
+  ],
+  "items_confidence": 0.898,
+  "total_amount": {
+    "value": "26.34",
+    "confidence": 0.99,
+    "raw_text": "Total: 439.00 26.34"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 439.00 from 'Total Sales(ExcludingGST) 439.00'",
+    "Competing total candidate 465.34 from 'Total Sales(InclusiveofGsT): 465.34'"
+  ],
+  "notes": []
+}

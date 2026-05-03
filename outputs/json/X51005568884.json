@@ -1,0 +1,37 @@
+{
+  "source_file": "X51005568884.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 35,
+    "line_count": 23,
+    "mean_confidence": 0.9646,
+    "variant_score": 0.7419
+  },
+  "store_name": {
+    "value": "MR. D.I.Y. SDN BHD",
+    "confidence": 0.99,
+    "raw_text": "MR. D.I.Y. SDN BHD"
+  },
+  "date": {
+    "value": "2017-11-24",
+    "confidence": 0.8896,
+    "raw_text": "24-11-17 13:11 SH01 ZT09 T2 R000011248"
+  },
+  "items": [
+    {
+      "name": "XC 12 - 12/",
+      "price": "3.90",
+      "confidence": 0.9096,
+      "raw_text": "XC12 - 12/144 || 9021937 1 X 3.90 3.90"
+    }
+  ],
+  "items_confidence": 0.9096,
+  "total_amount": {
+    "value": "3.90",
+    "confidence": 0.99,
+    "raw_text": "Total Incl. GST@6% RM 3.90"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

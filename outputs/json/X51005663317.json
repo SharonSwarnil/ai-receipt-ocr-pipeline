@@ -1,0 +1,48 @@
+{
+  "source_file": "X51005663317.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 45,
+    "line_count": 27,
+    "mean_confidence": 0.9724,
+    "variant_score": 0.7962
+  },
+  "store_name": {
+    "value": "LIM SENG THO HARDWARE TRADING",
+    "confidence": 0.99,
+    "raw_text": "LIM SENG THO HARDWARE TRADING"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [
+    {
+      "name": "JalanlpohBatu",
+      "price": "5.51",
+      "confidence": 0.9119,
+      "raw_text": "JalanlpohBatu5.51200KualaLumpur"
+    },
+    {
+      "name": "SIMEN(S)",
+      "price": "6.00",
+      "confidence": 0.9083,
+      "raw_text": "SIMEN(S) || 3.00 X 2.00 6.00 SR"
+    }
+  ],
+  "items_confidence": 0.9101,
+  "total_amount": {
+    "value": "6.00",
+    "confidence": 0.6826,
+    "raw_text": "Payment 6.00"
+  },
+  "low_confidence_fields": [
+    "date",
+    "total_amount"
+  ],
+  "conflicts": [
+    "Competing total candidate 0.34 from '0.34'"
+  ],
+  "notes": []
+}

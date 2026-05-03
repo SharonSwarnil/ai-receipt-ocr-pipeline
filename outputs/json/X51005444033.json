@@ -1,0 +1,55 @@
+{
+  "source_file": "X51005444033.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 50,
+    "line_count": 27,
+    "mean_confidence": 0.9714,
+    "variant_score": 0.8475
+  },
+  "store_name": {
+    "value": "BENS INDEPENDENT GROCER SDN. BHD",
+    "confidence": 0.99,
+    "raw_text": "BENS INDEPENDENT GROCER SDN. BHD"
+  },
+  "date": {
+    "value": "2018-12-03",
+    "confidence": 0.8359,
+    "raw_text": "Tax Invoice : BAT02201803120255 12/03/18"
+  },
+  "items": [
+    {
+      "name": "Dole Pineapple Pcs",
+      "price": "23.70",
+      "confidence": 0.9074,
+      "raw_text": "Dole Pineapple Pcs || 8809069300708 7.90*3 23.70 Z"
+    },
+    {
+      "name": "Evian Mineral Water",
+      "price": "1.25",
+      "confidence": 0.9257,
+      "raw_text": "Evian Mineral Water 6x1.25L"
+    },
+    {
+      "name": "Item 2 Total with GST 6%",
+      "price": "77.20",
+      "confidence": 0.9228,
+      "raw_text": "Item 2 Total with GST @ 6% 77.20"
+    },
+    {
+      "name": "Qry 4 Rounding",
+      "price": "0.00",
+      "confidence": 0.9115,
+      "raw_text": "Qry 4 Rounding 0.00"
+    }
+  ],
+  "items_confidence": 0.9169,
+  "total_amount": {
+    "value": "77.20",
+    "confidence": 0.99,
+    "raw_text": "Total Saving 0.00 Total 77.20"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

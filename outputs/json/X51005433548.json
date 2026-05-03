@@ -1,0 +1,73 @@
+{
+  "source_file": "X51005433548.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 49,
+    "line_count": 30,
+    "mean_confidence": 0.9489,
+    "variant_score": 0.7856
+  },
+  "store_name": {
+    "value": "-PASAR MINI JIN SENG",
+    "confidence": 0.99,
+    "raw_text": "-PASAR MINI JIN SENG"
+  },
+  "date": {
+    "value": "2018-03-03",
+    "confidence": 0.8221,
+    "raw_text": "Cashier:CASHIER 03/03/18"
+  },
+  "items": [
+    {
+      "name": "(GST",
+      "price": "0.00",
+      "confidence": 0.8678,
+      "raw_text": "（GST NO.000150511616)"
+    },
+    {
+      "name": "TELUR/TELURNASIN",
+      "price": "16.00",
+      "confidence": 0.9148,
+      "raw_text": "TELUR/TELURNASIN 16.00ZRL"
+    },
+    {
+      "name": "VEGETABLES",
+      "price": "2.40",
+      "confidence": 0.9157,
+      "raw_text": "VEGETABLES 2.40ZRL"
+    },
+    {
+      "name": "GL STEWED PORK 256 G",
+      "price": "1.80",
+      "confidence": 0.8804,
+      "raw_text": "GL STEWED PORK 256G 1.80ZRL"
+    },
+    {
+      "name": "BOTAN IKAN SARDIN 425 G",
+      "price": "6.80",
+      "confidence": 0.8992,
+      "raw_text": "BOTAN IKAN SARDIN 425G 6.80SR"
+    },
+    {
+      "name": "6%GST TL:RM",
+      "price": "33.80",
+      "confidence": 0.9234,
+      "raw_text": "6%GST TL:RM 33.80"
+    }
+  ],
+  "items_confidence": 0.9002,
+  "total_amount": {
+    "value": "0.77",
+    "confidence": 0.6797,
+    "raw_text": "0.77"
+  },
+  "low_confidence_fields": [
+    "total_amount"
+  ],
+  "conflicts": [
+    "Competing total candidate 16.20 from '16.20'",
+    "Competing total candidate 33.80 from '33.80'",
+    "Competing total candidate 33.80 from '6%GST TL:RM 33.80'"
+  ],
+  "notes": []
+}

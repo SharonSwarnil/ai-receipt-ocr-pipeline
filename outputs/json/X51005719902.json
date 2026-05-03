@@ -1,0 +1,91 @@
+{
+  "source_file": "X51005719902.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 52,
+    "line_count": 24,
+    "mean_confidence": 0.9384,
+    "variant_score": 0.7502
+  },
+  "store_name": {
+    "value": "NO.41,JALAN SERI BINTANG 2",
+    "confidence": 0.99,
+    "raw_text": "NO.41,JALAN SERI BINTANG 2"
+  },
+  "date": {
+    "value": "2018-11-03",
+    "confidence": 0.9699,
+    "raw_text": "Inv No :KSB80051978 Date:11/03/18 21:30"
+  },
+  "items": [
+    {
+      "name": "KAYA PUFF",
+      "price": "6.40",
+      "confidence": 0.9109,
+      "raw_text": "201019 KAYA PUFF 4 1.60 0 6.409"
+    },
+    {
+      "name": "S 1 ice Cak",
+      "price": "8.70",
+      "confidence": 0.8866,
+      "raw_text": "231027 S1ice Cak 8.70 8.70 S"
+    },
+    {
+      "name": "101 li 0 Cheese Le",
+      "price": "2.45",
+      "confidence": 0.9015,
+      "raw_text": "101li0 Cheese Le 1 3.5030 2.45S"
+    },
+    {
+      "name": "Cheese Ta",
+      "price": "3.40",
+      "confidence": 0.9062,
+      "raw_text": "251030 Cheese Ta 1 3.40 3.40S"
+    },
+    {
+      "name": "D/R BUTTE",
+      "price": "4.20",
+      "confidence": 0.8524,
+      "raw_text": "171153 D/R BUTTE1 4.20 0 4.208"
+    },
+    {
+      "name": "Qty",
+      "price": "25.15",
+      "confidence": 0.8778,
+      "raw_text": "Qty 8 25.15"
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "0.00",
+      "confidence": 0.9005,
+      "raw_text": "Rounding Adj-0.00"
+    },
+    {
+      "name": "ana",
+      "price": "25.15",
+      "confidence": 0.8297,
+      "raw_text": "ana 25.15"
+    },
+    {
+      "name": "Pay",
+      "price": "25.15",
+      "confidence": 0.9109,
+      "raw_text": "Pay 25.15"
+    }
+  ],
+  "items_confidence": 0.8863,
+  "total_amount": {
+    "value": "1.42",
+    "confidence": 0.6817,
+    "raw_text": "(Total Included GST @ 6%:1.42)"
+  },
+  "low_confidence_fields": [
+    "total_amount"
+  ],
+  "conflicts": [
+    "Competing total candidate 25.15 from 'Pay 25.15'",
+    "Competing total candidate 25.15 from 'Qty 8 25.15'",
+    "Competing total candidate 25.15 from 'ana 25.15'"
+  ],
+  "notes": []
+}

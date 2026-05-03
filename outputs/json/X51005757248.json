@@ -1,0 +1,76 @@
+{
+  "source_file": "X51005757248.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 54,
+    "line_count": 34,
+    "mean_confidence": 0.9576,
+    "variant_score": 0.8467
+  },
+  "store_name": {
+    "value": "3RD FLR, AEON TAMAN MALURI SC",
+    "confidence": 0.9888,
+    "raw_text": "3RD FLR, AEON TAMAN MALURI SC"
+  },
+  "date": {
+    "value": "2018-12-03",
+    "confidence": 0.862,
+    "raw_text": "12/03/2018 13:07 1008 001 0010139"
+  },
+  "items": [
+    {
+      "name": "FRI-SAT:1000 HRS -2300 HRS",
+      "price": "0.20",
+      "confidence": 0.8973,
+      "raw_text": "FRI-SAT:1000 HRS -2300 HRS || 1×000001888854 0.20SR"
+    },
+    {
+      "name": "PLASTICS BAG",
+      "price": "13.94",
+      "confidence": 0.9012,
+      "raw_text": "PLASTICS BAG || 1x 000000616775 13.94ZR"
+    },
+    {
+      "name": "WC H/O H&",
+      "price": "14.81",
+      "confidence": 0.8602,
+      "raw_text": "WC H/O H&F || 1x 000000616775 14.817R"
+    },
+    {
+      "name": "WCW/O H&",
+      "price": "13.53",
+      "confidence": 0.8553,
+      "raw_text": "WCW/O H&F || 1x000000616775 13.53ZR"
+    },
+    {
+      "name": "Sub-total",
+      "price": "42.48",
+      "confidence": 0.9271,
+      "raw_text": "Sub-total 42.48"
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "0.02",
+      "confidence": 0.9143,
+      "raw_text": "Rounding Adj 0.02"
+    },
+    {
+      "name": "SR U 6%",
+      "price": "0.01",
+      "confidence": 0.8711,
+      "raw_text": "SR U 6% 0.19 0.01"
+    }
+  ],
+  "items_confidence": 0.8895,
+  "total_amount": {
+    "value": "0.01",
+    "confidence": 0.99,
+    "raw_text": "Total 42.47 0.01"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 42.50 from 'Total After Adj Inci GST 42.50'",
+    "Competing total candidate 42.48 from 'Total Sales Incl GSI 42.48'"
+  ],
+  "notes": []
+}

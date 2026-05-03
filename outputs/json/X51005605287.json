@@ -1,0 +1,57 @@
+{
+  "source_file": "X51005605287.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 38,
+    "line_count": 23,
+    "mean_confidence": 0.9774,
+    "variant_score": 0.789
+  },
+  "store_name": {
+    "value": "3RD FLR, AEON TAMAN MALURI SC",
+    "confidence": 0.99,
+    "raw_text": "3RD FLR, AEON TAMAN MALURI SC"
+  },
+  "date": {
+    "value": "2018-03-14",
+    "confidence": 0.8834,
+    "raw_text": "14/03/2018 12:43 3009 006 0060035"
+  },
+  "items": [
+    {
+      "name": "VALUED CUST 0 MER",
+      "price": "6.65",
+      "confidence": 0.9032,
+      "raw_text": "VALUED CUST0MER: 1130307913 || 1x 000005469765 6.65SR"
+    },
+    {
+      "name": "TOPVALU FLOOR C",
+      "price": "5.60",
+      "confidence": 0.9033,
+      "raw_text": "TOPVALU FLOOR C || 1x 000001101575 5.60SR"
+    },
+    {
+      "name": "Sub-total",
+      "price": "12.25",
+      "confidence": 0.9292,
+      "raw_text": "Sub-total 12.25"
+    },
+    {
+      "name": "Toial After Adj Incl GST",
+      "price": "12.25",
+      "confidence": 0.9082,
+      "raw_text": "Toial After Adj Incl GST 12.25"
+    }
+  ],
+  "items_confidence": 0.911,
+  "total_amount": {
+    "value": "0.70",
+    "confidence": 0.99,
+    "raw_text": "Total 11.55 0.70"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 12.25 from 'Total Sales Incl GST 12.25'"
+  ],
+  "notes": []
+}

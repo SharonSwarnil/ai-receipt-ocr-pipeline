@@ -1,0 +1,64 @@
+{
+  "source_file": "X51005676541.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 77,
+    "line_count": 35,
+    "mean_confidence": 0.9811,
+    "variant_score": 0.9256
+  },
+  "store_name": {
+    "value": "SYARIKATPERNIAGAANGINKEE",
+    "confidence": 0.99,
+    "raw_text": "SYARIKATPERNIAGAANGINKEE"
+  },
+  "date": {
+    "value": "2018-03-01",
+    "confidence": 0.9839,
+    "raw_text": "DocNo :CS00012514 Date:03/01/2018"
+  },
+  "items": [
+    {
+      "name": "4\"ROLLERSET",
+      "price": "40.28",
+      "confidence": 0.907,
+      "raw_text": "4\"ROLLERSET || 1618 1 40.28 40.28 SR"
+    },
+    {
+      "name": "7 LTTOPLUSEMULSIONPAINT",
+      "price": "36.04",
+      "confidence": 0.9137,
+      "raw_text": "7LTTOPLUSEMULSIONPAINT || 2430 2 18.02 36.04 SR"
+    },
+    {
+      "name": "CEMENT(50 KG)",
+      "price": "4.77",
+      "confidence": 0.9021,
+      "raw_text": "CEMENT(50KG) || 2225 1 4.77 4.77 SR"
+    },
+    {
+      "name": "TotalSales(ExcludingGST)",
+      "price": "89.50",
+      "confidence": 0.9198,
+      "raw_text": "TotalSales(ExcludingGST) 89.50"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.00",
+      "confidence": 0.908,
+      "raw_text": "Rounding : 0.00"
+    }
+  ],
+  "items_confidence": 0.9101,
+  "total_amount": {
+    "value": "5.37",
+    "confidence": 0.99,
+    "raw_text": "Total: 89.50 5.37"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 94.87 from 'Total Qty. 6 94.87'",
+    "Competing total candidate 94.87 from 'Total Sales(Inclusiveof GsT): 94.87'"
+  ],
+  "notes": []
+}

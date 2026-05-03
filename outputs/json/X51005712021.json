@@ -1,0 +1,39 @@
+{
+  "source_file": "X51005712021.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 55,
+    "line_count": 29,
+    "mean_confidence": 0.9742,
+    "variant_score": 0.875
+  },
+  "store_name": {
+    "value": "HAPPYSNACKS ENTERPRISE",
+    "confidence": 0.99,
+    "raw_text": "HAPPYSNACKS ENTERPRISE"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [
+    {
+      "name": "350 PCSFRUITPLUS-APPLE",
+      "price": "12.51",
+      "confidence": 0.91,
+      "raw_text": "350PCSFRUITPLUS-APPLE || 2 SR 9556296307411 1 12.51 12.51"
+    }
+  ],
+  "items_confidence": 0.91,
+  "total_amount": {
+    "value": "26.82",
+    "confidence": 0.99,
+    "raw_text": "Total: 26.82"
+  },
+  "low_confidence_fields": [
+    "date"
+  ],
+  "conflicts": [],
+  "notes": []
+}

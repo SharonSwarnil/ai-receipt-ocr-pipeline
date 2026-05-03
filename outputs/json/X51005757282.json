@@ -1,0 +1,55 @@
+{
+  "source_file": "X51005757282.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 53,
+    "line_count": 31,
+    "mean_confidence": 0.9703,
+    "variant_score": 0.8563
+  },
+  "store_name": {
+    "value": "TSH 'POWER HARDWARE",
+    "confidence": 0.9817,
+    "raw_text": "TSH 'POWER HARDWARE"
+  },
+  "date": {
+    "value": "2017-12-09",
+    "confidence": 0.8185,
+    "raw_text": "e :  12/09/2017 4:42:33 PM"
+  },
+  "items": [
+    {
+      "name": "308#DRAWER",
+      "price": "6.00",
+      "confidence": 0.923,
+      "raw_text": "308#DRAWER 1 6.00 6.00 SR*"
+    },
+    {
+      "name": "AXON GARDEN",
+      "price": "18.00",
+      "confidence": 0.9254,
+      "raw_text": "AXON GARDEN 1 18.00 18.00 SR*"
+    },
+    {
+      "name": ".OCAL SEAL WHITE",
+      "price": "0.50",
+      "confidence": 0.9151,
+      "raw_text": ".OCAL SEAL WHITE 1 0.50 0.50 SR*"
+    },
+    {
+      "name": "Round Amt",
+      "price": "0.00",
+      "confidence": 0.9288,
+      "raw_text": "Round Amt: 0.00"
+    }
+  ],
+  "items_confidence": 0.9231,
+  "total_amount": {
+    "value": "24.50",
+    "confidence": 0.99,
+    "raw_text": "NET TOTAL : 24.50"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

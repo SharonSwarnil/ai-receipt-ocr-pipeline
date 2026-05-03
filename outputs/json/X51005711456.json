@@ -1,0 +1,88 @@
+{
+  "source_file": "X51005711456.jpg",
+  "ocr_summary": {
+    "variant_used": "binary",
+    "token_count": 75,
+    "line_count": 39,
+    "mean_confidence": 0.9759,
+    "variant_score": 0.9438
+  },
+  "store_name": {
+    "value": "SUSHI MENTAI - MAHKOTA CHERAS",
+    "confidence": 0.99,
+    "raw_text": "SUSHI MENTAI - MAHKOTA CHERAS"
+  },
+  "date": {
+    "value": "2018-03-31",
+    "confidence": 0.9701,
+    "raw_text": "Date : 31-03-2018 18:12:41"
+  },
+  "items": [
+    {
+      "name": "B 1 Green Tea",
+      "price": "2.00",
+      "confidence": 0.9067,
+      "raw_text": "B1 Green Tea || 2 x 1.00 2.00 SR"
+    },
+    {
+      "name": "N 8 Shiro Ramen",
+      "price": "12.80",
+      "confidence": 0.884,
+      "raw_text": "N8 Shiro Ramen || 1x 12.80 12.80 SR"
+    },
+    {
+      "name": "R 9 Unagi Don",
+      "price": "19.80",
+      "confidence": 0.8879,
+      "raw_text": "R9 Unagi Don || 1x 19.80 19.80 SR"
+    },
+    {
+      "name": "F 8 Tori Karaage",
+      "price": "8.80",
+      "confidence": 0.9115,
+      "raw_text": "F8 Tori Karaage || .1x 8.80 8.80 SR"
+    },
+    {
+      "name": "SB 01 Sushi Yellow",
+      "price": "7.20",
+      "confidence": 0.8843,
+      "raw_text": "SB01 Sushi Yellow || 4 x 1.80 7.20 SR"
+    },
+    {
+      "name": "SB 02 Sushi Red",
+      "price": "5.60",
+      "confidence": 0.8877,
+      "raw_text": "SB02 Sushi Red || 2 x 2.80 5.60 SR"
+    },
+    {
+      "name": "Serv. Charge (10 x)",
+      "price": "5.62",
+      "confidence": 0.9217,
+      "raw_text": "Serv. Charge (10x): 5.62"
+    },
+    {
+      "name": "GST Payable",
+      "price": "3.71",
+      "confidence": 0.923,
+      "raw_text": "GST Payable: 3.71"
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "0.02",
+      "confidence": 0.926,
+      "raw_text": "Rounding Adj: 0.02"
+    }
+  ],
+  "items_confidence": 0.9036,
+  "total_amount": {
+    "value": "65.55",
+    "confidence": 0.99,
+    "raw_text": "TOTAL: 65.55"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 65.53 from 'Total (Inclusive of GST): 65.53'",
+    "Competing total candidate 56.20 from 'Total (Excluding GST): 56.20'"
+  ],
+  "notes": []
+}

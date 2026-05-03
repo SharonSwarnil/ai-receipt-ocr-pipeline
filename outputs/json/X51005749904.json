@@ -1,0 +1,43 @@
+{
+  "source_file": "X51005749904.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 38,
+    "line_count": 23,
+    "mean_confidence": 0.9493,
+    "variant_score": 0.7828
+  },
+  "store_name": {
+    "value": "SWC ENTERPRISE SDN BHD",
+    "confidence": 0.99,
+    "raw_text": "SWC ENTERPRISE SDN BHD"
+  },
+  "date": {
+    "value": "2018-06-03",
+    "confidence": 0.8331,
+    "raw_text": "06/03/2018 Cashier:123"
+  },
+  "items": [
+    {
+      "name": "TM 621 1.5\"B/CAT NYLON",
+      "price": "2.00",
+      "confidence": 0.8836,
+      "raw_text": "TM621 1.5\"B/CAT NYLON || OLS 23 B621-1 1 2.00 2.00"
+    },
+    {
+      "name": "OPP TAPE 1.5\"",
+      "price": "2.00",
+      "confidence": 0.9078,
+      "raw_text": "OPP TAPE 1.5\" 1 2.00 2.00"
+    }
+  ],
+  "items_confidence": 0.8957,
+  "total_amount": {
+    "value": "4.00",
+    "confidence": 0.99,
+    "raw_text": "TOTAL AMOUNT 4.00"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [],
+  "notes": []
+}

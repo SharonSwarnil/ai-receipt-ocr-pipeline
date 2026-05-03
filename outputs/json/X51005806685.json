@@ -1,0 +1,63 @@
+{
+  "source_file": "X51005806685.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 49,
+    "line_count": 26,
+    "mean_confidence": 0.9773,
+    "variant_score": 0.8305
+  },
+  "store_name": {
+    "value": "ADVANCO COMPANY",
+    "confidence": 0.99,
+    "raw_text": "ADVANCO COMPANY"
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [
+    {
+      "name": "CANON PG-47 BKE 400 BLACKFINE( SR",
+      "price": "29.00",
+      "confidence": 0.8962,
+      "raw_text": "CANON PG-47BKE400 BLACKFINE( SR || 127736 29.00 29.00"
+    },
+    {
+      "name": "Type. 1 Total",
+      "price": "29.00",
+      "confidence": 0.919,
+      "raw_text": "Type. 1 Total 29.00"
+    },
+    {
+      "name": "Rounding Adj",
+      "price": "0.00",
+      "confidence": 0.893,
+      "raw_text": "Rounding Adj 0.00"
+    },
+    {
+      "name": "TotalInclusive GST",
+      "price": "29.00",
+      "confidence": 0.8969,
+      "raw_text": "TotalInclusive GST: 29.00"
+    },
+    {
+      "name": "Code % Net Amt GST Total",
+      "price": "29.00",
+      "confidence": 0.8975,
+      "raw_text": "Code % Net Amt GST Total || SR 6% 27.36 1.64 29.00"
+    }
+  ],
+  "items_confidence": 0.9005,
+  "total_amount": {
+    "value": "29.00",
+    "confidence": 0.99,
+    "raw_text": "Total 27.36 1.64 29.00"
+  },
+  "low_confidence_fields": [
+    "date"
+  ],
+  "conflicts": [],
+  "notes": []
+}

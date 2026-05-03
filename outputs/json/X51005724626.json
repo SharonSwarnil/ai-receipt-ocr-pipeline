@@ -1,0 +1,58 @@
+{
+  "source_file": "X51005724626.jpg",
+  "ocr_summary": {
+    "variant_used": "enhanced",
+    "token_count": 84,
+    "line_count": 39,
+    "mean_confidence": 0.9756,
+    "variant_score": 0.9407
+  },
+  "store_name": {
+    "value": "KEDAIPAPANYEWCHUAN",
+    "confidence": 0.99,
+    "raw_text": "KEDAIPAPANYEWCHUAN"
+  },
+  "date": {
+    "value": "2018-02-04",
+    "confidence": 0.9812,
+    "raw_text": "Doc No. ：CS00011384 Date:02/04/2018"
+  },
+  "items": [
+    {
+      "name": "NO 1 JALANAMAN",
+      "price": "45.20",
+      "confidence": 0.9064,
+      "raw_text": "NO1JALANAMAN2 45.20"
+    },
+    {
+      "name": "PYE 921 PLASTER",
+      "price": "15.90",
+      "confidence": 0.9133,
+      "raw_text": "PYE921PLASTER || 100160 5 3.00 3.18 15.90 SR"
+    },
+    {
+      "name": "KAPURAIR(A 1)",
+      "price": "6.36",
+      "confidence": 0.8969,
+      "raw_text": "KAPURAIR(A1) || 101275 3 2.00 2.12 6.36 SR"
+    },
+    {
+      "name": "Rounding",
+      "price": "0.00",
+      "confidence": 0.8993,
+      "raw_text": "Rounding : 0.00"
+    }
+  ],
+  "items_confidence": 0.904,
+  "total_amount": {
+    "value": "15.30",
+    "confidence": 0.99,
+    "raw_text": "Total : 255.00 15.30"
+  },
+  "low_confidence_fields": [],
+  "conflicts": [
+    "Competing total candidate 270.30 from 'Total Qty: 21 270.30'",
+    "Competing total candidate 270.30 from 'Total Sales (Inclusive of GsT) : 270.30'"
+  ],
+  "notes": []
+}

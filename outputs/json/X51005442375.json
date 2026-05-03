@@ -1,0 +1,61 @@
+{
+  "source_file": "X51005442375.jpg",
+  "ocr_summary": {
+    "variant_used": "original",
+    "token_count": 38,
+    "line_count": 14,
+    "mean_confidence": 0.9282,
+    "variant_score": 0.7373
+  },
+  "store_name": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "date": {
+    "value": null,
+    "confidence": 0.0,
+    "raw_text": null
+  },
+  "items": [
+    {
+      "name": "SRI 0010000060-4 Vege",
+      "price": "5.50",
+      "confidence": 0.8958,
+      "raw_text": "SRI0010000060-4Vege $5.50 Qty"
+    },
+    {
+      "name": "$3.00 SR 100100000057-Frled Noodle(L) Total",
+      "price": "5.50",
+      "confidence": 0.8622,
+      "raw_text": "$3.00 SR 100100000057-Frled Noodle(L) Total || 1 $5.50"
+    },
+    {
+      "name": "Payment Mode TotalAmount",
+      "price": "3.00",
+      "confidence": 0.9059,
+      "raw_text": "Payment Mode TotalAmount:$8.50 $3.00"
+    },
+    {
+      "name": "SR-GST 6%",
+      "price": "8.50",
+      "confidence": 0.8919,
+      "raw_text": "SR-GST@6% $0.00 $8.50"
+    }
+  ],
+  "items_confidence": 0.8889,
+  "total_amount": {
+    "value": "8.02",
+    "confidence": 0.6532,
+    "raw_text": "GST REG#000656195584 8.02 Tax(s)"
+  },
+  "low_confidence_fields": [
+    "store_name",
+    "date",
+    "total_amount"
+  ],
+  "conflicts": [
+    "Competing total candidate 0.46 from 'BARWANG RICE@PERMASJAYA (Price Inclusive Of GST) 0.46'"
+  ],
+  "notes": []
+}
