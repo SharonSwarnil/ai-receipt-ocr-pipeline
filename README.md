@@ -14,14 +14,14 @@ This project focuses on the part that usually gets messy in the real world: rece
 
 ## Pipeline at a glance
 
-```mermaid
-flowchart LR
-    A["Receipt image"] --> B["Preprocessing"]
-    B --> C["Multiple OCR variants"]
-    C --> D["Best OCR result selection"]
-    D --> E["Field extraction"]
-    E --> F["Per-receipt JSON"]
-    F --> G["Summary + validation"]
+```text
+Receipt image
+  -> preprocessing
+  -> OCR on multiple image variants
+  -> best result selection
+  -> field extraction
+  -> per-receipt JSON
+  -> summary and validation
 ```
 
 ## What the project does
@@ -63,6 +63,7 @@ Most receipt OCR demos work on clean examples. This repo is closer to the kind o
 - `docs/next_steps.md`: ideas for taking the project further
 - `outputs/summary.json`: latest full-run summary
 - `outputs/samples/`: a few sample receipt JSON outputs
+- `outputs/OUTPUTS.md`: short note about what is included in the repo
 
 ## Quick start
 
