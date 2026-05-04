@@ -1,10 +1,30 @@
 # Receipt OCR Pipeline
 
-This repo is a small document-AI project that turns messy receipt images into structured JSON and a spend summary.
+A practical OCR pipeline that turns receipt images into structured JSON with confidence scoring, validation checks, and spend summaries.
 
-I built it to handle the kind of problems that show up in real OCR work: skewed scans, low-contrast photos, mixed receipt layouts, noisy merchant names, and totals that are not always easy to spot. The pipeline does not train a custom model. Instead, it combines image cleanup, OCR, parsing rules, and confidence checks so the full flow is easy to rerun and inspect.
+This project focuses on the part that usually gets messy in the real world: receipts with skew, blur, weak contrast, odd layouts, noisy headers, and totals that compete with tax, cash, or subtotal lines. Instead of treating OCR as a one-step problem, the pipeline cleans the image, tests multiple OCR-ready variants, extracts fields with targeted rules, and flags the uncertain cases for review.
 
-## What it does
+## Highlights
+
+- Processed `371` receipt images end to end
+- Recovered totals for `370` receipts
+- Generated per-receipt JSON plus an aggregate spend summary
+- Added confidence scoring and low-confidence flags for manual review
+- Built direct dataset download and output validation scripts for reproducibility
+
+## Pipeline at a glance
+
+```mermaid
+flowchart LR
+    A["Receipt image"] --> B["Preprocessing"]
+    B --> C["Multiple OCR variants"]
+    C --> D["Best OCR result selection"]
+    D --> E["Field extraction"]
+    E --> F["Per-receipt JSON"]
+    F --> G["Summary + validation"]
+```
+
+## What the project does
 
 - preprocesses receipt images before OCR
 - runs OCR with `rapidocr-onnxruntime`
@@ -13,25 +33,36 @@ I built it to handle the kind of problems that show up in real OCR work: skewed 
 - builds an overall expense summary
 - flags low-confidence fields for manual review
 
-## Why this project is useful
+## Tech stack
 
-Most receipt OCR demos work on clean examples and break down quickly once the input gets a little messy. This project tries to be more practical:
+- Python
+- RapidOCR with ONNX Runtime
+- OpenCV
+- Pillow
+- python-dateutil
+- unittest
 
-- it tests multiple image variants and picks the strongest OCR result
-- it uses field-specific extraction logic instead of one generic parser
-- it keeps confidence scores next to the extracted values
-- it separates generation and validation, which makes debugging easier
+## Why I built it this way
+
+Most receipt OCR demos work on clean examples. This repo is closer to the kind of pipeline I would want if I actually had to debug messy receipts in production.
+
+- multiple image variants instead of trusting one preprocessing pass
+- field-specific extractors instead of one generic parser
+- confidence scores attached to extracted values
+- validation scripts so bad outputs are easy to spot quickly
+- store-name filtering to remove noisy labels like `TAX INVOICE` and `POSTED`
 
 ## Project structure
 
 - `main.py`: entry point for the full pipeline
 - `scripts/download_dataset.py`: downloads the dataset from Google Drive
-- `scripts/validate_outputs.py`: checks the generated outputs for missing and low-confidence fields
+- `scripts/validate_outputs.py`: checks for missing and low-confidence fields
 - `src/receipt_ocr/`: preprocessing, OCR, extraction, and summary code
 - `tests/`: unit tests for parsing logic
 - `docs/approach.md`: project notes and design choices
-- `docs/next_steps.md`: what I would improve next
-- `outputs/`: generated JSON files and the final summary
+- `docs/next_steps.md`: ideas for taking the project further
+- `outputs/summary.json`: latest full-run summary
+- `outputs/samples/`: a few sample receipt JSON outputs
 
 ## Quick start
 
@@ -45,61 +76,11 @@ python scripts/validate_outputs.py
 python -m unittest discover -s tests
 ```
 
-If you already have outputs and just want to continue without reprocessing everything:
+If outputs already exist and you just want to resume:
 
 ```powershell
 python main.py --input dataset --output outputs --skip-existing
 ```
-
-## Step by step
-
-### 1. Install dependencies
-
-```powershell
-python -m pip install -r requirements.txt
-```
-
-### 2. Download the dataset
-
-```powershell
-python scripts/download_dataset.py
-```
-
-The downloader fetches each file directly instead of relying on a single folder export, which helps avoid partial downloads.
-
-### 3. Run the OCR pipeline
-
-```powershell
-python main.py --input dataset --output outputs
-```
-
-This creates:
-
-- `outputs/json/*.json`
-- `outputs/summary.json`
-
-### 4. Validate the run
-
-```powershell
-python scripts/validate_outputs.py
-python -m unittest discover -s tests
-```
-
-This gives a quick check on:
-
-- output file count
-- files missing totals
-- files missing store names
-- files with low-confidence fields
-- parser test coverage
-
-## How the pipeline works
-
-1. Each receipt image is cleaned up with resizing, deskewing, contrast enhancement, denoising, and thresholding.
-2. OCR runs on multiple processed variants of the same image.
-3. The best OCR result is selected using confidence and text coverage.
-4. The extracted text is grouped into lines and parsed into store name, date, items, and total.
-5. A JSON file is written for each receipt, then a summary file is generated for the whole dataset.
 
 ## Confidence scoring strategy
 
@@ -112,15 +93,11 @@ Confidence scores are computed using:
 
 Fields with confidence below `0.7` are flagged for manual review.
 
-## About training
+## Sample output
 
-There is no fine-tuning step in this repo.
+The repo includes a few representative JSON outputs under `outputs/samples/`.
 
-The project is built around OCR, preprocessing, and rule-based extraction. For this kind of dataset, that was enough to get a solid baseline while keeping the pipeline simple to run and inspect.
-
-## Example output
-
-Each receipt produces a JSON file like this:
+Each receipt produces a structure like this:
 
 ```json
 {
@@ -151,9 +128,9 @@ Each receipt produces a JSON file like this:
 }
 ```
 
-## Current run snapshot
+## Current results
 
-On the current full dataset run in this repo:
+On the latest full run in this repo:
 
 - `371` receipts were processed
 - `370` receipts had a recovered total
@@ -161,13 +138,10 @@ On the current full dataset run in this repo:
 - `122` receipts were flagged for at least one low-confidence field
 - `6.JPG` is the only file still missing a total
 
-Generated files:
+The full summary is available in `outputs/summary.json`.
 
-- `outputs/json/`
-- `outputs/summary.json`
+## Notes
 
-## A couple of practical notes
-
+- There is no fine-tuning step in this repo. The project is built around OCR, preprocessing, and rule-based extraction.
 - I added `scripts/download_dataset.py` after hitting an incomplete Google Drive folder download on an earlier pass.
-- I tightened store-name filtering after seeing noisy labels like `TAX INVOICE`, `POSTED`, and `TOTAL` show up as merchants in early runs.
 - Some OCR noise still remains on difficult receipts, but the low-confidence flags make those cases easy to find.

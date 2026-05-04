@@ -8,6 +8,7 @@ __pycache__/
 .coverage
 coverage.xml
 dataset/
+outputs/json/
 outputs/visuals/
 AI_OCR_submission.zip
 .vscode/
